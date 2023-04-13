@@ -14,4 +14,4 @@ python pretrained_embedding.py -pretrained_embedding="C:\Users\goelm\Downloads\g
 echo ------------Begin training---------------------------
 python graph2tree.py
 echo -----------------------------------------------------
-python sample_valid.py 
+python sample_valid.py
