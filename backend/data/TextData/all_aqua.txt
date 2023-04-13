@@ -1,0 +1,981 @@
+Two friends plan to walk along a 43-km trail, starting at opposite ends of the trail at the same time. If Friend P's rate is 15% faster than Friend Q's, how many kilometers will Friend P have walked when they pass each other?
+In the coordinate plane, points (x, 1) and (5, y) are on line k. If line k passes through the origin and has slope 1/5, then what are the values of x and y respectively?
+For all numbers p and q, the operation @ is defined by p@q = p^2 - pq. If xy ≠ 0, then which of the following can be equal to zero?
+Carl is facing very difficult financial times and can only pay the interest on a $10,000 loan he has taken. The bank charges him a quarterly compound rate of 4%. What is the approximate interest he pays annually?
+The speed at which a man can row a boat in still water is 25 kmph. If he rows downstream, where the speed of current is 11 kmph, what time will he take to cover 80 metres?
+There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, what is the value of k?
+If (x^2 + 4x - 11)/5 ≤ x + 1, then x could be represented by which of the following?
+Find the smallest number of five digits exactly divisible by 22,33,66 and 44.
+The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. How much money does Joe end up spending at the fair?
+If X and Y are digits and 8XY is a 3-digit number that is divisible by 2, which of the following is a possible product of X and Y?
+If Tim had lunch at $50 and he gave 20% tip, how much did he spend?
+Rs. 825 becomes Rs. 956 in 3 years at a certain rate of simple interest.If the rate of interest is increased by 4% ,What amount will Rs. 825 become in 3 years ?
+q is a positive integer and multiple of 2; p = 4^q, what is the remainder when p is divided by 10?
+If q is the square of a positive integer, which of the following must be equal to the square of the next positive integer?
+Rs. 5600 is divided into three parts A, B and C. How much A is more than C if their ratio is 1/7:1/7:1/14?
+If a/b=3/4 and 8a+5b=22,then find the value of a.
+Given that k/l < 1, and both k and l are positive integers, which one of the following must be greater than 1?
+Mike took 5 mock tests before appearing for the GMAT. In each mock test he scored 10 points more than the previous mock test. If he scored 760 on the GMAT and his average score for the mocks and the GMAT was 716.67, what was the difference in the score of his last mock and his GMAT score?
+John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of number is?
+A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
+The first five numbers in a regular sequence are 4, 10, X, 46, and 94. What is x ?
+Tim has 350 pounds of cement in 100, 50, and 25 pound bags. He has an equal number of each size bag. How many bags of cement does Tim have?
+What is the least value of x, So that 2x5475 is divisible by 9
+Square P is inscribed in circle Q. If the perimeter of P is 40, what is the circumference of Q?
+A debtor reached an agreement with his creditor to repay a loan by making a monthly payment which is double of the amount she paid the previous month. If the debtors first payment was $200, and he is expected to pay back 51200, how many months will it take to fully repay the loan?
+A school currently maintains a fixed number of students per class. If the ratio of students per class were to be increased by 1, 10 fewer classes would be run for a total of 120 students. What is the current ratio Q of students per class?
+A survey reveals that the average income of a company’s customers is $45,000 per year. If 50 customers respond to the survey and the average income of the wealthiest 10 of those customers is $95,000, what is the average income of the other 40 customers?
+The slant height of a cone is 35 cm and radius of the base is 14cm, find the curved surface of the cone.
+A cheese factory sells its cheese in rectangular blocks. A normal block has a volume of 8 cubic feet. If a small block has half the width, half the depth, and half the length of a normal block, what is the volume of cheese in a small block in cubic feet?
+In a new housing development, trees are to be planted along the sidewalk of a certain street. Each tree takes up one square foot of sidewalk space, and there are to be 20 feet between each tree. How many trees can be planted if the road is 148 feet long?
+What will be the difference in simple and compound interest on 2000 after three years at the rate of 10 percent per annum?
+A $500 investment and a $1,500 investment have a combined yearly return of 19 percent of the total of the two investments. If the $500 investment has a yearly return of 7 percent, what percent yearly return does the $1,500 investment have?
+Find the constant k so that : -x2 - (k + 11)x - 8 = -(x - 2)(x - 4)
+A positive whole number has factors of 3 and 5. The number MUST be divisible by: I. 15 II. 30 III. 60
+Krishan and Nandan jointly started a business. Krishan invested six times as Nandan did and invested his money for double time as compared to Nandan. Nandan earned Rs. 6000. If the gain is proportional to the money invested and the time for which the money is invested then the total gain was?
+There are 8 players in a chess group, and each player plays each of the others once. Given that each game is played by two players, how many total games will be played?
+A pipe takes a hours to fill the tank. But because of a leakage it took 2 times of its original time. Find the time taken by the leakage to empty the tank
+Today is 22 days before Mariah's graduation. If she graduates on a Friday, what day of the week is it today?
+Suppose a, b, and c are positive integers with a < b < c such that
+The age of man is three times the sum of the ages of his two sons.Four years hence,his age will be double of the sum of the ages of his sons.The fatherâ€™s present age is :
+A bottle of coke contains 200gm in place of 1kg of fluid. Find the actual % difference, given a 10% gain on initial fluid?
+A person can walk at a constant rate of 8mph and can bike at a rate of 16mph. If he wants to travel 64 miles in 8 hours using bike and walking at their constant rates, how much distance would he require to walk?
+5358 x 51 = ?
+3 persons (1 couple and 1 single) are seated at random in a row of 5 chairs. What is the probability that the couple does not sit together?
+In a recent survey at a local deli, it was observed that 3 out of 5 customers bought a bagel and 5 out of 7 customers bought a coffee. Some customers bought both. If 8 customers are selected, what are the chances that at least 1 customer bought a coffee and a bagel?
+|x+3| – |4-x| = |8+x| How many S solutions will this equation have?
+The output of a factory was increased by 10% to keep up with rising demand. To handle the holiday rush, this new output was increased by 20%. By approximately what percent would the output now have to be decreased in order to restore the original output?
+In a graduate physics course, 70 percent of the students are male and 30 percent of the students are married. If two-sevenths of the male students are married, what fraction of the male students is single?
+The cost of painting the whole surface area of a cube at the rate of 13 paise per Sq.cm is Rs. 343.98. Then the volume of the cube is
+A man sold 20 articles for $60 and gained 20%. How many articles should he sell for $50 to incur a loss 20%?
+A man invests some money partly in 9% stock at 96 and partly in 12% stock at 120. To obtain equal dividends from both, he must invest the money in the ratio:
+A, B, C rent a pasture. A puts 10 oxen for 7 months, B puts 12 oxen for 5 months and C puts 15 oxen for 3 months for grazing. If the rent of the pasture is Rs. 175, how much must C pay as his share of rent?
+A train 500 m long can cross an electric pole in 20 sec and then find the speed of the train?
+The smallest number when increased by " 1 " is exactly divisible by 6,9,15,35,45 is:
+How many keystrokes are needed to type the numbers from 1 to 500?
+In a two-digit number, the digit in the unit's place is four times the digit in ten's place and the sum of the digits is equal to 10. What is the number?
+The edge of a cube is 7a cm. Find its surface?
+A shop sells chocolates It is used to sell chocolates for Rs.2 each but there were no sales at that price.When it reduced the price all the chocolates sold out enabling the shopkeeper to realize Rs 164.90 from the chocolates alone If the new price was not less than half the original price quoted How many chocolates were sold?
+A board 7ft. 9 inches long is divided into 3 equal parts . What is the length of each part?
+Find the number of zeroes in the expression 15*32*25*22*40*75*98*112*125
+The diagonals of a rhombus are 18 cm and 22 cm. Find its area?
+If rupee one produces rupees nine over a period of 40 years, find the rate of simple interest?
+A and B invests Rs.6000 and Rs.12000 in a business. After 4 months, A withdraws half of his capital and 2 months later, B withdraws one-third of his capital. In what ratio should they share the profits at the end of the year?
+A train covers a distance of 10km in 10 min. If it takes 6 sec to pass a telegraph post, then the length of the train is?
+The rental charge for a car is 34 cents for the first 1/4 mile driven and 6 cents for every 1/5 mile driven over the initial 1/4 mile. If a man paid $1.24 in rental charges, how many miles did he drive?
+A question paper consists of three sections 4,5 and 6 questions respectively. Attempting one question from each section is compulsory but a candidate need not attempt all the questions. In how many ways can a candidate attempt the questions?
+10 women can complete a work in 9 days and 10 children take 12 days to complete the work. How many days will 6 women and 7 children take to complete the work?
+Three numbers are in the ratio 5 : 6 : 7. The sum of its longest and smallest numbers equals the sum of the third number and 54. Find the third number?
+At the end of a business conference the nine people present all shake hands with each other once. How many handshakes will there be altogether ?
+Sum of the squares of three numbers is 351 and the sum of their products taken two at a time is 245. Find the sum?
+What is the are of an equilateral triangle of side 16 cm?
+Each of the following equations W has at least one solution EXCEPT
+If the population of a certain country increases at the rate of one person every 40 seconds, by how many persons does the population increase in 1 hour?
+A train crosses a platform of 120 m in 15 sec, same train crosses another platform of length 180 m in 18 sec. then find the length of the train?
+Find the area of a rhombus whose side is 25 cm and one of the diagonals is 30 cm?
+How long does a train 110 m long running at the speed of 72 km/hr takes to cross a bridge 132 m length?
+The consumption of diesel per hour of a bus varies directly as square of its speed. When the bus is travelling at 60 kmph its consumption is 1 litre per hour. if each litre costs $60 and other expenses per hous is $ 60, then what would be the minimum expenditure required to cover a distance of 600 Km?
+From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. What is the probability of having 0 woman in committee ?
+A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that exactly three bulbs are good.?
+A train passes a station platform in 32 sec and a man standing on the platform in 20 sec. If the speed of the train is 54 km/hr. What is the length of the platform?
+If |w|=−w, which of the following must be true?
+Two numbers are less than third number by 30% and 37% respectively. How much percent is the second number less than by the first
+How many numbers from 39 to 79 are exactly divisible by 11?
+It is found that the volume of a cube is numerically equal to its surface area. Then the measure of its edge in meters is:
+if there are 30 cans out of them one is poisned if a person tastes very little he will die within 14 hours so if there are mice to test and 24 hours to test, how many mices are required to find the poisned can?
+How long does a train 165 meters long running at the rate of 72 kmph take to cross a bridge 660 meters in length?
+A particular store purchased a stock of turtleneck sweaters and marked up its cost by 20%. During the New Year season, it further marked up its prices by 25% of the original retail price. In February, the store then offered a discount of 15%. What was its profit on the items sold in February?
+Half of 2 percent written as decimal is
+If books bought at prices ranging from Rs. 98 to Rs. 195 are sold at prices ranging from Rs. 120 to Rs 215, what is the greatest possible profit that might be made in selling 13 books ?
+Two trains A and B starting from two points and travelling in opposite directions, reach their destinations 9 hours and 4 hours respectively after meeting each other. If the train A travels at 60kmph, find the rate at which the train B runs.
+I bought three toys for my triplet boys (one for each). I placed the toys in the dark store. One by one each boy went to the store and pick the toy. What is the probability that no boy will choose his own toy?
+A man, a woman and a boy can complete a job in 3 days, 4 days and 12 days respectively. How many boys must assist 1 man and 1 woman to complete the job in 1/4th of a day?
+At present, the ratio between the ages of Amit and Dhiraj is 5 : 4. After 6 years, Amit’s age will be 26 years. What is the age of Dhiraj at present?
+A and B invests Rs.3000 and Rs.4000 respectively in a business. If A doubles his capital after 6 months. In what ratio should A and B divide that year's profit?
+If x-y=10, which of the following must be true?
+If each side of a square is increased by 25%, find the percentage change in its area?
+If the sum and difference of two numbers are 20 and 8 respectively, then the difference of their square is:
+If $500 is deposited into a savings account at an annual interest rate of 5% that compounds monthly, what is the value of the investment after 10 years?
+Two jars contain milk and water in the ratio 5: 4 and 2: 1 regpectively. What volume should be taken out from the first jar if volumes have to be taken out from both jars so as to fill up a third 30 l jar with milk to water in the ratio 1: 1 ?
+A clock shows the time as 9 a.m. If the minute hand gains 5 minutes every hour, how many minutes will the clock gain by 5 p.m.?
+At a Supermarket a certain item has increased from 72 cents per pound to 78 cents per pound. What is the % increase in the cost of item?
+How many positive 5-digit integers have the odd sum E of their digits?
+There are different 15 circles. What is the number of the greatest possible points with which the circles intersect?
+B completes a work in 9 days. A alone can do it in 10 days. If both work together, the work can be completed in how many days?
+A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?
+A car is running at a speed of 96kmph. What distance will it cover in 14sec?
+The average of 6 observations is 11. A new observation is included and the new average is decreased by 1. The seventh observation is?
+The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is :
+If a + b = y and a - b = z , then 3ab =
+If two numbers are in the ratio 2:3. If 10 is added to both of the numbers then the ratio becomes 3:4 then find the smallest number?
+A batsman in his 12th innings makes a score of 65 and thereby increases his average by 2 runs. What is his average after the 12th innings if he had never been ‘not out’?
+In a division sum, the remainder is 6 and the divisor is 5 times the quotient and is obtained by adding 7 to the thrice of the remainder. The dividend is
+The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 55 kg. What might be the weight of the new person?
+Amy has to visit towns B and C in any order. The roads connecting these towns with her home are shown on the diagram. How many different routes can she take starting from A and returning to A, going through both B and C (but not more than once through each) and not travelling any road twice on the same trip?
+Incomes of two companies A and B are in the ratio of 5 : 8. Had the income of company A been more by 25 lakh, the ratio of their incomes would have been 5 : 4. What is the income of company B?
+The area of a triangle will be when a = 1m, b = 2m, c = 3m, a, b, c being lengths of respective sides.
+P and Q started a business investing Rs. 85,000 and Rs. 30,000 respectively. In what ratio the profit earned after 2 years be divided between P and Q respectively?
+A and B are playing mathematical puzzles. A asks B "which whole numbers, greater than one, can divide all the nine three digit numbers 111,222,333,444,555,666, 777,888 and 999?"
+A 1200 m long train crosses a tree in 120 sec, how much time will I take to pass a platform 700 m long?
+In how many different ways can the letters of the word ‘ARMOUM’ be arranged?
+Which digits should come in place of @ and # if the number 62684@# is divisible by both 8 and 5?
+A train 125 m long passes a man, running at 1 km/hr in the same direction in which the train is going, in 10 sec. The speed of the train is?
+A work which could be finished in 8 days was finished 3 days earlier after 10 more men joined. The number of men employed was?
+Each digit in the two-digit number G is halved to form a new two-digit number H. Which of the following could be the sum of G and H
+The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:
+Renu can do a piece of work in 8 days, but with the help of her friend Suma , she can do it in 4 days. In what time Suma can do it alone?
+The security gate at a storage facility requires a Six-digit lock code. If the lock code must consist only of digits from 1 through 9, inclusive, with no repeated digits, and the first and last digits of the code must be odd, how many lock codes are possible?
+If by selling an article for Rs.60, a person loses 1/7 of money, what would he have gained or lost % by selling it for Rs.77?
+If a light flashes every 6 seconds, how many times will it flash in ¾ of an hour?
+some digits were given like 0 2 2 3 3 4 4 then how many no will be there which is greater than 1 lac ,all numbers are distinct
+A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:
+Each of the following equations has at least one solution EXCEPT D. Is it true?
+10 people went to a hotel for combine dinner party 5 of them spent Rs. 20 each on their dinner and rest spent 4 more than the average expenditure of all the 10. What was the total money spent by them.
+If x is the product of the integers from 1 to 150, inclusive, and 5^y is a factor of x, what is the greatest possible value of y ?
+X completes a work in 20 days and Y complete the same work in 30 days. If both of them work together, then the number of days required to complete the work will be?
+A chair is bought for Rs.300/- and sold at Rs.420/- find gain or loss percentage
+What is the least number to be subtracted from 696 to make it a perfect square?
+There are 8 books on a shelf, of which 2 are paperbacks and 6 are hardbacks. How many possible selections of 3 books from this shelf include at least one paperback?
+If a sum of money doubles itself in 20 years at simple interest, the ratepercent per annum is
+In a fuel station the service costs $1.15 per car, every liter of fuel costs 0.4$. Assuming that you own 2 sports cars and 2 executive cars and all fuel tanks are empty. How much will it cost to fuel all cars together if a sports car tank is 32 liters and an executive car tank is 75% bigger?
+Choose the missing terms out of the given alternatives.
+Company Z spent 1/4 of its revenues last year on marketing and 1/7 of the remainder on maintenance of its facilities. What fraction of last year’s original revenues did company Z have left after its marketing and maintenance expenditures?
+A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?
+What is the scope including 1/21+1/22+1/23+......+1/30?
+Company A has 13 employees, 9 of whom belong to the union. If 5 people work any one shift, and the union contract specifies that at least 4 union members work each shift, then how many different combinations of employees might work any given shift?
+A bag contains 5 red, 2 green balls. 3 balls are drawn randomly. What is the probability that balls drawn contain exactly two green balls?
+A woman complete a journey in 20 hours. She travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km.
+The average height in a group of 4 people is 175 cm. If the average height increased when 2 more people were added to the group, which of the following cannot be the heights of the two new people?
+The sum of the present ages of two persons A and B is 60. If the age of A is twice that of B, find the sum of their ages 5 years hence?
+Find the number which when multiplied by 15 is increased by 196.
+A number X equals 80% of the average of 5, 7, 14 and a number Y. If the average of X and Y is 26, the value of Y is?
+A man covers a distance on scooter. Had he moved 3kmph faster he would have taken 40 min less. If he had moved 2kmph slower, he would have taken 40min more. The distance is.
+The number of livestock in a farm at the beginning of year 2000 was 130,000. During the year, the number increased by p%. During the next year 2001, there was a famine and the number decreased by q%. A census at the end of year 2001 revealed that the number of livestock in the farm was 130,000. Which of the following expressions is correct?
+If 3 men or 4 women can reap a field in 10 days how long will 5 men and 6 women take to reap it?
+What is the greatest possible value of integer n if 100! is divisible by 15^n
+Find the invalid no.from the following series 15, 16, 34, 105, 424, 2124, 12756
+On Monday, a certain animal shelter housed 45 cats and dogs. By Friday, 1/5 of the cats and 1/4 of the dogs had been adopted; no new cats or dogs were brought to the shelter during this period. What is the greatest possible number of pets that could have been adopted from the animal shelter between Monday and Friday?
+A shopkeeper gave an additional 20 per cent concession on the reduced price after giving 30 per cent standard concession on an article. If Arun bought that article for 1,120, what was the original price?
+The total age of A and B is 10 years more than the total age of B and C. C is how many years younger than A.?
+In an election between two candidates, 10% of votes are were declares invalid. First candidate got 3600 votes which were 60% of the total valid votes . The total number of votes enrolled in that election was:
+Find a 8 digit number that if multiplied by the number 9 or any of its multiplications products (18, 27, 36, 45,..) will result in the multiplication factor repeated (n) number of times.
+A and B invests Rs.3000 and Rs.7000 respectively in a business. If A doubles his capital after 6 months. In what ratio should A and B divide that year's profit?
+A man saves 20% of his monthly salary. If an account of dearness of things he is to increase his monthly expenses by 20%, he is only able to save Rs. 200 per month. What is his monthly salary?
+A boat covers a certain distance downstream in 1 hour, while it comes back in 11â„2 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?
+A and B invests Rs.4000 and Rs.6000 in a business. After 4 months, A withdraws three-fourth of his capital and 4 months later, B withdraws half of his capital. In what ratio should they share the profits at the end of the year?
+0.5, 0.55, 0.65, 0.8, ?
+If 15 women or 10 men can complete a project in 55 days, in how many days will 5 women and 4 men working together complete the same project ?
+If n is a positive integer and n^2 is divisible by 450, then what is the largest positive integer that must divide n?
+Two pipes A and B can separately fill a cistern in 10 and 15 minutes respectively. A person opens both the pipes together when the cistern should have been was full he finds the waste pipe open. He then closes the waste pipe and in another 4 minutes the cistern was full. In what time can the waste pipe empty the cistern when fill?
+A certain club has 14 members, including Harry. One of the 14 members is to be chosen at random to be the president, one of the remaining 13 members is to be chosen at random to be the secretary, and one of the remaining 12 members is to be chosen at random to be the treasurer. What is the probability that Harry will either be the secretary or the member chosen to be the treasurer?
+Afreena walks 8 km towards East and then walks 13 km back, then she turns left and walks 4 km; then walks 5 km after turning left; she turns left again and walks 3 km. How far is she from the starting point ?
+A coed soccer team has W women and M men on the team. If 4 women and 2 men are added to the team roster, and if one person on the team is selected at random to serve as team captain, then the probability that the team captain will be a woman can be represented as
+A man is 30 years older than his son. In two years, his age will be twice the age of his son. The present age of the son is
+Chris mixed 3 pounds of raisins with 3 pounds of nuts. If a pound of nuts costs 3 times as much as a pound of raisins, then the total cost of the raisins was what fraction of the total cost of the mixture?
+If 2^(2w) = 8^(w−2), what is the value of w?
+A watch which gains uniformly is 2 minutes low at noon on Monday and is 4 min. 48 sec fast at 2 p.m. on the following Monday. When was it correct?
+Otto and Han are driving at constant speeds in opposite directions on a straight highway. At a certain time they are driving toward each other and are 40 miles apart. One and a half hours later, they are again 40 miles apart, driving away from each other. If Otto drives at a speed of x miles per hour, then, in terms of x, Han drives at a speed of how many miles per hour?
+The angle between two hands at 3.45 is
+A jeep takes 4 hours to cover a distance of 620 Km. how much should the speed in Kmph be maintained to cover the same direction in 3/2th of the previous time?
+Find at what time between 8 and 9 o'clock will the hands of a clock be in the same straight line but not together.
+To apply for the position of photographer at a local magazine, a photographer needs to include two or three photos in an envelope accompanying the application. If the photographer has pre-selected six photos representative of her work, how many choices does she have to provide the photos for the magazine?
+If x is an integer and y = 3x + 2, which of the following CANNOT be a divisor of y?
+A committee of 2 people is to be selected out of 3 teachers and 4 preachers. If the committee is selected at random, what is the probability that the committee will be composed of at least 1 preacher?
+If 73! has 16 zeroes at the end, how many zeroes will 80! have at the end?
+Mary's income is 60 percent more than Tim's income, and Tim's income is 40 percent less than Juan's income. What percent of Juan's income is Mary's income?
+Y and Z start a business with Rs.3000 and Rs.6000 respectively. How should they share their profits at the end of one year?
+If 100!/x is not an integer, which of the following could be the value of x?
+P is two years older than Q who is twice as old as R. The total of the ages of P, Q and R is 25. How old is Q?
+A man can row with a speed of 20 kmph in still water. If the stream flows at 7 kmph, then the speed in downstream is?
+A theater box office sold an average (arithmetic mean) of 65 tickets per staff member to a particular movie. Among the daytime staff, the average number sold per member was 75, and among the evening staff, the average number sold was 60. If there are no other employees, what was the ratio of the number of daytime staff members to the number of evening staff members?
+Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Four years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?
+If a man can cover 18 metres in one second, how many kilometres can he cover in 3 hours 45 minutes?
+How many meaningful English words can be formed with the letters ESRO using each letter only once in each word?
+If S is the product of all positive integers less than 31, than what is the greatest integer k for which S/18^k is an integer?
+What is the ratio between perimeters of two squares one having 3 times the diagonal then the other?
+Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?
+A train of length 150 metres takes 40.5 seconds to cross a tunnel of length 300 metres. What is the speed of the train in km/hr ?
+The ratio of the number of boys and girls in a college is 7:8.If the percentage increase in the number of boys and girls be 20% and 10% respectively.What will be the new ratio?
+Three numbers are in the ratio 1 : 2 : 3 and their H.C.F is 3. The numbers are
+A miniature roulette wheel is divided into 10 equal sectors, each bearing a distinct integer from 1 to 10, inclusive. Each time the wheel is spun, a ball randomly determines the winning sector by settling in that sector. If the wheel is spun two times, approximately what is the probability that the product of the two winning sectors’ integers will be even?
+What is the lowest positive integer that is divisible by each of the integers 1 through 8, inclusive?
+How many different subsets of the set {0, 1, 2, 3, 4, 5,6,} do not contain 0?
+There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160 in tank B. (At the end of first hour, B has 10 liters, second hour it has 20, third hour it has 40 and so on). If tank B is 1/32 filled after 21 hours, what is the total duration required to fill it completely?
+Find the sum of first 30 natural numbers
+A and B rent a pasture for 10 months. A put in 80 cows for 7 months. How many can B put in for the remaining 3 months, if he pays half as much again as A?
+If K is the sum of reciprocals of the consecutive integers from 53 to 58, inclusive, then K is closest in value to which of the following?
+John takes a trip and drives 9 hours from Town X to Town Z at a rate of 60 miles per hour. On his way back, John drives 85 miles per hour and stops in Town Y which is midway between Town X and Town Z. How many hours does it take Scott to drive from Town Z to Town Y?
+A company has 100 employees, 40% of whom are employed part time. If it hires 25 new employees, 40% of whom are employed part time, what will be the percent increase in part time employees?
+In a class of 60 students, the number of boys and girls participating in the annual sports is in the ratio 3 : 2 respectively. The number of girls not participating in the sports is 5 more than the number of boys not participating in the sports. If the number of boys participating in the sports is 15, then how many girls are there in the class ?
+To furnish a room in a model home an interior decorator is to select 4 chairs and 4 tables from the collection of chairs and tables in a warehouse that are all different from each other. If there are 5 chairs in the warehouse and if 75 different combinations are possible, how many tables are there in the warehouse?
+A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr. The other one walks at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?
+160 is what percent of 50 ?
+What will come in place of the x in the following Number series? 46080, 3840, ?, 48, 8, 2, 1
+The length of a rectangle is reduced by 20%. By what % would the width have to be increased to maintainthe original area?
+Find the average of first 20 natural numbers?
+The inverse ratio of 4: 2: 1 is?
+If a man lost 4% by selling oranges at the rate of 12 a rupee at how many a rupee must he sell them to gain 44%?
+A password of a computer used two digits where they are from 0 and 9. What is the probability that the password solely consists of prime numbers and zero?
+Three times the first of three consecutive odd integers is 8 more than twice the third. The third integer is:
+NHAI employs 100 men to build a highway of 2km in 50 days working 8 hours a day. If in 25 days they completed 1/3 part of work .than how many more employees should NHAI hire to finish it in time working 10 hours a day?
+Two trains 111 meters and 165 meters in length respectively are running in opposite directions, one at the rate of 60 km and the other at the rate of 90 kmph. In what time will they be completely clear of each other from the moment they meet?
+A train 500 m long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 min, then the length of the tunnel is?
+The price of a radio was increased by 25 percent. The new price was then increased by 40 percent. A single increase of what percent is equivalent to these two successive increases?
+Two trains start from P and Q respectively and travel towards each other at a speed of 50 km/hr and 40 km/hr respectively. By the time they meet, the first train has travelled 100 km more than the second. The distance between P and Q is :
+What is the investment made if one invests in 15% stock at 50 and earns Rs.2000?
+Krishan and Nandan jointly started a business. Krishan invested three times as Nandan did and invested his money for double time as compared to Nandan. If the gain is proportional to the money invested and the time for which the money is invested and the total gain was Rs. 28000, find the earning of Nandan.
+A certain bakery sells six different-sized wedding cakes. Each cake costs x dollars more than the next one below it in size, and the price of the largest cake is $24.50. If the sum of the prices of the six different cakes is $109.50, what is the value of x?
+Three bells chime at intervals of 18 min., 24 min. and 32 min. respectively. At a certain time they begin together. What length Z of time will elapse before they chime together again?
+A man can row downstream at 25 kmph and upstream at 15 kmph. Find the time to reach a destination point at a distance of 50km along the downstream.
+Find the number that fits somewhere into the middle of the series. Some of the items involve both numbers and letters
+A train crosses a platform of 120 m in 15 sec, same train crosses another platform of length 180 m in 18 sec. then find the length of the train?
+The ratio of three numbers is 2:3:5 and their sum is 150. The second number of the three numbers is?
+For any real number x, the operatoris defined as:
+Calculate the circumference of a circular field whose radius is 5 centimeters.
+The average age of five persons is 40 years while the average age of some other 10 persons is 25 years. The average age of all the 15 persons is:
+A slot machine in a Las Vegas casino has an average profit of $600 for each 8-hour shift for the five days Sunday through Thursday, inclusive. If the average per-shift profit on Friday and Saturday is 25% greater than on the other days of the week and the slot machine is in operation every hour of every day, what is the total weekly profit that the casino makes from the slot machine?
+What is the greatest prime factor of 2^10 - 1?
+A train overtakes two persons walking along a railway track. The first person walks at 4.5 km/hr and the other walks at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?
+Jones covered a distance of 50 miles on his first trip. On a later trip he traveled 300 miles while going three times as fast. His new time compared with the old time was:
+There are 32 stations between Ernakulam and Chennai. How many second class tickets have to be printed, so that a passenger can travel from one station to any other station?
+There are two buildings P and Q. If 15 persons are sent from P to Q, then the number of persons in each building is the same. If 20 persons are sent from Q to P, then the number of persons in P is double the number of persons in Q. How many persons are there in building P?
+A man spends 1/5 of his salary on food, 1/10 of his salary on house rent and 3/5 of his salary on clothes. He still has $18000 left with him. Find his salary.
+A person can swim in still water at 4 km/h. If the speed of water 2 km/h, how many hours will the man take to swim back against the current for 6km?
+Bradley owns b video game cartridges. If Bradley’s total is one-third the total owned by Andrew and twice the total owned by Charlie, how many video game cartridges do the three of them own altogether, in terms of b?
+If a - b = 2 and a2 + b2 = 25, find the value of ab.
+3, 7, 15, 31, 63, ?
+If the complement of a certain angle is two times the measure of that certain angle, then what is the measure of that certain angle?
+If 4 men can colour 48 m long cloth in 2 days, then 6 men can colour 36 m long cloth in
+If the sum of 1/3 and 22/99 is converted to a decimal, what is the 3000th digit to the right of the decimal place?
+Three people are playing cards. What is the probability that a card drawn from a pack of 52 cards will be a diamond or a king?
+If x and y are integers such that (x+1)^2 is less than or equal to 16 and (y-1)^2 is less than 64, what is the sum of the maximum possible value of xy and the minimum possible value of xy?
+If points A and B are (10-5) units apart, which of the following can have only one possible value?
+The banker's discount on a sum of money for 1 1/2 years is Rs. 558 and the true discount on the same sum for 2 years is Rs. 600. The rate percent is:
+If two projectiles are launched at the same moment from 1998 km apart and travel directly towards each other at 444 km per hour and 555 km per hour respectively, how many minutes will it take for them to meet?
+A confectioner decides to sell all of his pastry due to the coming holiday. His pastry goods are equally divided among a group of 35 regular customers. If only 49 customers come to the bakery, each one will receive 6 less pastry goods. How much pastry does the confectioner needs to sell?
+Worker A takes 8 hours to do a job. Worker B takes 6 hours to do the same job. How long it take both A & B, working together but independently, to do the same job?
+One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has Rs. 1,50,000 as total savings, how much has he saved in Public Provident Fund ?
+If the average (arithmetic mean) of (2a+16) and (3a-8) is 84, what is the value of a?
+Consider a quarter of a circle of radius 20. Let r be the radius of the circle inscribed in this quarter of a circle. Find r.
+If k^3 is divisible by 120, what is the least possible value of integer k?
+x is the product of each integer from 1 to 25, inclusive and y=100^k, where k is an integer . What is the greatest value of k for which y is a factor of x?
+If n is a positive integer, which of the following expressions must be even?
+30 liters of a mixture is created by mixing Liquid P and Liquid Q in the ratio 3:2. How many liters of Liquid Q must be added to make the ratio 3:4?
+The speed at which a man can row a boat in still water is 21 kmph. If he rows downstream, where the speed of current is 5 kmph, what time will he take to cover 90 metres?
+Having received his weekly allowance, John spent 3/5 of his allowance at the arcade. The next day he spent one third of his remaining allowance at the toy store, and then spent his last $1.28 at the candy store. What is John’s weekly allowance?
+The simple interest at z% for z years will be $z on a sum of
+The ratio of two quantities is 3 to 5. If each of the quantities is increased by 6, what is the ratio of these two new quantities?
+A box contains 4 red chips and 4 blue chips. If two chips are selected at random without replacement, what is the probability that the chips are different colors?
+For every X, the action [X] is defined: [X] is the greatest integer less than or equal to X. What is the value of [6.5] x [2/3] + [2] x 7.2 + [8.4] - 6.2?
+the price of a commodity(in rupees per kilogram) is 100+0.1n, on the nthvday of 2007(n=1,2,,,,,100), and then remains constant. On the other hand, the price of another commodity is 89+0.15n on the nth day of 2007(n=1,2,,,,,,365). On which date in 2007, will the price of these twocommodities be equal????
+At 3.40, the hour hand and the minute hand of a clock form an angle of
+The average age of 15 students of a class is 14 years. Out of these, the average age of 5 students is 14 years and that of the other 9 students is 16 years. Tee age of the 15th student is?
+A train is 320 meter long is running at a speed of 45 km/hour. In what time will it pass a bridge of 140 meter length?
+The average age of 15 students of a class is 15 years. Out of these, the average age of 5 students is 14 years and that of the other 9 students is 16 years. Tee age of the 15th student is?
+A man takes twice as long to row a distance against the stream as to row the same distance in favour of the stream. The ratio of the speed of the boat (in still water) and the stream is:
+Two numbers are in the ratio of 1 : 2. If 6 be added to both, their ratio changes to 3 : 5. The greater number is
+On flipping 3 coins together what is the outcomes for at least two tail?
+If x is 20 percent more than y and y is 60 percent less than z, then x is what percent of z?
+The sale price of an article including the sales tax is Rs. 616. The rate of sales tax is 10%. If the shopkeeper has made a profit of 12%, then the cost price of the article is:
+A ladder 18 feet long is leaning against a wall that is perpendicular to level ground. The bottom of the ladder is 6 feet from the base of the wall. If the top of the ladder slips down 4 feet, how many feet will the bottom of the ladder slip?
+For her customer feedback score, Jess wants to average at or above an 8.0 rating. For the month of June, she received the following scores: 7, 8, 8, 7, 9, 9, 6, 7, 8 and 7. By what percent did she fall short of her goal?
+he average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 75 kg. What might be the weight of the new person ?
+The value of x is to be randomly selected from the integers from 1 to 11, inclusive, and then substituted into the equation y = x^2 - 4x + 3. What is the probability that the value of y will be negative?
+A 300 meter long train crosses a platform in 42 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?
+Water boils at 212°F or 100°C and melts at 32°F or 0°C . If the temperature of the particular day is 35°C , it is equal to
+One night 40 percent of the female officers on a police force were on duty. If 240 officers were on duty that night and half of these were female officers, how many female officers were on the police force?
+If 4/a + 5/a + 6/a is an integer, which of the following must also be an integer?
+A cycle is bought for Rs.900 and sold for Rs.1080, find the gain percent?
+The total marks obtained by a student in Physics, Chemistry and Mathematics is 150 more than the marks obtained by him in Physics. What is the average mark obtained by him in Chemistry and Mathematics?
+If m and n are positive integers, and m=2n and k=9m, then -
+The average age of 40 students is 8 years. If the age of teacher is also included , then their average age increases by half a year. What is the age of the teacher?
+In how many ways can a Chief Minister and a Vice Minister be elected from a team of 11 members?
+Two cars namely A and B start simultaneously from a certain place at the speed of 40 kmph and 55 kmph, respectively.The car B reaches the destination 2 hours earlier than A. What is the distance between the starting point and destination?
+The length of a train and that of a platform are equal. If with a speed of 36 k/hr, the train crosses the platform in one minute, then the length of the train (in meters) is?
+When 22 is divided by the positive integer k, the remainder is 2, for how many different values of k is this true?
+7% of the total quantity of rice is lost in grinding when a country has to import 6 million tonnes, but when only 7 3/4% is lost, it can import 3 million tonnes. Find the quantity of rice grown in the country.
+In a sequence, each term is obtained by adding 2 to the preceding one. If the sum of the first 20 terms is equal to 140, what is the result of the addition of the first 40 terms?
+One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has Rs. 1,75,000 as total savings, how much has he saved in Public Provident Fund ?
+Crazy Eddie has a key chain factory. Eddie managed to decrease the cost of manufacturing his key chains while keeping the same selling price, and thus increased the profit from the sale of each key chain from 30% of the selling price to 50% of the selling price. If the manufacturing cost is now $50, what was it before the decrease?
+A class has 6 boys and x girls. Average score of boys and girls is 50 and 60 respectively. the average of the whole class is 55, what is the value of x?
+If 2x^2 + y^2 = 2xy, then (x - y)^2 =
+Find the least square number which is exactly divisible by 10,12,15 and 18.
+George went to a fruit market with certain amount of money. With this money he can buy either 50 oranges or 40 mangoes. He retains 15% of the money for taxi fare and buys 15 mangoes. How many oranges can he buy?
+The profit earned by selling an article for Rs. 832 is equal to the loss incurred when the same article is sold for Rs. 448. What should be the sale price for making 20% profit?
+In the interior of a forest, a certain number of apes equal to the square of one-fourth of the total number are playing and having great fun. The remaining four apes are on a hill and the echo of their shrieks by the adjoining hills frightens them. They came and join the apes in the forest and play with enthusiasm. What is the total number of apes?
+Area of a square is 1/2 hectare. The diagonal of the square is?
+A box contains 9 apples, 8 of which are red. An apple is drawn from the box and its color is noted before it is eaten. This is done a total of n times, and the probability that a red apple is drawn each time is less than 0.5. What is the smallest possible value of n?
+How much time will a train of length 400 m moving at a speed of 72 kmph take to cross another train of length 300 m, moving at 36 kmph in the same direction?
+If k is a non-negative integer and 21^k is a divisor of 435,961 then 7^k - k^7 =
+The Simplastic language has only 2 unique values and 3 unique consonants. Every noun in Simplastic has the structure CVCVC, where C stands for a consonant and V stands for a vowel. How many different nouns are possible in Simplastic?
+What distance will be covered by a city bus moving at 72 kmph in 30 seconds?
+In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 25 p coins are there?
+What is the square root of 3,969?
+Which No. Replace in Question mark?
+What number has a 5:1 ratio to the number 11?
+In how many ways can we put 4 different balls in 3 different boxes when any box can contain any number of balls?
+There are two numbers. If 50% of the first number is added to the second number, then the second number increases to its five-fourth. Find the ratio of the first number to the second number?
+If m > 0 and y is m percent of x, then, in terms of m, x is what percent of y?
+What is the HCF of 2/3, 4/9 and 6/18
+A man purchased 3 blankets @ Rs.100 each, 5 blankets @ Rs.150 each and two blankets at a certain rate which is now slipped off from his memory. But he remembers that the average price of the blankets was Rs.150. Find the unknown rate of two blankets?
+If x and y are odd integers, which of the following must always be a non-integer
+David gets on the elevator at the 11th floor of a building and rides up at the rate of 57 floors per minute. At the same time, Albert gets on an elevator at the 51st floor of the same building and rides down at the rate of 63 floors per minute. If they continue travelling at these rates, then at which floor will their paths cross ?
+From below option 48 is divisible by which one?
+If (5^5)(9^3)=3(15^x), what is the value of x?
+A no. when divided by the sum of 555 and 445 gives 2times their difference as quotient & 60 as remainder. Find the no. is?
+Find the odd man out. 12, 24, 34, 48, 64, 84
+The ratio of the two natural numbers is 5 : 6. If a certain number is added to both the numbers, the ratio becomes 7 : 8. If the larger number exceeds the smaller number by 10, find the number added?
+If N = 1/5 + 1/5^2 +1/5^3 , then N is multiplied by 100 , will the product be greater than 100?
+If x/4 + 24/x = 5, what are the values of 4x - 7?
+A thief goes away with a SANTRO car at a speed of 22 kmph. The theft has been discovered after half an hour and the owner sets off in a bike at 72 kmph when will the owner over take the thief from the start?
+A 30 kg metal bar made of alloy of tin and silver lost 3 kg of its weight in the water. 10 kg of tin loses 1.375 kg in the water; 5 kg of silver loses 0.375 kg. What is the ratio of tin to silver in the bar?
+A tour group of 25 people paid a total of $1050 for entrance to a museum. If this price included a 5% sales tax, and all the tickets cost the same amount, what was the face value of each ticket price without the sales tax?
+A train runs at the speed of 72 kmph and crosses a 250 metre long platform in 26 seconds. What is the length of the train ?
+John borrowed 3 soccer boots from Jake, and forgot them on the field, if peter came across a total of 15 boots on the field Jake's boots inclusive, and he took 4 boots at random, what is the probability that Jake's boots were not amongst the 4 taken?.
+Sachin is younger than Rahul by 4 years. If their ages are in the respective ratio of 7:9, how old is Sachin?
+What will be the difference between simple and compound interest at 16% per annum on a sum of Rs. 1000 after 4 years?
+If paint costs $3.20 per quart, and a quart covers 1200 square feet, how much will it cost to paint the outside of a cube 10 feet on each edge?
+An empty bottle weighs 1/6th of the full bottle. When a certain percent of water was removed and the bottle was weighed, the weight of the bottle turned out to be 1/3rd of the bottle when it was full. What is the percent of water removed?
+A man started driving at a constant speed, from the site of a blast, the moment he heard the blast. He heard a second blast after a time of 30 mins and 20 seconds. If the second blast occurred exactly 30 mins after the first, how many meters was he from the site when he heard the second blast? ( speed of sound = 330 m/s)
+a school has 6 maths 5 physics and 5 chemistry teachers each teacher can teach 4 subjects max what is he minimum number of teachers required
+A person, who decided to go to weakened trip should not exceed 8 hours driving in a day. Average speed of forward journey is 40 m/h. Due to traffic in Sundays, the return journey average speed is 30 m/h. How far he can select a picnic spot?
+Taequan is playing a dice game where he rolls two, fair, six-sided dice twice. If he gets the same roll on his second try as his first, he wins. If he rolled an 8 on his first try, what is the probability that he will win with his second roll?
+A thief is spotted by a policeman from a distance of 100 metres. When the policeman starts the chase, the thief also starts running. If the speed of the thief be 8km/hr and that of the policeman 10 km/hr, how far the thief will have run before he is overtaken?
+Mangala completes a piece of work in 18 days, Raju completes the same work in 40 days. If both of them work together, then the number of days required to complete the work is
+The average weight of 8 person's increases by 5 kg when a new person comes in place of one of them weighing 35 kg. What might be the weight of the new person?
+What numbers should go on the bottom line?
+A tradesman sold an article at a loss of 20%. If the selling price had been increased by $100, there would have been a gain of 5%. What was the cost price of the article ?
+√{(3.5)(10^9)} is closest to which of the following?
+The volumes of two cones are in the ratio 1 : 10 and the radii of the cones are in the ratio of 1 : 2. What is the length of the wire?
+A tank is filled by 3 pipes A,B,C in 5 hours. Pipe C is twice as fast as B and B is twice as fast as A. How much will pipe A alone take to fill the tank ?
+A can run a kilometer race in 4 1/2 min while B can run same race in 5 min. How many meters start can A give B in a kilometer race, so that the race mat end in a dead heat?
+In a certain province in Russia there are 15 cities. If a single road segment connects only two cities, how many road segments are required in order to connect the cities so that each city is connected to all other cities with a single road segment?
+In an apartment building that has 441 units, 4 out of every 7 units are currently rented, including 1/5 of the one-bedroom units. If, of the rented apartments, there is a 6:1 ratio of two-bedroom units to one-bedroom units, and the building only consists of two-bedroom and one-bedroom units, how many two-bedroom units are not rented?
+How many minutes does it take Dhoni to type 64 words if he types at the rate of 16 words per minute?
+A and B start walking towards each other at 6pm at speed of 6kmph and 4kmph. They were initially 50km apart. At what time do they meet?
+Manoj borrowed Rs.4200 from Anwar at 6% p.a. simple interest for three years. He then added some more money to the borrowed sum and lent it to Ramu for the same time at 9% p.a. simple interest. If Manoj gains Rs.824.85 by way of interest on the borrowed sum as well as his own amount from the whole transaction, then what is the sum lent by him to Ramu?
+Find the remainder of the division (3^50)/7.
+If the average (arithmetic mean) of 5 positive temperatures is x degrees Fahrenheit, then the sum Z of the 3 greatest of these temperatures, in degrees Fahrenheit, could be
+The present population of a town is 1000. Population increase rate is 25% p.a. Find the population of town before 1 years?
+The speed of a boat in still water is 60kmph and the speed of the current is 12kmph. Find the speed downstream and upstream?
+A cargo ship carrying four kinds of items, doohickies, geegaws, widgets, and yamyams, arrives at the port. Each item weighs 2, 11, 5, and 7 pounds, respectively, and each item is weighed as it is unloaded. If, in the middle of the unloading process, the product of the individual weights of the unloaded items equals 104,350,400,000 pounds, how many widgets have been unloaded?
+How much water must be added to 60 litres of milk at 1.5 litres for Rs. 20 So as to have a mixture worth Rs.32/3 a litre?
+Angelina walked 150 meters from her home to the grocery at a constant speed. She then walked 200 meters to the gym at double the speed. She spent 10 seconds less on her way from the grocery to the gym than on her way from home to the grocery. What was Angelina's speed, in meters per second, from the grocery to the gym?
+In a 1000 m race Usha beats Shiny by 50 m. In the same race, by what time margin Shiny beat Mercy who runs at 4 m/s ?
+If a person walks at 16 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance traveled by him is:
+Insert the missing number. 2, 7, 10, 22, 18, 37, 26
+How many ways are there for 3 males and 3 females to sit (around a circular table) if no male should sit next to a male (and no female next to female) and Mary wants to sit with her back on the wall?
+How many different values of positive integer x, for which |x+9|<x, are there?
+A man buys an article for 14% less than its value and sells it for 14% more than its value. His gain or loss percent is:
+If x is negative and y is positive, which of the following must be positive?
+In an election between 2 candidates, 50% of the voters cast their votes, out of which 10% of the votes were declared invalid. A candidate got 5000 votes which were 50% of the total valid votes. Find the total number of votes enrolled in that election?
+Prathik purchased 40 shirts for rs 3000.he spends 10% for transportation. What should be the selling price per shirt to earn profit of 20% ?
+A can do a certain job in 16 days. B is 60% more efficient than A. How many days does B alone take to do the same job?
+A can do a work in 22 days. B is 30% more efficient than A. How many days does B alone take to do the same job?
+When Q is divided by X, the quotient is R and the remainder is E. Which of the following expressions is equal to E?
+The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?
+If n is a natural number, then(6n^2+6n) is always divisible by?
+In a simultaneous throw of pair of dice .find the probability of getting the total more than 7
+Kul is 22 years old and Saras is 33 years. Find the ratio of Saras's age to Kul's age.
+If 2/a + 3/a + 6/a is an integer, which of the following must also be an integer?
+What percent is 240 of 90?
+Mr Yadav spends 60% of his monthly salary on consumable items and 50% of the remaining on clothes and transport. He saves the remaining amount. If his savings at the end of the year were 46800, how much amount per month would he have spent on clothes and transport?
+How long does a train 125 m long running at the speed of 78 km/hr takes to cross a bridge 125 m length?
+The average of seven numbers is 18. The average of first three numbers is 14 and the average of last three numbers is 23. What is the middle number?
+The compound ratio of 5:6, 5:2 and 4:5?
+A car runs at the speed of 40 km per hour when not serviced and runs at 80 kmph when serviced. After servicing the car covers a certain distance in 8 hours. How much time will the car take to cover the same distance when not serviced?
+The Julie's father's age is two more than thrice Julie's age. If Julie will be 15 after 4 years, what is her father's present age?
+Average score for Virat Kohli in a series of 10 matches is 38.9 runs. If the average for first six matches comes out to be 42 what is his average in the last 4 matches of the series?
+The speed of boat in still water is 20 km/hr. If it travels 26 km downstream and 14 km upstream in same time, what is the speed of the stream?
+Four barrels of water have an average capacity of 8 gallons. What is the maximum possible capacity of the smallest barrel Q if the median is 10 gallons?
+Set J consists of 5 consecutive even numbers. If the smallest term in the set is -2, what is the range of the positive integers in set J?
+What is the measure of the acute angle between the hour and minute hands of a correctly
+A and B can do a piece of work in 7 days. With the help of C they finish the work in 5 days. C alone can do that piece of work in?
+A train 300 m long is running at a speed of 99 km/hr. In what time will it pass a bridge 195 m long?
+Of the science books in a certain supply room, 50 are on botany, 75 are on zoology, 90 are on physics. 50 are on geology, and 110 are on chemistry. If science books are removed randomly from the supply room, how many must be removed to ensure that 80 of the books removed are on the same science?
+A bag contains 12 white and 18 black balls. 2balls are drawn in succession. What is the probability that first is white and second is black?
+A can finish a work in 36days, B in 9days and C in 2days, B and C start the work but are forced to leave after 3 days. The remaining work was done by A in?
+The numbers of students speaking English and Hindi are in the ratio of 4 : 5. If the number of students speaking English increased by 35% and that speaking Hindi increased by 20%, what would be the new respective ratio?
+A and B can do a work in 5 days and 10 days respectively. A starts the work and B joins him after 2 days. In how many days can they complete the remaining work?
+An association of mathematics teachers has 1,260 members. Only 525 of these members cast votes in the election for president of the association. What percent of the total membership voted for the winning candidate if the winning candidate received 60 percent of the votes cast?
+A train passes a station platform in 32 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?
+In how many a committee of 5 members can be selected from 6men 5 ladies consisting of 3 men and 2 ladies
+Nine men went to a hotel. Eight of them spent Rs.3 each over their meals and the ninth spent Rs.2 more than the average expenditure of all the nine. Determine the total money spent by them?
+The current of a stream runs at the rate of 4 kmph. A boat goes 6 km and back to the starting point in 2 hours, then find the speed of the boat in still water?
+A train covers a certain distance at a speed of 340kmph in 4 hours. To cover the same distance in 2 3/4 hours, it must travel at a speed of
+6 people meet for a business breakfast. Each person shakes hands once with each other person present. How many handshakes take place?
+Find the odd man out?
+To deliver an order on time, a company has to make 25 parts a day. After making 25 parts per day for 3 days, the company started to produce 5 more parts per day, and by the last day of work 100 more parts than planned were produced. Find how many parts the company made and how many days this took.
+The average weight of 8 persons increases by 4 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person ?
+Which of the following statements is not correct?
+A pipe takes a hours to fill the tank. But because of a leakage it took 7 times of its original time. Find the time taken by the leakage to empty the tank
+Three positive integers a, b, and c are such that their average is 24 and a ≤ b ≤ c. If the median is (a + 11), what is the least possible value of c?
+X and Y run a 100m race,where X beats Y by 20 m. To do a favor to Y, X starts 10m behind the starting line in a second 100m race. Both run at the same previous speed. Which of the following is true?
+A particular store purchased a stock of turtleneck sweaters and marked up its cost by 20%. During the New Year season, it further marked up its prices by 25% of the original retail price. In February, the store then offered a discount of 25%. What was its profit on the items sold in February?
+Which of the following fractions terminates?
+A train consists of 12 boggies, each boggy 15 metres long. The train crosses a telegraph post in 9 seconds. Due to some problem, three boggies were detached. The train now crosses a telegraph post in
+Two trains travel in opposite directions at 36 kmph and 45 kmph and a man sitting in slower train passes the faster train in 8 seconds. The length of the faster train is
+A shopkeeper labeled the price of his articles so as to earn a profit of 40% on the cost price. He then sold the articles by offering a discount of 10% on the labeled price. What is the actual percent profit earned in the deal?
+the ratio of two no. addition and subtraction be 4:3.the what is the ratio of numbers?
+If A lends Rs.3500 to B at 10% per annum and B lends the same sum to C at 11.5% per annum then the gain of B in a period of 3 years is?
+Three workers have a productivity ratio of 2 to 5 to 9. All three workers are working on a job for 4 hours. At the beginning of the 5th hour, the slowest worker takes a break. The slowest worker comes back to work at the beginning of the 9th hour and begins working again. The job is done in ten hours. What was the ratio of the work performed by the fastest worker as compared to the slowest?
+A committee has 4 men and 6 women. What are the number of ways of selecting 2 men and 3 women from the given committee?
+Divide 71 into 2 parts such that 1 part exceeds the other by 8. What are the 2 no.'s in that part?
+A certain university will select 3 of 7 candidates eligible to fill a position in the mathematics department and 5 of 8 candidates eligible to fill 2 identical positions in the computer science department. If none of the candidates is eligible for a position in both departments, how many different sets of 3 candidates are there to fill the 3 positions?
+a light flashes every 20 seconds, how many times will it flash in ? of an hour?
+Company S produces two kinds of stereos: basic and deluxe. Of the stereos produced by Company S last month, 2/3 were basic and the rest were deluxe. If it takes 1.2 as many hours to produce a deluxe stereo as it does to produce a basic stereo, then the number of hours it took to produce the deluxe stereos last month was what fraction of the total number of hours it took to produce all the stereos?
+log(a(a(a)^1/4)^1/4)^1/4 here base is a.
+What is the CP of Rs 100 stock at 2 discount, with 1/5% brokerage?
+The average of the marks of 10 students in a class is 40. If the marks of each student are doubled, find the new average?
+A man can row upstream at 20 kmph and downstream at 60 kmph, and then find the speed of the man in still water?
+The average mark of the students of a class in a particular exam is 80. If 5 students whose average mark in that exam is 20 are excluded, the average mark of the remaining will be 92. Find the number of students who wrote the exam.
+The ratio of the ages of Anil and his son at present is 7:3. Six years hence, the ratio of the ages of the Anil's wife and the son will be 2:1. Find the ratio of the present ages of Anil and his wife?
+What should come in place of the question mark(?) in the following equation? 28⁄? = ?⁄112
+Find the value of 72517 x 9999 = m?
+On the coordinate plane , points P and B are defined by the coordinates (-1,0) and (3,3), respectively, and are connected to form a chord of a circle which also lies on the plane. If the area of the circle is (25/4) π , what are the coordinates of the center of the circle ?
+A does a work in 10 days and B does the same work in 5 days. In how many days they together will do the same work ?
+There is a rectangular prism made of 1 in cubes that has been covered in tin foil. There are exactly 128 cubes that are not touching any tin foil on any of their sides. If the width of the figure created by these 128 cubes is twice the length and twice the height, what is the measure e in inches of the width of the foil covered prism?
+The ratio between the perimeter and the width of a rectangle is 5 : 1. If the area of the rectangle is 150 sq. cm, what is the length of the rectangle?
+A $500 investment and a $1,500 investment have a combined yearly return of 10 percent of the total of the two investments. If the $500 investment has a yearly return of 7 percent, what percent yearly return does the $1,500 investment have?
+What is the diffference between the place value and face value of 4 in the numeral 2694?
+A bag contains five white and four red balls. Two balls are picked at random from the bag. What is the probability that they both are different color?
+Find the average of all prime numbers between 1 and 5.
+Cars P and Q are approaching each other on the same highway. Car P is moving at 46 mph northbound and Car Q is moving at 54 mph southbound. At 2:00 pm, they are approaching each other and 190 miles apart. Eventually they pass each other. At what clock time are they moving away from each other and 35 miles apart?
+Peeta asks Katniss, 'It is 6 am as per my watch right now.Do you know what will be the time 23, 999, 998 hours later?'
+In a function they are distributing noble prize. In how many ways can 3 prizes be distributed among 4 boys when a boy gets any no. of prizes?
+Find (7x + 4y ) / (x-2y) if x/2y = 3/2 ?
+What is the next number in this series?
+In how many ways, a committee of 5 members can be selected from 4 men and 5 ladies, consisting of 3 men and 2 ladies?
+Rs.360 contained in a box consists of one rupee, 50 paisa and 25 paisa coins in the ratio 4:5:6. What is the number of 25 paisa coins?
+In a certain lottery, the probability that a number between 12 and 20, inclusive, is drawn is 1/5 . If the probability that a number 12 or larger is drawn is 2/3 , what is the probability that a number less than or equal to 20 is drawn?
+Find the average of first 6 multiples of 5?
+A car is purchased on hire-purchase. The cash price is $24 000 and the terms are a deposit of 10% of the price, then the balance to be paid off over 60 equal monthly installments. Interest is charged at 12% p.a. What is the monthly installment?
+A dishonest dealer professes to sell goods at the cost price but uses a false weight and gains 25%. Find his false weight age?
+cube of side one meter length is cut into small cubes of side 10 cm each. How many such small cubes can be obtained?
+On a certain transatlantic crossing, 20 percent of a ship’s passengers held round-trip tickets and also took their cars abroad the ship. If 80 percent of the passengers with round-trip tickets did not take their cars abroad the ship, what percent of the ship’s passengers held round-trip tickets?
+There are 15 boys and 10 girls in a class. If three students are selected at random, in how many ways that 1 girl and 2 boys are selected ?
+consider the sequence 1,-2,3,-4,5,6.....what is the average of the first 200 terms of the sequence?
+3 balls are drawn randomly from a bag contains 3 black, 5 red and 4 blue balls. What is the probability that the balls drawn contain balls of different colors?
+Of the four numbers, whose average is 40, the first is one-fourth of the sum of the last three. The first number is ?
+In a group of buffaloes and ducks, the number of legs are 24 more than twice the number of heads. What is the number of buffaloes in the group ?
+A man has $ 10,000 to invest. He invests $ 4000 at 5 % and $ 3500 at 4 %. In order to have a yearly income of $ 500, he must invest the remainder at:
+he average weight of 8 persons increases by 3.5 kg when a new person comes in place of one of them weighing 62 kg. What might be the weight of the new person ?
+Vinoth can complete a painting work in 20 days. Prakash can do the same work in 25 days. They start the work together but Vinoth quit after 3 days of work. How many days are required to complete the remaining painting work by Prakash.
+A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that atleast one bulb is good
+If 180/x is an integer and 108/x is an integer, which of the following must be true?
+A train passes a station platform in 35 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?
+Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:
+In a simultaneous throw of two coins, the probability of getting at least one head is
+Narendra started a business, investing 30000. Six months later, Chandan joined him with 15000. If they make a profit of 20000 at the end of the year, what should be the share of Narendra?
+A train 120 m long crosses a platform 120 m long in 6 sec; find the speed of the train?
+Find the largest number of four digits which is exactly divisible by 27,18,12,15
+Jones covered a distance of 50 miles on his first trip. On a later trip he traveled 300 miles while going three times as fast. His new time compared with the old time was:
+The contents of a certain box consist of 24 oranges and 30 kiwis. How many kiwis must be added to the box so that exactly 30% of the pieces of fruit in the box will be oranges?
+A train 250 meters long completely crosses a 300 meters long bridge in 45 seconds. What is the speed of the train is?
+A side of an equilateral triangle is tripled. If the previous parameter is 3x, what is the length of one of the sides before it was tripled?
+If 9 engines consume 24 metric tonnes of coal, when each is working 8 hoursday, bow much coal will be required for 8 engines, each running 13hours a day, it being given that 3 engines of former type consume as much as 4 engines of latter type?
+An individual deposited 20% of 25% of 30% of what he had into his account with a bank. If he deposited Rs.750, how much was he having initially with him before depositing?
+At what angle the hands of a clock are inclined at 15 minutes past 5?
+A man walks a certain distance and rides back in 6 1⁄4h. He can walk both ways in 7 3⁄4h. How long it would take to ride both ways ?
+It is only in the second option we find the sentence A in continuation with the opening sentence D. Sentence A alone explains, why the fear has such enormous effect on the human beings.
+What sum of money will produce Rs.70 as simple interest in 4 years at 3 1/2 percent?
+If x > 1, which of the following decreases as x decreases?
+the hiker walking at a constant rate of 7 miles per hour is passed by a cyclist traveling in the same direction along the same path at 28 miles per hour. the cyclist stops to wait for the hiker 5 minutes after passing her, while the hiker continues to walk at her constant rate, how many minutes must the cyclist wait until the hiker catches up?
+Tanks A and B are each in the shape of a right circular cylinder. The interior of tank A has a height of 10 meters and a circumference of 12 meters, and the interior of tank B has a height of 12 meters and a circumference of 10 meters. The capacity of tank A is what percent of the capacity of tank B?
+The length of a rectangle is two - fifths of the radius of a circle. The radius of the circle is equal to the side of the square, whose area is 1225 sq.units. What is the area (in sq.units) of the rectangle if the rectangle if the breadth is 10 units?
+Which of the following is a prime number ?
+A man buys an article for $10. and sells it for $30. Find the gain percent?
+The average age of 19 persons in a office is 15 years. Out of these, the average age of 5 of them is 14 years and that of the other 9 persons is 16 years. The age of the 15th person is?
+Pavan travelled for 11 hours. He covered the first half of the distance at 30 kmph and remaining half of the distance at 25 kmph. Find the distance travelled by Pavan.
+What is the probability of getting a sum of 12 when rolling 3 dice simultaneously?
+A sum of Rs.7000 is invested at a compound interest for three years, the rate of interest being 10% p.a., 20% p.a. and 25% p.a. for the 1st, 2nd and the 3rd years respectively. Find the interest received at the end of the three years.
+In how many ways can the letters of the word ASTERIX be arranged in a row so that the vowels appear in alphabetic order?
+There are 3 numbers A, B and C. If A:B = 3/5, B:C = 5/4, C:D = 4/8, then A:D will be?
+If y exceeds x by 28%, then x is less than y by?
+If 14 men do a work in 80 days, in how many days will 20 men do it?
+A sum of money is put out at compound interest for 2 years at 20%. It would fetch Rs.1446 more if the interest were payable half-yearly, then it were pay able yearly. Find the sum.
+A soccer team played 160 games and won 65 percent of them. How many games did it win?
+If the numerator of a fraction be increased by 15% and its denominator be diminished by 8%, the value of the fraction is 15/16. Find the original fraction ?
+A driver goes on a trip of 50 kilometers, the first 25 kilometers at 66 kilometers per hour and the remaining distance at 33 kilometers per hour. What is the average speed of the entire trip in kilometers per hour?
+The average (arithmetic mean) of the 5 positive integers k, m, r, s, and t is 10, and k < m < r < s < t. If t is 20, what is the greatest possible value of the median of the 5 integers?
+It is given that 2^32 + 1 is exactly divisible by a certain number. Which one of the following is also divisible by the same number R?
+If the product of 10 integers is negative, at most how many of the integers can be negative?
+A cistern can be filled in 9 hours but due to a leak at its bottom it takes 10 hours. If the cistern is full, then the time that the leak will take to make it empty will be ?
+A can give B 100 meters start and C 200 meters start in a kilometer race. How much start can B give C in a kilometer race?
+If the perimeter of a rectangular garden is 600 m, its length when its breadth is 95 m is?
+Of the 13 employees in a certain department, 1 has an annual salary of 38,000, 2 have an annual salary of 45,800 each, 2 have an annual salary of 42,500 each, 3 have an annual salary of 40,000 each and 5 have an annual salary of 48,500 each. What is the median annual salary for the 13 employees?
+FOG + FOG + FOG + FOG = 1464.
+A rectangular photograph is surrounded by a border that is 1 inch wide on each side. The total area of the photograph and the border is M square inches. If the border had been 3 inches wide on each side, the total area would have been (M + 64) square inches. What is the perimeter of the photograph, in inches?
+How many seconds will a 500 m long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?
+Katie has 9 employees that she must assign to 3 different projects. If 3 employees are assigned to each project and no one is assigned to multiple projects, how many different combinations X of project assignments are possible?
+How many coins of 0.5 dollars each and 0.7 dollars each together make exactly 4.6 dollars?
+An investment of d dollars at k percent simple annual interest yields $500 over a 2 year period. In terms of d, what dollar amount invested at the same rate will yield $2,000 over a 4 year period?
+The price of a jacket is reduced by 35%. During a special sale the price of the jacket is reduced another 10%. By approximately what percent must the price of the jacket now be increased in order to restore it to its original amount?
+(469 + 174)(power 2) - (469 - 174)(power 2) / (469 x 174) = ?
+Yukou enjoys reading science-fiction. It is the New Year and he has made a resolution to read a book every week for this year. He has a collection of monster books and space travel books in the ratio of 4:5. He presently has 20 space travel books. How many more books (of each genre) does he need to buy to keep his resolution, without changing the ratio?
+Sripad has scored average of 65 marks in three objects. In no subjects has he secured less than 58 marks. He has secured more marks in Maths than other two subjects. What could be his maximum score in Maths ?
+How many odd 4-digit positive integers T that are multiples of 5 can be formed without using the digit 3?
+A cylindrical bucket of height 36 cm and radius 21 cm is filled with sand. The bucket is emptied on the ground and a conical heap of sand is formed, the height of the heap being 12 cm. The radius of the heap at the base is :
+Louie takes out a three-month loan of $1000. The lender charges him 10% interest per month compunded monthly. The terms of the loan state that Louie must repay the loan in three equal monthly payments. To the nearest dollar, how much does Louie have to pay each month?
+10x + 2y = -6
+How many minutes are there in two right angles?
+A cycle is bought for Rs.900 and sold for Rs.1150, find the gain percent?
+If a man lost 4% by selling oranges at the rate of 12 a rupee at how many a rupee must he sell them to gain 44%?
+A rectangular rug with side lengths of 2 feet and 7 feet is placed on a square floor that has an area of 64 square feet. If the surface of the rug does not extend beyond the area of the floor, what fraction of the area of the floor is not covered by the rug?
+The sequence x1, x2, x3,..., is such that Xn = 1/n - (1/(n+1)). What is the sum of the first 20 terms of the sequence?
+A car consumes 210 liters of petrol weekly. For how many days will 1470 liters of petrol be sufficient?
+A larger cube has 343 cubic inch as a volume and in the cube there are 343 smaller cubes such that their volume is 1 cubic inch. What is the difference between the surface areas’ sum of the 343 smaller cubes and the surface area of the larger cube, in square inch?
+How many liters of water must be evaporated from 50 liters of a 3-percent sugar solution to get a 3-percent solution?
+If s and t are positive integers such that s/t = 84.15, which of the following could be the remainder when s is divided by t ?
+A train passes a station platform in 36 sec and a man standing on the platform in 20 sec. If the speed of the train is 54 km/hr. What is the length of the platform?
+Currently mangoes cost 60 cents/pound. Due to a disease affecting the mango trees it is expected that next month mangoes will cost 200% more than they do currently. How much are mangoes expected to cost next month?
+A and B started business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be B's share in the total profit of Rs. 25,000 earned at the end of 2 years from the starting of the business?
+One night 18 percent of the female officers on a police force were on duty. If 180 officers were on duty that night and half of these were female officers, how many female officers were on the police force?
+By investing a 6% stock at 96 an income of Rs. 100 is obtained by making and investment of ?
+I bought two books; for Rs.540. I sold one at a loss of 15% and other at a gain of 19% and then I found each book was sold at the same price. Find the cost of the book sold at a loss?
+A train 800 m long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 min, then the length of the tunnel is?
+If a, b, and c are consecutive integers such that a < b < c and a is an even prime number, which of the following is true?
+The average age of 8 men increases by 2 years when two women are included in place of two men of ages 20 and 10 years. Find the average age of the women?
+An investor purchased 100 shares of stock X at 8 1/8 dollars per share and sold them all a year later at 24 dollars per share. If the investor paid a 2 percent brokerage fee on both the total purchase price and the total selling price, which of the following is closest to the investor's percent gain on this investment?
+For the positive numbers, n, n + 1, n + 2, n + 3, and n + 4, the mean is how much greater than the median?
+A football coach must choose 5freshers from a team of 12players. How many different ways can the coach choose the freshers?
+Difference between the length &breadth of a rectangle is 10 m. If its perimeter is 206 m, then its area is?
+Find the product of the local value and absolute value of 4 in 564823
+A is twice as good a work man as B and together they finish the work in 14 days. In how many days A alone can finish the work?
+A train 240 m in length crosses a telegraph post in 16 seconds. The speed of the train is?
+Two brothers took the GMAT exam, the higher score is P and the lower one is Q. If the difference between the two scores is equal to their average, what is the value of Q/P ?
+How many three digit number can be formed with the numbers 1,2,3,4,5.
+A five-digit number divisible by 3 is to be formed using numerical 0, 1, 2, 3, 4 and 5 without repetition. The total number W of ways this can be done is:
+If f(x) = x^4 - 4x^3 - 2x^2 + 5x , then f(-1) =
+There are 5 Rock songs, 6 Pop songs, and 3 Jazz. How many different albums can be formed using the above repertoire if the albums should contain at least one Rock song and one Pop song?
+Find the value of y from (12)^3 x 6^3 ÷ 432 = y?
+A cube is painted red on all faces. It is then cut into 27 equal smaller cubes. How many J cubes are painted on only 2 faces?
+A certain car can travel 20 minutes on a gallon of gasoline at 60 miles per hour. If the car had started with a full tank and had 8 gallons of gasoline left in its tank at the end, then what percent of the tank was used to travel 80 miles at 60 mph?
+Two pipes A and B can fill a tank in 10 minutes and 20 minutes respectively. If both the taps are opened simultaneously, and the tap A is closed after 5 minutes, then how much more time will it take to fill the tank by tap B?
+A, B and C enter into a partnership. They invest Rs. 40,000, Rs. 80,000 and Rs. 1,20,000 respectively. At the end of the first year, B withdraws Rs. 40,000, while at the end of the second year, C withdraws Rs. 80,000. In what ratio will the profit be shared at the end of 3 years ?
+5358 x 51 = ?
+Jacob brought a scooter for a certain sum of money. He spent 10% of the cost on repairs and sold the scooter for a profit of Rs. 1100. How much did he spend on repairs if he made a profit of 20%?
+The average salary of a person for the months of January, February, March and April is Rs.8000 and that for the months February, March, April and May is Rs.8600. If his salary for the month of May is Rs.6500, find his salary for the month of January?
+How many integers between 100 and 600 are there such that their unit digit is odd?
+Right now, Al and Eliot have bank accounts, and Al has more money than Eliot. The difference between their two accounts is 1/10 of the sum of their two accounts. If Al’s account were to increase by 10% and Eliot’s account were to increase by 20%, then Al would have exactly $22 more than Eliot in his account. How much money does Eliot have in his account right now?
+A shopkeeper sells 300 metres of cloth for Rs. 18000 at a loss of Rs.5 per metre. Find his cost price for one metre of cloth?
+Find the sum of prime numbers lying between 60 and 75?
+The list price of an article is Rs.65. A customer pays Rs.57.33 for it. He was given two successive discounts, one of them being 10%. The other discount is?
+In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?
+Set S contains points whose abscissa and ordinate are both natural numbers. Point P, an element in set S has the property that the sum of the distances from point P to the point (8, 0) and the point (0, 12) is the lowest among all elements in set S. How many such points P exist in set S?
+When n is divided by 15, the remainder is 8. What is the remainder when 5n is divided by 6?
+In an express train, the passengers travelling in A.C. sleeper class, First class and Sleeper class are in the ratio 1 : 2 : 7, and rate for each class is in the ratio 5 : 4 : 2. If the total income from this train is 54,000 , find the income of Indian Railways from A.C. sleeper class.
+A garrison of 2000 men has provisions for 54 days. At the end of 15 days, a reinforcement arrives, and it is now found that the provisions will last only for 20 days more. What is the reinforcement?
+1000 men have provisions for 20 days. If 650 more men join them, for how many days will the provisions last now?
+Danny spends $360 buying his favorite dolls. If he buys only small LemonHead dolls, which are $1 cheaper than the large LemonHead dolls, he could buy 5 more dolls than if he were to buy only large LemonHead dolls. How much does a large LemonHead doll cost?
+For what range of values of 'x ' will the inequality 15x - 2/x > 1?
+The radius of a wheel is 22.4 cm. What is the distance covered by the wheel in making 320 resolutions?
+The distance between Delhi and Mathura is 110 kms. A starts from Delhi with a speed of 20 kmph at 7 a.m. for Mathura and B starts from Mathura with a speed of 25 kmph at 8 p.m. from Delhi. When will they meet?
+In a partnership between A, B and C. A's capital is Rs.2000. If his share of a profit of Rs.600 is Rs.200 and C's share is Rs.130, what is B's capital?
+A certain auto manufacturer sold 5% fewer vehicles in 2007 than in 2006. If the manufacturer sold 3.0 million vehicles in 2006, how many vehicles, to the nearest 10,000, did the manufacturer sell in 2007?
+What is the probability of flipping a fair coin five times and the coin landing on heads on at least two flips?
+The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:
+A runner runs the 40 miles from Marathon to Athens at a constant speed. Halfway through the run she injures her foot, and continues to run at half her previous speed. If the second half takes her 8 hours longer than the first half, how many hours did it take the runner to run the second half?
+How many multiples of 5 are there between 5 to 105?
+A and B can together finish a work in 40days. They worked together for 10days and then B left. After another 12days, A finished the remaining work. In how many days A alone can finish the job?
+If 60% of 3/5 of a number is 36, then the number is?
+A man can do a piece of work in 15 days, but with the help of his son, he can do it in 6 days. In what time can the son do it alone?
+What is the probability Q of randomly selecting an arrangement of the letters of the wordMEDITERRANEANin which the first letter is E and the last letter is R?
+There r 4 prime numbers in ascending order. The multiplication of first 3 is 385 and that of last 3is 1001. what is the last number is
+Charles’s and Sarah’s current ages are C years and S years, respectively. If 6 years from now, Charles will be at least as old as Sarah was 2 years ago, which of the following must be true?
+Real-estate salesman Z is selling a house at a 30 percent discount from its retail price. Real-estate salesman X vows to match this price, and then offers an additional 15 percent discount. Real-estate salesman Y decides to average the prices of salesmen Z and X, then offer an additional 40 percent discount. Salesman Y's final price is what fraction of salesman X's final price?
+A jar is filled with red, white, and blue tokens that are equivalent except for their color. The chance of randomly selecting a red token, replacing it, then randomly selecting a white token is the same as the chance of randomly selecting a blue token. If the number of tokens of every color is a multiple of 8, what is the smallest possible total number of tokens in the jar?
+A conical vessel, whose internal radius is 12 cm and height 50 cm, is full of liquid. The contents are emptied into a cylindrical vessel with internal radius 10 cm. Find the height to which the liquid rises in the cylindrical vessel.
+When processing flower-nectar into honey bees' extract, a considerable amount of water gets reduced. How much flower-nectar must be processed to yield 1kg of honey, if nectar contains 50% water, and the honey obtained from this nectar contains 40% water?
+A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3, then the weight of the pipe is:
+A bread merchant declares a 20% discount after 8 P.M. Each bread costs Rs.40 when it is not on sale. Sam goes before 8 P.M. to buy 4 pieces of bread. Max goes after 8 P.M. with the same amount of money that Sam had to buy bread. How many pieces did Max get over Sam?
+A courtyard is 18 meter long and 12 meter board is to be paved with bricks of dimensions 12 cm by 6 cm. The total number of bricks required is :
+The cube root of .000216 is:
+Find k if 64 / k = 4.
+A train 120 meter long passes an electric pole in 12 seconds and another train of same length traveling in opposite direction in 8 seconds. The speed of the second train is
+A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?
+How many words with or without meaning, can be formed by using all the letters of the word, ‘ORANGE’, using each letter exactly once?
+The average age of three boys is 12 years and their ages are in the proportion 2 : 6 : 8. The age of the youngest boy is:
+Square RSTU shown above is rotated in a plane about its center in a clockwise direction the minimum number of degrees necessary for R to be in the position where T is now shown. The number of degrees through which RSTU is rotated is
+Set M contains number that satisfy the condition that, if integer x is in the set then x + 6 will also be in the set M. If -4 is one value in the set, which of the following values must also be present in the set M? I) -10 II) 2 III) 8
+Two taps can separately fill a cistern 10 minutes and 15 minutes respectively and when the waste pipe is open, they can together fill it in 18 minutes. The waste pipe can empty the full cistern in?
+Cereal A is 10% sugar by weight, whereas healthier but less delicious Cereal B is 2% sugar by weight. To make a delicious and healthy mixture that is 6% sugar, what should be the ratio of Cereal A to Cereal B, by weight?
+Every day a cyclist meets a car at the station.The road is straight and both are travelling in the same direction. The cyclist travels with a speed of 12 mph.One day the cyclist comes late by 20 min. and meets the car 5miles before the Station. What is the speed of the car?
+What is the sum of all remainders obtained when the first 130 natural numbers are divided by 9?
+A merchant marks his wares 40% more than the real price and allows 20% discount. His profit is:
+(161)^2 - (162)^2 =
+The smallest fraction, which each of 6/7, 5/14, 10/21 will divide exactly is?
+Rhoda tosses a coin 5 times. Find the probability of getting exactly 4 heads.
+A trader sold two items for Rs.2500 each, if he made a profit of 28% from the first item and a loss of 20% from the second item, calculate his total gain or loss.
+While working alone at their constant rates, computer X can process 240 files in 4 hours, and computer Y can process 240 files in 6 hours. If all files processed by these computers are the same size, how many hours would it take the two computers, working at the same time at their respective constant rates, to process a total of 240 files?
+A sum of Rs. 1530 has been divided among A, B and C such that A gets of what B gets and B gets of what C gets. B’s share is:
+The average amount with a group of seven numbers is Rs. 30. If the newly joined member has Rs. 55 with him, what was the average amount with the group before his joining the group?
+Three of the sides of a rectangular prism have areas of 91, 39, and 21. What is the volume of the rectangular prism?
+If a randomly selected positive single digit multiple of 3 is multiplied by a randomly selected prime number less than 20, what is the probability E that this product will be a multiple of 45?
+At a conference, the only events scheduled for the day are seminars and breaks. All seminars are the same length and are 10 times as long as each break. A break must be between two consecutive seminars. If the first seminar begins at 9:00 a.m. and the third one ends at 11:00 a.m., how long will the conference last if there are a total of 6 seminars that day?
+The average of 13 result is 60. Average of the first 7 of them is 57 and that of the last 7 is 61. Find the 8th result?
+What sum of money will produce Rs.60 as simple interest in 4 years at 3 1/2 percent?
+The sum of ages of 5 children born at the intervals of 3 years each is 70 years. What is the age of the youngest child?
+A and B go around a circular track of length 600 m on a cycle at speeds of 36 kmph and 54 kmph. After how much time will they meet for the first time at the starting point?
+How long does a train 110 m long traveling at 60 kmph takes to cross a bridge of 170 m in length?
+What are the last two digits of 55*34*86*47*23*51?
+A sum of money is put out at compound interest for 2 years at 20%. It would fetch Rs.482 more if the interest were payable half-yearly, then it were pay able yearly. Find the sum.
+The daytime telephone rate between two cities is 60 cents for the first 3 minutes and c cents for each additional minute. The total charge is reduced 40 percent on calls made after 10:00 P.M. The cost, in dollars, of a 35-minute call made at 10:30 P.M. between these two cities is:
+A cube of side 5cm is painted on all its side. If it is sliced into 1 cubic centimer cubes, how many 1 cubic centimeter cubes will have exactly one of their sides painted?
+A mathematics teacher tabulated the marks secured by 35 students of 8th class. The average of their marks was 72. If the marks secured by Reema was written as 36 instead of 86 then find the correct average marks up to two decimal places.
+A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?
+A machine P completes a certain amount of work in 12 hrs and machine Q completes the same work in x hrs if both machines works together to complete the same work in 8 hrs then what is x?
+In the first 20 overs of a cricket game, the run rate was only 4.3. What should be the run rate in the remaining 30 overs to reach the target of 264 runs?
+The difference between the two digit number and the number obtained by interchanging its digits is 54. The difference between the digits is?
+If a 7 cm cube is cut into 1 cm cubes, then what is the percentage increase in the surface area of the resulting cubes?
+Population of a city in 2004 was 1000000. If in 2005 there is an increment of 35% , in 2006 there is a decrements of 35 % and in 2007 there is an increment of 45%, then find the population of city at the end of the year 2007
+Out of n consecutive natural numbers, four numbers are selected such that the differences of all the possible pairs are distinct. What is the least value of n for which this is possible?
+A pipe takes a hours to fill the tank. But because of a leakage it took 5 times of its original time. Find the time taken by the leakage to empty the tank
+A person is traveling at 65 km/hr and reached his destiny in 3 hr then find the distance?
+The number of boys in the class is 8 more than the number of girls in the class, which is five times the difference between the number of girls and boys in the class.How many boys are there in the class?
+If it is a 3x3 matrix, for which elements in first row are (V, 50, W), second row (196,X, Y)and in third row are (269, Z, 123).It is given that the sum of the numbers in each row, column, diagonal are same. Then find the value of (Y + Z).
+Solve 8x – 4 = 4x + 11
+3,4,7,11,18,29,47,?
+The greatest number of four digits which is divisible by 10, 20, 25 and 60 is:
+If each term in the sum a1+a2+a3+.....+an is either 7 or 77 and the sum equals 343, which of the following could be equal to n?
+Company P had 15 percent more employees in December than it had in January. If Company P had 470 employees in December, how many employees did it have in January?
+Two men and three women working 7 hours a day finish a work in 5 days. Four men and four women working 3 hours a day complete the work in 7 days. The number of days in which only 7 men working 4 hours a day will finish the work is?
+If log 2= 0.030103, the number of digits in 264 is :
+If air is called green , green is called blue, blue is called orange, sky is called yellow, yellow is called water and water is called pink, then what is the color of clear sky ?
+A, B and C enter into partnership. A invests some money at the beginning, B invests double the amount after 6 months, and C invests thrice the amount after 8 months. If the annual gain be Rs.12000. A's share is?
+In a panel of 10 light bulbs, the odds of any light bulb to burn out are 0.7 at any given 10 minutes. Should a light bulb burn out, the whole panel would instantly turn off. What are the odds that the panel would be turned off within the first 10 minutes after it was switched on?
+Winona can purchase a pencil and two pens for 250 cents, or two pencils and three pens for 425
+A tap can fill a tank in 10 hours. After half the tank is filled three more similar taps are opened. What is the total time taken to fill the tank completely?
+A sum of money deposited at C.I. amounts to Rs.2420 in 2 years and to Rs.2662 in 3 years. Find the rate percent?
+In a card game, a combination of three kings beats all others. If Jose is the first to draw from a standard deck of 52 cards, what is the probability that he wins the game with the best possible combination?
+Two trains travelling in the same direction at 40 and 22 kmph completely pass off another in 1 minute. If the length of the first train is 125 m, what is the length of the second train?
+A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is?
+A can do a particular work in 6 days . B can do the same work in 8 days. A and B signed to do it for Rs. 3200. They completed the work in 3 days with the help of C. How much is to be paid to C?
+A man has Rs.355 in the denominations of one-rupee notes, 20-rupee notes and 50-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has ?
+If √10 = 3.16, find the value of If √5/2
+What should come in place of the question mark (?) in the following equation?
+If daily wages of a man is double to that of a woman, how many men should work for 10 days to earn Rs.14400? Given that wages for 40 women for 30 days are Rs.21600.
+A water tank is two-fifth full. Pipe A can fill a tank in 10 minutes and pipe B can empty in 6 minutes. If both the pipes are open, how long will it take to empty or fill the tank completely ?
+In a class of 30 students, 5 students did not borrow any books from the library, 10 students each borrowed 1 book, 8 students each borrowed 2 books, and the rest of the students each borrowed at least 4 books. If the average (arithmetic mean) number of books borrowed per student was 2, what is the maximum number of books that any single student could have borrowed ?
+The L.C.M of two numbers is 45 times their H.C.F if one of the numbers is 125and sum of H.C.F and L.C.M. is 1150, the other number is:
+A two member committee comprising of one male and one female member is to be constitute out of five males and three females. Amongst the females. Ms. A refuses to be a member of the committee in which Mr. B is taken as the member. In how many different ways can the committee be constituted ?
+A man on tour travels first 160 km at 64 km/he and the next 160 km at 80 km/hr. The average speed for the first 320 km of the tour is?
+Mohit sold an article for Rs. 18000. Had he offered a discount of 10% on the selling price, he would have earned a profit of 8%. What is the cost price of the article?
+A library has an average of 510 visitors on Sundays and 240 on other day. The average number of visitors in a month of 25 days starting with sunday is
+How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?
+The probabilities of solving a question by 3students A, B & C are 1/2,1/3 &1/4, respectively. The probability that the problem will be solved is?
+What is the average (arithmetic mean) of all the multiples of ten from 10 to 170 inclusive?
+Pipe A can fill a tank in 9 hours, pipe B in 12 hours, and pipe C in 18 hours. If all the pipes are open, in how many hours will the tank be filled?
+A bartender removed from a bottle a certain quantity of a drink which had 25 % ALCOHOL CONTENT and replaced the same quantity with another drink that had an alcohol content of 10%. The alcohol content in the drink after replacement is 20 % What the quantity of the drink that he replaced if there was 1 Litres of the drink in the bottle
+There are 200 questions in a 3 hr examination. Among these questions there are 50 mathematics problems. It is suggested that twice as much time be spent on each maths problem as for each other question. How many minutes should be spent on mathematics problems
+The Income of a man increase consistently by 2% per year. If his present income is Rs. 12000 then what will his income be after 1 year ?
+Two men started from the same place walk at the rate of 5kmph and 5.5kmph respectively. What time will they take to be 8.5 km apart, if they walk in the same direction?
+What distance (in meters) will be covered by a bus moving at 54 km/hr in 30 seconds?
+A, B and C started a business with capitals of Rs. 8000, Rs. 10000 and Rs. 12000 respectively. At the end of the year, the profit share of B is Rs. 1800. The difference between the profit shares of A and C is?
+A total of $20,000 was invested in two certificates of deposit at simple annual interest rates of 6 percent and 10 percent, respectively. If the total interest on the two certificates was $1,440 at the end of one year, what fractional part of the $20.000 was invested at the higher rate?
+The sale price sarees listed for Rs.400 after successive discount is 25% and 20% is?
+A bus travels from town A to town B. If the bus's speed is 50 km/hr, it will arrive in town B 42 min later than scheduled. If the bus increases its speed by 509509 m/sec, it will arrive in town B 30 min earlier than scheduled. Find:
+If x = |x| , then which one of the following statements could be true?
+Maddie has 24 apples, if she give 12 to mike, how many does she have left?
+A stick of 30 cm is broken into two pieces, what is the length of the shorter piece if the longer piece is 6 cm longer than the other?
+A shopkeeper sold an article for Rs 2552.36. Approximately what was his profit percent if the cost price of the article was Rs 2400
+2,5,10,17,?,41
+A train 110 m long is running with a speed of 60 km/hr. In what time will it pass a man who is running at 6 km/hr in the direction opposite to that in which the train is going?
+Irin, Ingrid and Nell bake chocolate chip cookies in the ratio of 9.18: 5.17: 2.05. If altogether they baked a batch of 148 cookies, what percent of the cookies did Nell bake?
+On adding four times the age of Chris Hemsworth four years from now to five times his age five years from now, we will get ten times his current age.
+If a, b, c are integers; a² + b² = 45 and b² + c² = 40, then the values of a, b and c respectively are :
+in a powder mix two varieties of powders costing Rs. 15 and Rs. 20 per kg respectively so as toget a mixture worth Rs. 16.50 kg?
+A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:
+Find the odd man out. 1050, 510, 242, 108, 46, 16, 3
+Mangala completes a piece of work in 20 days, Raju completes the same work in 40 days. If both of them work together, then the number of days required to complete the work is
+From the set of numbers {p, t, u, v, w, x, y, z}, how many different combinations can we have without the t in them? Ex:. (x,y), (x), (w,z,y,x), etc... and note that (x,y)=(y,x)
+How much 60% of 50 is greater than 40% of 30?
+In a Private Company 20 Nos. staffs are employed. In a Festival season their Boss give festival allowance to all. He says his accountant to calculate for 30 days @ 100. Also he says balance payment will give to driver and cleaning staff and to be adjust from petty cash. He had given Rs.65000/- to the accountant. How much amount will taken from Petty cash?
+How many triangles can be formed by joining vertices of a hexagon?
+A student chose a number, multiplied it by 2, then subtracted 138 from the result and got 104. What was the number he chose?
+What is the next number of the following sequence
+What is the total number of W integers between 100 and 200 that are divisible by 3?
+An old man distributed all the gold coins he had to his two sons into two different numbers such that the difference between the squares of the two numbers is 81 times the difference between the two numbers. How many coins did the old man have?
+Which of the following is equal to the cube of a non-integer?
+The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes?
+The fourth proportional to 5, 8, 15 is:
+If the tens digit of positive integer x is 4 and the tens digit of positive integer y is 4, how many possible values of the tens digit of 2(x+y) can there be?
+Sophia finished 23 of a book. She calculated that she finished 90 more pages than she has yet to read. How long is her book?
+How many seconds will a 300 m long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?
+Evaluate 28% of 450 + 45% of 240
+There are 10 people in a room. If each person shakes hands with exactly 3 other people, what is the total number of handshakes?
+A farmer divides his herd of x cows among his 4 sons so that one son gets one half of the herd, the second gets one-fourth, the third gets one-fifth and the fourth gets 7 cows. Then x is equal to
+Which of the following is closest to (5!-4!)/(5!+4!)?
+Given that -1 ≤ v ≤ 1, -2 ≤ u ≤ -0.5, and -2 ≤ z ≤ -0.5 and w = vz/u, then which of the following is necessarily true ?
+How many six-digit numbers are there such that all six digits are different and the first digit is not zero?
+Tickets numbered from 1 to 20 are mixed and then a ticket is selected randomly. What is the probability that the selected ticket bearsa number which is a multiple of 3?
+You have been given a physical balance and 7 weights of 52, 50, 48, 44, 45, 46 and 78 kgs. Keeping weights on one pan and object on the other, what is the maximum you can weigh less than 183 kgs.
+In the class of 40 students, 30 speak Hindi and 20 speak English. What is the lowest possible number of students who
+Find the next number in the Sequence
+Choose the missing terms out of the given alternatives.
+The diameter of the driving wheel of a bus in 140 cm. How many revolutions per minute must the wheel make in order to keep a speed of 33 kmph?
+In an election between two candidates, one got 45% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 2000, the number of valid votes that the other candidate got, was:
+If four coins are tossed, the probability of getting two heads and two tails is
+A person bought an article and sold it at a loss of 10%. If he had bought it for 20% less and sold it for Rs.55 more he would have had a profit of 40%. The cost price of the article is___
+A can do a job in 30days and B in 40days. If they work on it together for 10 days, then the fraction of the work that is left is?
+A motor cycle is moving with the speed of 47.52 km/hr and the radius of the wheel of the motorcycle is 21 cms. Calculate the approximate no of revolutions made by the wheel in one minute.
+Three persons invested Rs.9000 in a joint business. The second person invested Rs.1000 more than the first and the third Rs.1000 more than second. After two years, they gained Rs.2700. How much third person will get?
+A car takes 6 hours to cover a distance of 469 Km. how much should the speed in Kmph be maintained to cover the same direction in 3/2th of the previous time?
+when W is divided by 14, the reminder is 0. if W is three lesser than it value and when divided by 5 its remainder is 0. what is the value of W ?
+Sarah signed 1/2 of the Christmas cards, and Richard signed 3/8 of them. If there are 32 cards in
+The population of a city is 8000. It decreases annually at the rate of 20% p.a. What will be its population after 2 years?
+A man buys an article for Rs. 27.50 and sells it for Rs 28.60. Find his gain percent
+What is the ratio between perimeters of two squares one having 3 times the diagonal then the other?
+A part-time employee’s hourly wage was increased by 40%. She decided to decrease the number of hours worked per week so that her total income did not change. By approximately what percent should the number of hours worked be decreased?
+A reduction of 15% in the price of oil enables a house wife to obtain 5kgs more for Rs.800, what is the reduced price for kg?
+Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?
+In an election, candidate Smith won 52 percent of the total vote in Counties A and B. He won 61 percent of the vote in County A. If the ratio of people who voted in County A to County B is 3: 1, what percent of the vote did candidate Smith win in County B?
+How many cubes will have 4 coloured sides and two non-coloured sides ?
+The average of 2,7,6 and x is 5 and the average of 18,1,6,x and y is 10. What is the value of y?
+The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds, is?
+Jill bought items costing $3.45, $1.99, $6.59, and $12.98. She used a coupon worth $2.50.
+A train running at the speed of 60 km/hr crosses a pole in 21 sec. What is the length of the train?
+Each person who attended a company meeting was either a stockholder in the company, an employee of the company, or both. If 50 percent of those who attended the meeting were stockholders and 65 percent were employees, what percent were stockholders who were not employees?
+A fort had provision of food for 150 men for 45 days. After 10 days, 25 men left the fort. The number of days for which the remaining food will last, is:
+A man covers a distance on scooter. Had he moved 3kmph faster he would have taken 40 min less. If he had moved 2kmph slower, he would have taken 40min more. The distance is.
+After decreasing 90% in the price of an article costs Rs.320. Find the actual cost of an article?
+Mr. JACK invested in Fund X and Fund Y. The total amount she invested, in both funds combined, was $100,000. In one year, Fund X paid 33% and Fund Y paid 15%. The interest earned in Fund Y was exactly $500 greater than the interest earned in Fund X. How much did Ms. Tom invest in Fund X?
+David covered a distance of 50 miles on his first trip. On a later trip he traveled 75 miles while going three times as fast. His new time compared with the old time was:
+A train is running at a speed of 40 km/hr and it crosses a post in 18 seconds. What is the length of the train?
+From a Group of 8 People, Including George and Nina, 3 people are to be selected at random to work on a certain project. What is the probability that 3 people selected will include George but not Nina
+There are 5 bags three of which each contains 5 white and 2 black balls, and remaining 2 bags each contains 1 white and 4 black ball; a white ball has been drawn, find the chance that it came from first group.
+In 1995, the Jims spent $800 on the family’s water bills. Anticipating that water rates would increase in 1996 by 50%, the Jims cut back their water usage. By how much must the Jims have reduce their 1996 water usage to pay exactly the same amount in 1996 as they paid in 1995?
+In 10 years, P will be as old as Q is now. Twenty years ago, Q was twice as old as P was then. How old is P now?
+Excluding stoppages, the speed of a bus is 72 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?
+Bruce and Bhishma are running on a circular track of length 600m. Speed of Bruce is 30 m/s and that of Bhishma is 20 m/s .They start fro the same point at the same time in the same direction. When will they meet again for the first time?
+A snail, climbing a 20 feet high wall, climbs up 4 feet on the first day but slides down 2 feet on the second. It climbs 4 feet on the third day and slides down again 2 feet on the fourth day. If this pattern continues, how many days will it take the snail to reach the top of the wall?
+The total population of dogs in a community is estimated to be 50% male and 50% female.The total number of black dogs is 20% greater than the total number of male black dogs. If the total number of female dogs is eight times more than the number of female black dogs what percentage of male dogs is black?
+The area of a square field 3136 sq m, if the length of cost of drawing barbed wire 3 m around the field at the rate of Rs.1.50 per meter. Two gates of 1 m width each are to be left for entrance. What is the total cost?
+A set of data consists of the following 6 numbers: 0, 2, 4, 6,10 and 8. Which two numbers, if added to create a set of 7 numbers, will result in a new standard deviation that is close to the standard deviation for the original 5 numbers?
+Of the 300 employees of a certain company, 65 are accountants. Two employees of the company will be selected at random. Which of the following is closest to the probability that neither of the employees selected will be an accountant?
+A number when multiplied by 3 and then subtracted by 2 becomes the reverse of itself. Can you find out which smallest number is that?
+In country Z, 10% of the people do not have a university diploma but have the job of their choice, and 30% of the people who do not have the job of their choice have a university diploma. If 40% of the people have the job of their choice, what percent of the people have a university diploma?
+A salesmanâ€™s terms were changed from a flat commission of 5% on all his sales to a fixed salary of Rs.1000 plus 2.5% commission on all sales exceeding Rs. 4,000. If his remuneration as per new scheme was Rs. 100 more than that by the previous schema, his sales were worth?
+In one alloy there is 10% chromium while in another alloy it is 6%. 15 kg of the first alloy was melted together with 35 kg of the second one to form a third alloy. Find the percentage of chromium in the new alloy.
+A pharmaceutical company received $2 million in royalties on the first $12; million in sales of generic equivalent of one of its products and then $4 million in royalties on the next $48 million in sales. By approximately what percent did the ratio of royalties to sales decrease from the first $12 million in sales to the next $48 million in sales?
+A do 2/5 part of work in 12 days and B do 3/4 part of work in 15 days.so,both together in how many days can finish the work?
+Two pipes A and B can fill a cistern in 37 1/2 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if pipe B is turned off after
+Which of the following best approximates the value of q if 5^29+5^11=5^q ?
+Which is the smallest no which divides 2880 and gives a perfect square?
+One morning is starts to snow at a constant rate. Later, at 6:00am, a snow plow sets out to clear a straight street. The plow can remove a fixed volume of snow per unit time, in other words its speed it inversely proportional to the depth of the snow. If the plow covered twice as much distance in the first hour as the second hour, what time did it start snowing?
+If (2 to the x) - (2 to the (x-2)) = 3 (2 to the 9), what is the value of x?
+Joe went on a diet 4 months ago when he weighed 222 pounds. If he now weighs 198 pounds and continues to lose at the same average monthly rate, in approximately how many months will he weigh 180 pounds?
+Three consecutive odd integers are in increasing order such that the sum of the last two integers is 13 more than the first integer. Find the three integers?
+What is the sum of the different positive prime factors of 1040?
+In Arun's company 60% of the employees earn less than $50,000 a year, 60% of the employees earn more than $40,000 a year, 11% of the employees earn $43,000 a year and 5% of the employees earn $49,000 a year. What is the median salary for the company?
+Look at this series: V, VIII, XI, XIV, XVII, __, ... What number should fill the blank?
+A is a working partner and B is a sleeping partner in the business. A puts in Rs.15000 and B Rs.25000, A receives 10% of the profit for managing the business the rest being divided in proportion of their capitals. Out of a total profit of Rs.9600, money received by A is?
+Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?
+If 16^5*15^4*14^3*13^2 = x, what is the units digit of x ?
+Find the value of a from (15)^2 x 8^3 Ã· 256 = a.
+The cost of Type 1 material is Rs. 15 per kg and Type 2 material is Rs.20 per kg. If both Type 1 and Type 2 are mixed in the ratio of 2 : 3, then what is the price per kg of the mixed variety of material?
+Sabrina is contemplating a job switch. She is thinking of leaving her job paying $85,000 per year to accept a sales job paying $40,000 per year plus 15 percent commission for each sale made. If each of her sales is for $1,500, what is the least number of sales she must make per year if she is not to lose money because of the job change?
+The perimeter of a semi circle is 144 cm then the radius is?
+In a store the product A costs twice as much as the product B minus the cost of product C, If 4 products B plus 2 products C bought the price is $ 8, if 2 products you buy A plus 2 products B the price is $ 6, which is the price of the product C?
+How long will a boy take to run round a square field of side 40 meters, if he runs at the rate of 12km/hr?
+Seven people went to a restaurant for dinner. Six of them spent $11 each on their meals and the seventh person spent $6 more than the average expenditure of all seven people. What was the total amount of money that the seven people spent?
+A committee has 5 men and 6 women. What are the number of ways of selecting 2 men and 3 women from the given committee?
+3 friends A, B, C went for week end party to McDonald’s restaurant and there they measure there weights in some order In 7 rounds. A, B, C, AB, BC, AC, ABC. Final round measure is 155kg then find the average weight of all the 7 rounds?
+Tabby is training for a triathlon. She swims at a speed of 1 mile per hour. She runs at a speed of 10 miles per hour. She wants to figure out her average speed for these two events. What is the correct answer for her?
+Using all the letters of the word "WEDNESDAY", how many different words can be formed?
+If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?
+How many three digits number can be formed by using the digits 4,5,6,7,8,9 if the repetition of digits allowed?
+If 4<x<6<y<10, then what is the greatest possible positive integer difference of x and y?
+In a certain school, there are 80 Freshmen, 100 Sophomores, and 220 Upperclassmen, drawn from three cities: A, B, and C. Sixty percent of students are from A, 30% from B, the rest from C, and all these students from C are freshmen. Half the student from B are upperclassman, and the rest are split evenly between the other two grades. How many sophomores are from A?
+A chair is bought for Rs.200/- and sold at Rs.320/- find gain or loss percentage
+If the selling price of 50 articles is equal to the cost price of 45 articles, then the loss or gain percent is:
+A rectangular rug with side lengths of 6 feet and 6 feet is placed on a square floor that has an area of 64 square feet. If the surface of the rug does not extend beyond the area of the floor, what fraction of the area of the floor is not covered by the rug?
+A car travels the first 1/2 of certain distance with a speed of 15 km/hr the next 1/4 distance with a speed of 20 km/hr, and the last 1/4 distance with a speed of 60 km/hr. the average speed of the car for the whole journey is?
+To save money, Arkadelphia Cream Cheese will reduce each dimension of its rectangular box container (which is entirely full of cream cheese) by 75%, and reduce the price it charges its consumers by 75% as well. By what percentage does this increase the price-per-cubic-inch that each consumer will pay for cream cheese?
+A bag contains 4 white balls, 4 black balls, and 3 red balls. One by one, three balls are drawn out without replacement. What is the probability that the third ball is red?
+Mahesh can do a piece of work in 40days. He works at it for 20days and then Rajesh finished it in 30days. How long will Y take to complete the work?
+Larry, Michael, and Jack have five donuts to share. If any one of the men can be given any whole number of donuts from 0 to 5, in how many different ways can the donuts be distributed?
+X and Y started a business by investing Rs.36000 and Rs.42000 respectively after 4 months Z joined in the business with an investment of Rs.48000, then find share of Z in the profit of Rs.13750 ?
+The present ages of three persons in proportions 4 : 1 : 3. Eight years ago, the sum of their ages was 56. Find their present ages (in years).
+If set A={4,4,4,....,n times} , set B={3,3,3,3....m times} and set C={11,11,11...k time} , then in terms of m,n and k , how many possible subsets from sets A,B, and C can be created ?
+How many paying stones, each measuring 2 1/2 m * 2 m are required to pave a rectangular court yard 60 m long and 16 1/2 m board?
+John has 10pairs of dark blue socks and 10pairs of black socks. He keeps them all in the same bag. If he picks out 3socks at random, then what is the probability thathe will get a matching pair?
+A dishonest dealer professes to sell his goods at Cost Price but still gets 15% profit by using a false weight. What weight does he substitute for a kilogram?
+If the radius of a circle is decreased 10%, what happens to the area?
+Two passenger trains start at the same hour in the day from two different stations and move towards each other at the rate of 22 kmph and 21 kmph respectively. When they meet, it is found that one train has traveled 60 km more than the other one. The distance between the two stations is?
+On a 20 mile course, Pat bicycled at an average rate of 30 miles per hour for the first 12 minutes and without a break, ran the rest of the distance at an average rate of 8 miles per hour. How many minutes did Pat take to cover the entire course?
+To fill a tank, 25 buckets of water is required. How many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to 1/5 of its present?
+Murali travelled from city A to city B at a speed of 40 kmph and from city B to city C at 60 kmph. What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is 2 : 3?
+A rectangular grass field is 75 m * 40 m, it has a path of 2.5 m wide all round it on the outside. Find the area of the path and the cost of constructing it at Rs.2 per sq m?
+Chris age after 14years will be 5 times his age 5years back. what is the present age of Chris?
+John and David were each given X dollars in advance for each day they were expected to perform at a community festival. John eventually performed on all 30 days of the festival, while David performed on 5 fewer days than John performed. If David gives John y dollars of her advance payment so that they would have each received the same daily rate, what was John paid in advance, in terms of Y?
+When x is divided by y, the quotient is z with remainder f. Which of the following is equal to f?
+At the first meeting of the amputees’ support group, there were
+Find the value of (1-(1/3))(1-(1/4))(1-(1/5))….(1-(1/100)).
+Find the missing number:
+There are 6 people in the elevator. Their average weight is 150 lbs. Another person enters the elevator, and increases the average weight to 151 lbs. What is the weight of the 7th person.
+Simplify: (7+2) – (5+3+1)-1.
+A man has some hens and cows. If the number of heads be 48 and the number of feet equals 140, then the number of hens will be:
+By mixing two brands of tea and selling the mixture at the rate of Rs. 177 per kg. a shopkeeper makes a profit of 18%. If to every 2 kg of one brand costing Rs. 200 per kg, 3 kg of the other brand is added, then how much per kg does the other brand cost?
+For my anniversary, I decided to surprise my wife. Since she is a voracious reader, I decided to collect a lot of books for her. On the first day of the month, I bought one book, on the second, I bought two and on the third, I bought three. This process went on till the anniversary and on the day, I had 253 books with me to gift her.
+Out of a classroom of 6 boys and 4 girls the teacher picks a president for the student board, a vice president and a secretary.
+The owner of a cell phone shop charges his customer 23% more than the cost price. If a customer paid Rs.8,517 for a cell phone, then what was the cost price of the cell phone?
+The average expenditure of a labourer for 3 months was 85 and he fell into debt. In the next 4 months by reducing his monthly expenses to 60 he not only cleared off his debt but also saved 30. His monthly income is
+If a+b+c=21, what is the total number of non-negative integral solutions?
+If the sum of a number and its square is 72, what is the number?
+A number when divided successively by 4 and 5 leaves remainder 1 and 4 respectively. When it is successively divided by 5 and 4, then the respective remainders will be?
+Diesel costs Rs.4 per lit and petrol costs 6.23 per litre. If the price of diesel rise by 10% a month and the price of petrol is unchanged.How many months will it take until a litre of Diesel costs more than a litre of petrol.
+A trader sold an article on a certain price with 20% profit. If he sold double of previous selling price then find its profit %
+Efrida and Frazer who live 12 miles apart, meet at a restaurant that is directly north of Efrida's home and directly east of Frazer's home. If the restaurant is two miles closer to Efrida's home, than to Frazer's home, how many miles is the restaurant from Frazer's home?
+A contractor undertakes to complete the construction of a tunnel 720 meters long in 240 days and employs 50 men for the purpose. After 120 days, he finds that only 240 meters of the tunnel is complete. How many more men should be employ in order to complete the work in time?
+If 9 - 4/X = 7 + 8/X, then X =
+A person travelled from his house to office at 35km/hr and office to house at 65km/hr. Then find the average speed?
+Two trains of equal length are running on parallel lines in the same directions at 46km/hr. and 36km/hr. The faster trains pass the slower train in 18 seconds. The length of each train is:
+Find large no. from below question The difference of two numbers is 1365. On dividing the larger number by the smaller, we get 6 as quotient and the 5 as remainder
+How much interest can a person get on Rs. 8200 at 17.5% p.a. simple interest for a period of two years and six months?
+Mohit sold an article for Rs. 18000. Had he offered a discount of 10% on the selling price, he would have earned a profit of 8%. What is the cost price of the article?
+The average age of 8 men increases by 2 years when two women are included in place of two men of ages 20 and 24 years. Find the average age of the women?
+In a certain growth fund, 3/5 of the investment capital is invested in stocks, and of that portion, 1/3 is invested in preferred stocks. If the mutual fund has $849,000 invested in preferred stocks, what is the total amount of money invested in the fund?
+The average of first five multiples of 3 is?
+A bowl of fruit contains 14 apples and 23 oranges. How many oranges must be removed so that 70% of the pieces of fruit in the bowl will be apples?
+The milk level in a rectangular box measuring 58 feet by 25 feet is to be lowered by 6 inches. How many gallons of milk must be removed? (1 cu ft = 7.5 gallons)
+According to the directions on a can of frozen orange juice concentrate, 1 can of concentrate is to be mixed with 3 cans of water to make an orange juice. How many 12 ounce cans of concentrate are required to prepare 200 6-ounce servings of orange juice.
+The profit earned by selling an article for Rs. 832 is equal to the loss incurred when the same article is sold for Rs. 448. What should be the sale price for making 70% profit?
+A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 390 sq. feet, how many feet of fencing will be required?
+Find the largest number of four digits which is exactly divisible by 27,18,12,15
+If x and y are integers and x=50y + 69, which of the following must be odd?
+If A speaks the truth 30% of the times, B speaks the truth 40% of the times. What is the probability that at least one will tell the truth
+If x + |x| + y = 7 and x + |y| - y =6 , then x + y =
+The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ Rs. 26.50 per metre is Rs. 5300, what is the length of the plot in metres?
+A bakery opened yesterday with its daily supply of 60 dozen rolls. Half of the rolls were sold by noon, and 80 percent of the remaining rolls were sold between noon and closing time. How many dozen rolls had not been sold when the bakery closed yesterday?
+Anand and Deepak started a business investing Rs. 22,500 and Rs. 35,000 respectively. Out of a total profit of Rs. 14,720, Deepak's share is:?
+Pipe A can fill in 20 minutes and Pipe B in 30 mins and Pipe C can empty the same in 40 mins.If all of them work together, find the time taken to fill the tank
+A boy has 5 trousers and 13 shirts. In how many different ways can he select a trouser and a shirt?
+A and B are positive two-digit integers such that the tens digit in A is the same as the units digit in B, and the units digit in A is the same as the tens digit in B. Which of the following CANNOT be the difference of A and B ?
+A shopkeeper wants to make a minimum net profit of 5% on a pair of jeans she is selling, which she bought for $100. If originally, she was selling the pair at 20% gain, what is the largest discount she can allow?
+If the original mass of an element, in grams, is a whole number and the element has decayed by exactly 93 percent in some time period, which of the following could be the final mass of that element?
+A girl goes to her school from her house at a speed of 6km/hr and returns at a speed of 4 km/hr. If she takes 10 hours in going and coming back, the distance between her school and house is
+Students at a school were on average 180 cm tall. The average female height was 170 cm, and the average male height was 182 cms. What was the ratio of men to women?
+Three distinct single-digit numbers. A,B,C are in GP. If abs(x) for real x is the absolute value of x(x if x is +ve or 0 and -x if x is -ve), then the number of different possible values of abs(A+B+C) is
+Round off 9824.119 to the nearest thousand, hundred, ten and one.Represent the result with q,r,s,t, respectively.Which of the following statements is correct?
+Two trains are running in opposite directions with the same speed. If the length of each train is 120 m and they cross each other in 12 sec, then the speed of each train is?
+Evaluate: 30 - 12÷3×2 =
+A train running at the speed of 72 km/hr crosses a pole in 8 seconds. Find the length of the train.
+Last September the sales total for a certain car dealership was 400% greater than the average monthly sales total for the other 11 months. The sales total for September was approximately what percent of the year´s sales?
+On the independence day, bananas were be equally distributed among the children in a school so that each child would get two bananas. On the particular day 360 children were absent and as a result each child got two extra bananas. Find the actual number of children in the school?
+The supplementary of an angle is thrice its complimentary. Find the angle.
+The average weight of 25 girls increases by 1 kg when a new girl comes in place of one of them weighing 55 kg. What might be the weight of the new girl?
+A father said to his son, "I was as old as you are at the present at the time of your birth". If the father's age is 44 years now, the son's age five years back was:
+L = {3, 4, 5, 5, 6, 7}
+The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?
+The difference between a two-digit number and the number obtained by interchanging the digit is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1:2?
+Find the area of a parallelogram with base 20 cm and height 10 cm?
+The angle of elevation of the sun, when the length of the shadow of a tree 3 times the height of the tree, is:
+A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?
+One night 10 percent of the female officers on a police force were on duty. If 200 officers were on duty that night and half of these were female officers, how many female officers were on the police force?
+If a refrigerator contains 12 cans such that there are 7 blue cans and 5 red cans. In how many ways can we remove 8 cans so that at least 1 blue can and 1 red can remains in the refrigerator.
+The sum an integer N and its reciprocal is equal to 78/15. What is the value of N?
+60% of Ram's marks is equal to 20% of Rahim's marks which percent is equal to 30% of Robert's marks. If Robert's marks is 80, then find the average marks of Ram and Rahim?
+A standard Veggiematik machine can chop 25 carrots in 5 minutes. How many carrots can 5 standard Veggiematik machines chop in 5 minutes?
+amir has 3 desert every sunday...he stocked up 10 different chocolates and 12 diff icecreams,given that he never has same combination and doesn't 3 chocolates nor 3 icecreams,how many sundays it requires for his stock to be over?
+Find the average of first 27 natural numbers.
+A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills water at the rate of 4 litres a minute. When the tank is full, the inlet is opened and due to the leak the tank is empty in 8 hours. The capacity of the tank (in litres) is
+Find the term next in series ....
+If the product of two numbers is 17820 and their H.C.F. is 12, find their L.C.M.
+Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time which they take to cross each other is?
+The length of a rectangle is increased by 20% and its breadth is decreased by 20%. What is the effect on its area?
+The sum of two numbers is 16. The difference is 0. What are the two numbers?
+How many tiems do the hands of a clock coincide in day?
+Which of the following is closer to √0.8+√0.05?
+If Henry were to add 9 gallons of water to a tank that is already 3/4 full of water, the tank would be 7/8 full. How many gallons of water would the tank hold if it were full?
+Two passenger trains start at the same hour in the day from two different stations and move towards each other at the rate of 14 kmph and 21 kmph respectively. When they meet, it is found that one train has traveled 60 km more than the other one. The distance between the two stations is?
+If the ratio of the ages of two friends A and B is in the ratio 3 : 5 and that of B and C is 3 : 5 and the sum of their ages is 147, then how old is B?
+How many seconds will a 600 m long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?
+The events A and B are independent. The probability that event A occurs is a and the probability that event B occurs is b. Which of the following is equal to the probability that exactly one of the events A and B occurs?
+If 7/10 of a pencil is green, 4/5 of the remaining is gold and the remaining 1/2 is white, what is the total length of the pencil?
+Vikram borrowed rupees 6450 at 5% simple interest repayable in 4 equal installments. what will be the annual installment payable by him?
+Which is odd one
+A man buys an article and sells it at a profit of 20%. If he had bought it at 20% less and sold it for Rs.75 less, he could have gained 25%. What is the cost price?
+A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are picked at random, what is the probability that they are either blue or yellow?
+A trader has 30 kg of rice, a part of which he sells at 14% profit and rest at 6% loss. On the whole his loss is 4% . What is the quantity sold at 14% profit and that at 6% loss?
+The original price of a certain TV set is discounted by x percent, and the reduced price is then discounted by 2x percent. If P is the original price of the TV Set, which of the following represents the price of the television set after the two successive discounts?
+The cost of 10 kg of mangos is equal to the cost of 24 kg of rice. The cost of 6 kg of flour equals the cost of 2 kg of rice. The cost of each kg of flour is $22. Find the total cost of 4 kg of mangos, 3 kg of rice and 5 kg of flour?
+A certain store sells only black shoes and brown shoes. In a certain week, the store sold x black shoes and y brown shoes. If 2/7 of all shoes sold that week were black, which of the following expressions represents the value of y, in terms of x?
+The speed of a boat in upstream is 100 kmph and the speed of the boat downstream is 180 kmph. Find the speed of the boat in still water and the speed of the stream?
+At Joel’s bookstore, the current inventory is 30% historical fiction. Of the historical fiction books, 30% are new releases, while 40% of the other books are new releases. What fraction of all new releases are the historical fiction new releases?
+A person purchased a TV set for Rs. 16000 and a DVD player for Rs. 6250. He sold both the items together for Rs. 35150. What percentage of profit did he make?
+A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+The average marks of a class of 30 students is 40 and that of another class of 50 students is 60. Find the average marks of all the students?
+Machine W can produce x units in 3/4 of the time it takes machine N to produce x units. Machine N can produce x units in 2/3 the time it takes machine O to produce x units. If all three machines are working simultaneously, what fraction of the total output is produced by machine N?
+Two trains 140 meters and 160 meters long are running in the same direction with speeds of 92 km/hr, 56km/hr. In how much time will the first train cross the second
+What is the are of an equilateral triangle of side 24 cm?
+If m ≠ 1 and if nm/(n - m) = 1, what is the value of n in terms of m?
+If the L.C.M of two numbers is 450 and their product is 22500, find the H.C.F of the numbers.
+The diagonals of a rhombus are 11 cm and 20 cm. Find its area?
+A and B working together could mow a field in 28days and with the help of C they could have mowed it in 21 days. How long would C take by himself?
+(2^2+4^2+6^2+.....+22^2)=?
+In how many different ways can the letters of the word 'SOFTWARE' be arranged in such a way that the vowels always come together?
+Which of the following ratios is greatest?
+In an examination 60% failed in Math and 40% failed in French. If 15% failed in both. What % of students passed in both.
+A towel, when bleached, lost 10% of its length and 20% of its breadth. What is the percentage decrease in area?
+A snooker tournament charges $40.00 for VIP seats and $10.00 for general admission (“regular” seats). On a certain night, a total of 320 tickets were sold, for a total cost of $7,500. How many fewer tickets were sold that night for VIP seats than for general admission seats?
+A ladder 100 feet long is leaning against a vertical wall Its lower end is 60 foot from the bottom of the wall The side of the largest cubical box that can be placed between the wall and the ladder without disturbing the ladder is (to the nearest foot).
+On dividing a certain number by 5, 7 and 8 successively, the remainders obtained are 2, 3 and 4 respectively. When the order of division is reversed and the number is successively divided by 8, 7 and 5, the respective remainders T will be:[/b]
+The true discount on a bill of Rs.2160 is Rs.360.The banker's discount is
+Salesperson A's compensation for any week is $280 plus 6 percent of the portion of A's total sales above $1,000 for that week. Salesperson B's compensation for any week is 8 percent of B's total sales for that week. For what amount of total weekly sales would both salespeople earn the same compensation?
+In an increasing sequence of 10 consecutive integers, the sum of the first 5 integers is 550. What is the sum of the last 5 integers in the sequence?
+In how many different number of ways 4 boys and 2 girls can sit on a bench?
+Rs. 6000 is lent out in two parts. One part is lent at 7% p.a simple interest and the other is lent at 8% p.a simple interest. The total interest at the end of one year was Rs. 450. Find the ratio of the amounts lent at the lower rate and higher rate of interest?
+In a race, A beats B by 15 metres and C by 29 metres. If B and C run over the course together, B wins by 15 metres. What is the length of the course?
+Marketing executives for a certain chewing gum company projected a 30 percent increase in revenue this year over that of last year, but revenue this year actually decreased by 25%. What percent of the projected revenue was the actual revenue ?
+one train has crossing a bridge of length 340 m in 42 sec and same train has crossing a another bridge of 500 m in 50 sec. what is the approximate speed of the train in km/hr?
+For every $20 that a billionaire spends, a millionaire spends the equivalent of 10 cents. For every $4 that a millionaire spends, a yuppie spends the equivalent of $1. The ratio of money spent by a yuppie, millionaire, and billionaire can be expressed as
+Eshan and Mary each wrote two or three poem every day over a period of time eshan wrote 43 poems while Mary wrote 61. The number of days in this period is.....
+If a positive odd integer N has p positive factors, how many positive factors will 3N have ?
+Income and expenditure of a man are in the ratio 4 : 3. If the income of the person is Rs. 12000, then find his savings?
+A tour group of 25 people paid a total of $670 for entrance to a museum. If this price included a 5% sales tax, and all the tickets cost the same amount, what was the face value of each ticket price without the sales tax?
+A man buys an item at Rs. 600 and sells it at the loss of 20 percent. Then what is the selling price of that item
+If Rs. 10 be allowed as true discount on a bill of Rs. 110 due at the end of a certain time, then the discount allowed on the same sum due at the end of double the time is:
+Two cars, Car1 and Car2 move towards each other from W and Y respectively with respective speeds of 20 m/s and 15 m/s. After meeting each other Car1 reaches Y in 10 seconds. In how many seconds does Car 2 reach W starting from Y?
+A can finish a work in 12 days and B can do same work in half the time taken by A. then working together, what part of same work they can finish in a day?
+Find how many positive integers less than 10,000 are there such thatthe sum of the digits of the no. is divisible by 3?
+There are 3 green shirts, 2 white shirts, 5 blue shirts, and 7 red shirts in the wardrobe. What is the least number of shirts that you have to take out to make sure that you will have a matching pair?
+If 4a = 16b and 8b = 13c, Find a:b:c?
+A rectangular floor is covered by a rug except for a strip 4 meters wide along each of the four edge. If the floor is 25 meters by 20 meters, what is the area of the rug in square meters?
+Ten telegenic contestants with a variety of personality disorders are to be divided into two “tribes” of four members each, tribe A and tribe B, for a competition. How many distinct groupings of two tribes are possible?
+Find the value of
+The average salary per head of the entire staff of an office including the officers and clerks is Rs.90. The average salary of officers is Rs.600 and that of the clerks is Rs.84. If the number of officers is 2, find the number of officers in the office?
+The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:
+In each of the following questions a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.
+What is the probability of getting exactly 1 head in a single throw of five fair coins?
+If a store adds 60 chairs to its current inventory, the total number of chairs will be the same as three-halves the current inventory of chairs. If the manager wants to increase the current inventory by 50%, what will the new inventory of chairs be?
+Find the value of x in the sequence of numbers 5,1,6,0,4,8,x,2 if the sum of the first 7 numbers is 30 and the average is 4.
+if capacity of giving milk of a cow is y litre.from this 1litre is used to make tea.rest amount is multiply by 2 and then divided by 3.calculate the result if y=13 litre.
+Marissa, Keith and Tony all go to Disneyland many times each summer. Together, they have all gone a total of 65 times. Marissa and Keith have gone 55 times total, while Keith and Tony have gone 40 times total. How many times has Keith gone just by himself?
+In game of 500 points there are three participants A, B, and C. A game take place. A gives to B 80 points and to C 101 points. Then how many points can B give to C
+Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.50 a kg to produce a mixture worth Rs. 6.30 a kg
+What is the sum of all 3 digit numbers that leave a remainder of '2' when divided by 8?
+(1^3 + 2^3 + 3^3 + ... + 10^3) = x?
+A train 300 m long can cross an electric pole in 20 sec and then find the speed of the train?
+With a uniform speed a car covers a distance in 8 hours. Were the speed increased by 4 km/hr the same distance could be covered in 7 1⁄2 hours. What is the distance covered?
+A trader mixes 10 kg of rice at Rs. 20 per kg with 20 kg of rice of other variety at Rs.40 per kg and sells the mixture at Rs. 40 per kg. His profit percent is:
+Three boys are ages 4, 6 and 7 respectively. Three girls are ages 5, 8 and 9, respectively. If two of the boys and two of the girls are randomly selected and the sum of the selected children's ages is z, what is the difference between the probability that z is even and the probability that z is odd?
+Each Machine of type A has 3 steel parts and 3 chrome parts. Each machine of type B has 6 steel parts and 5 chrome parts. If a certain group of type A and type B machines has a total of 60 steel parts and 44 chrome parts, how many machines are in the group
+When magnified 1,000 times by an electron microscope, the image of a certain circular piece of tissue has a diameter of 2 centimeter. The actual diameter of the tissue, in centimeters, is
+Roja and Pooja start moving in the opposite directions from a pole. They are moving at the speeds of 7 km/hr and 3 km/hr respectively. After 4 hours what will be the distance between them?
+A cube of edge 5 cm is cut into cubes each of edge 1 cm. The ratio of the total surface area of one of the small cubes to that of the large cube is equal to:
+A diet contains 400 grams of a mixture of two foods, food X and food Y. Food X contains 10 percent protein and food Y contains 15 percent protein. If a diet provides exactly 48 grams of protein daily, how many grams of food X are in the mixture?
+From given equation find the value of x: 2x² + 9x − 5
+13 buckets of water fill a tank when the capacity of each bucket is 51 litres. How many buckets will be needed to fill the same tank, if the capacity of each bucket is 17 litres?
+The sum of the non-prime numbers between 50 and 60, non-inclusive, is
+The C.P of 10 pens is equal to the S.P of 12 pens. Find his gain % or loss%?
+A person lent a certain sum of money at 4% per annum at simple interest and in 8 years the interest amounted to Rs.340 less than the sum lent. What was the sum lent?
+I. c3 - 988 = 343,
+In how many ways can a group of 3 people be selected out of 5 men and 7 women, so that 2 of them are of the same gender?
+A palindrome is a number that reads the same front-to-back as it does back-to-front (e.g. 202, 575, 1991, etc.) p is the smallest integer greater than 800 that is both a prime and a palindrome. What is the sum of the digits of p?
+The 52nd term of the series a, b , b, c, c, c, d, d, d, d, e, e, e, e, e, .... is
+How many minutes does Aditya take to cover a distance of 400 m, if he runs at a speed of 20 km/hr
+A and B invests Rs.6000 and Rs.8000 in a business. After 6 months, A withdraws half of his capital and B withdraws one-fourth of his capital. In what ratio should they share the profits at the end of the year?
+An engineer designed a ball so that when it was dropped, it rose with each bounce exactly one-half as high as it had fallen. The engineer dropped the ball from a 18-meter platform and caught it after it had traveled 53.4 meters. How many times did the ball bounce?
+Can anyhow help me with an easy solution for this
+There are 4 people of different heights standing in order of increasing height. The difference is 2 inches between the first person and the second person, and also between the second person and the third person. The difference between the third person and the fourth person is 6 inches and the average height is 77. How tall is the fourth person?
