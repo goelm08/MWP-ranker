@@ -19,7 +19,7 @@ if __name__ == "__main__":
     main_arg_parser.add_argument('-model_dir', type=str, default='checkpoint_dir/valid/',
                                  help='model checkpoint to use for sampling')
     main_arg_parser.add_argument('-seed', type=int, default=123, help='torch manual random number generator seed')
-    main_arg_parser.add_argument('-output_model', type=str, default='checkpoint_dir/output_model',
+    main_arg_parser.add_argument('-output_model_mawps', type=str, default='checkpoint_dir/output_model_mawps',
                                  help='best model output')
 
     args = main_arg_parser.parse_args()

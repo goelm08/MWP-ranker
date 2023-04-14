@@ -13,7 +13,7 @@ def generate_embedding_from_glove(args):
     data_dir = args.data_dir
     min_freq = 2
     max_vocab_size = 15000
-    pretrained_embedding_dir = r"C:\Users\goelm\Downloads\glove.6B\glove.6B.300d.txt"
+    pretrained_embedding_dir = r"C:\Users\goelm\OneDrive\Desktop\glove.6B.300d.txt"
 
     word_manager = data_utils.SymbolsManager(True)
     word_manager.init_from_file("{}/vocab.q.txt".format(data_dir), min_freq, max_vocab_size)
@@ -47,7 +47,7 @@ def make_pretrained_embedding(embedding_size, opt):
     max_vocab_size = 15000
     torch.manual_seed(opt.seed)
 
-    word2vec = pkl.load( open("{}/pretrain.pkl".format("../data/TextData"), "rb" ) )
+    word2vec = pkl.load( open("{}/pretrain.pkl".format("../data/asdiva"), "rb" ) )
     managers = pkl.load( open("{}/map.pkl".format(data_dir), "rb" ) )
     word_manager, form_manager = managers
     
@@ -66,7 +66,7 @@ def make_pretrained_embedding(embedding_size, opt):
 
 if __name__ == "__main__":
     main_arg_parser = argparse.ArgumentParser(description="parser")
-    main_arg_parser.add_argument('-data_dir', type=str, default='../data/TextData', help='data path')
+    main_arg_parser.add_argument('-data_dir', type=str, default='../data/asdiva', help='data path')
     main_arg_parser.add_argument('-pretrained_embedding', type=str, default="/home/lishucheng/projects/Tools-and-Resources/glove/glove.6B.300d.txt")
 
     args = main_arg_parser.parse_args()

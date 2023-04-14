@@ -166,10 +166,10 @@ def eval_training(opt, train_loader, encoder, decoder, attention_decoder, encode
     if using_gpu:
         enc_outputs = enc_outputs.cuda()
 
-    fw_adj_info = torch.tensor(enc_batch['g_fw_adj'])
-    bw_adj_info = torch.tensor(enc_batch['g_bw_adj'])
-    feature_info = torch.tensor(enc_batch['g_ids_features'])
-    batch_nodes = torch.tensor(enc_batch['g_nodes'])
+    fw_adj_info = torch.tensor(enc_batch['g_fw_adj'], dtype=torch.long)
+    bw_adj_info = torch.tensor(enc_batch['g_bw_adj'], dtype=torch.long)
+    feature_info = torch.tensor(enc_batch['g_ids_features'], dtype=torch.long)
+    batch_nodes = torch.tensor(enc_batch['g_nodes'], dtype=torch.long)
 
     node_embedding, graph_embedding, structural_info = encoder((fw_adj_info,bw_adj_info,feature_info,batch_nodes))
 
@@ -393,7 +393,7 @@ def main(opt):
 
     best_val_acc = 0
     loss_to_print = 0
-    for i in range(iterations//10):
+    for i in range(iterations):
 
         epoch = i // train_loader.num_batch
         train_loss = eval_training(opt, train_loader, encoder, decoder, attention_decoder, encoder_optimizer, decoder_optimizer, attention_decoder_optimizer, criterion, using_gpu, word_manager, form_manager)
@@ -408,7 +408,7 @@ def main(opt):
             checkpoint["opt"] = opt
             checkpoint["i"] = i
             checkpoint["epoch"] = epoch
-            torch.save(checkpoint, "{}/valid/model_g2t".format(opt.checkpoint_dir) + str(i))
+            torch.save(checkpoint, "{}/valid_asdiv/model_g2t".format(opt.checkpoint_dir) + str(i))
 
         if i % opt.print_every == 0:
             end_time = time.time()
@@ -423,7 +423,7 @@ if __name__ == "__main__":
     start = time.time()
     main_arg_parser = argparse.ArgumentParser(description="parser")
     main_arg_parser.add_argument('-gpuid', type=int, default=0, help='which gpu to use. -1 = use CPU')
-    main_arg_parser.add_argument('-data_dir', type=str, default='../data/GraphConstruction', help='data path')
+    main_arg_parser.add_argument('-data_dir', type=str, default='../data/GraphConstructionAsDiv', help='data path')
     main_arg_parser.add_argument('-seed',type=int,default=400,help='torch manual random number generator seed')
     main_arg_parser.add_argument('-checkpoint_dir',type=str, default= 'checkpoint_dir', help='output directory where checkpoints get written')
     main_arg_parser.add_argument('-print_every',type=int, default=100,help='how many steps/minibatches between printing out the loss')

@@ -513,7 +513,7 @@ random.seed(123)
 np.random.seed(123)
 torch.manual_seed(123)
 
-checkpoint = torch.load(r'checkpoint_dir/output_model')
+checkpoint = torch.load(r'checkpoint_dir/output_model_mawps')
 encoder = checkpoint["encoder"]
 decoder = checkpoint["decoder"]
 attention_decoder = checkpoint["attention_decoder"]

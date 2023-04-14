@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore')
 if __name__ == "__main__":
     main_arg_parser = argparse.ArgumentParser(description="parser")
     main_arg_parser.add_argument('-data_dir', type=str, default='../data/GraphConstruction', help='data path')
-    main_arg_parser.add_argument('-model', type=str, default='checkpoint_dir/output_model', help='model checkpoint to use for sampling')
+    main_arg_parser.add_argument('-model', type=str, default='checkpoint_dir/output_model_mawps', help='model checkpoint to use for sampling')
     # main_arg_parser.add_argumentt('-model', type=str, default='../data/GraphConstruction/file_for_parsing.pkl', help='model checkpoint to use for sampling')
     main_arg_parser.add_argument('-seed',type=int,default=123,help='torch manual random number generator seed')
 

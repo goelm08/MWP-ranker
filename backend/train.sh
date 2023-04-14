@@ -9,7 +9,7 @@ mkdir checkpoint_dir/valid
 mkdir output
 
 echo -----------pretrained embedding generating-----------
-python pretrained_embedding.py -pretrained_embedding="C:\Users\goelm\Downloads\glove.6B.zip"
+python pretrained_embedding.py -pretrained_embedding="C:\Users\goelm\OneDrive\Desktop\glove.6B.300d.txt"
 #python pretrained_embedding.py -pretrained_embedding="/content/drive/MyDrive/research/Graph2Tree/glove.6B.zip"
 echo ------------Begin training---------------------------
 python graph2tree.py
