@@ -15,9 +15,9 @@ npm start
 ### training the Graph2Tree model
 
 #### start the standford coreNLP server
-```bash echo "standford-core-nlp"```
-```bash cd stanford-corenlp-4.5.1``` 
-```bash java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 1500000```
+1. ```bash echo "standford-core-nlp"```
+2. ```bash cd stanford-corenlp-4.5.1``` 
+3. ```bash java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 1500000```
 
 1. Train 
 ```bash cd backend && sh train.sh```
