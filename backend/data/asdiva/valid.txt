@@ -1,230 +1,230 @@
-The difference of two numbers is 100. If one of the numbers is 91,find the other number.	x:The other number; x-91=100
-At a store, there are 92 computers. 31 are sold. 20 are shipped away to a company.How many computers are left?	92-31-20=41
-While shopping for music online, Zoe bought three country albums and five pop albums. Each album came with a lyric sheet and had three songs.How many songs did Zoe buy total?	(3+5)*3=24
-Kaleb has to sell 710 chocolate bars to get a prize. If each box contains 5 chocolate bars,how many boxes does he need to sell?	710/5=142
-Brad has 17 balloons. 8 balloons are red and the rest are green.How many green balloons does Brad have?	17-8=9
-Olivia had eighty-one pieces of paper in her folder. She used fifty-six pieces.How many pieces does she have now? 	81-56=25
-It takes 7 minutes to bake one pan of cookies.How long will it take to bake 4 pans of cookies?	7*4=28
-89 cookies are being shared equally among 4 people.How many does each person get?	89/4=22 r1
-Mrs. Dalloway made 85 tarts. If she wants to fill 10 boxes with the same number of tarts,how many more tarts should she make?	85/10=8 r5; 10-5=5
-Michael and Tom both love collecting robots. They meet up every month so that they can check out and compare their collections. On their latest meeting, they found out that Tom has twice as many animal robots than Michael. If Michael has 8 animal robots,how many animal robots does Tom have?	2*8=16
-Donna and her friend found some money. They split the money evenly, each getting $32.50.How much money did they find?	32.5*2=65.0
-Mrs. Hilt ate 5 apples every hour.How many apples had she eaten at the end of 3 hours?	5+5+5=15
-Kaleb had saved up thirty-nine dollars. If he received another twenty-five dollars for his allowance,how many eight dollar toys could he buy?	(39+25)/8=8
-Christian's mother prepared lemonade. Every pitcher of lemonade can serve 5 glasses. If she was able to serve 30 glasses of lemonade,how many pitchers of lemonade did she prepare?	30/5=6
-Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs.How many songs did she have totaled?	6+7=13
-A restaurant added a new outdoor section that was 4 feet wide and 6 feet long.What is the area of their new outdoor section?	4*6=24
-The ratio of shoes sold to sandals sold was 9:5. If there were 72 shoes sold,how many sandals were sold?	9:5=72:40
-Mrs. Hilt went to a concert. A total of 65,899 people attended the concert. The next week, she went to a second concert, which had 119 more people in attendance.How many people were at the second concert?	65899+119=66018
-An international group had 49 Chinese, Americans and Australians. 16 of them were Americans and 11 of them were Australians.How many Chinese were there?	(49-16)-11=22
-At the zoo Zoe took sixty-seven pictures. If her sister took another seventeen pictures,how many did they take total?	67+17=84
-At a bake sale there were 42 raisin cookies sold. If the ratio of raisin cookies sold to oatmeal cookies sold was 6:1,what is the combined amount of raisin and oatmeal cookies sold?	6:7=42:49
-Ben was also given 7 trays of eggs to examine. If each tray has 10 eggs,how many eggs did Ben examine in total?	7*10=70
-Jack loves to collect and read books. In fact, he has a mini-library in their house and he usually spends most of his time in it. The library is divided into different sections for different type of books. The science fiction section has 8 books. If each book has 478 pages,how many pages do all the 8 books have in total?	8*478=3824
-Jason and Lexi are shelving books at a public library. Jason shelves 6 books at a time, whereas Lexi shelves 17 at a time. If they end up shelving the same number of books,what is the smallest number of books each could have shelved?	LCM[6,17]=102
-Maria was buying DVDs of her old favorite TV series. She bought eight DVDs at the store and she bought two online.How many DVDs did she buy total?	8+2=10
-Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance,how much money does he have now?	5-2+5=8
-Cody made 12 dollars mowing lawns over the summer. If he charged 4 bucks for each lawn,how many lawns did he mow?	12/4=3
-There were 44 laptops in the shop, and Mike divided them equally into 5 rows.How many laptops are there in each row?	44/5=8 r4
-Zoe bought an app that cost $5 dollars. Then each month you have to pay $8 to play online. If she played the game online for 2 months,how much money would she have spent total for the app and the online access?	8*2+5=21 
-Ronnie travels 300 km to her home partly by train and partly by bus. She takes 4 hours if she travels 60 km by train and the remaining by bus. If she travels 100 km by train and the remaining by bus, she takes 10 minutes longer.Find the speed of the train and bus separately.	x:Speed of train; y:Speed of bus; 60/x+240/y=4; 100/x+200/y=25/6
-A book had a length of 2 inches and a width of 3 inches.What is the area of the book?	2*3=6
-Each chocolate bar in a box cost $3. If a box had 9 bars total and Wendy sold all but 3 bars,how much money would she have made?	(9-3)*3=18
-If you can choose between a regular or waffle cone and vanilla, strawberry, caramel, and bubblegum flavored ice cream,how many different ways can ice cream be ordered?	2*4=8
-Cristina baked 17 croissants. If she planned to serve this equally to her seven guests,how many will each have?	17/7=2 r3
-Olivia owned ninety-three pennies. After she bought an apple, she had fifty-six pennies left.How many did she spend for the apple?	93-56=37
-To get to school, Chad must either walk around a circular lake or canoe across it. The diameter of the lake is 2 miles.How much shorter is his trip if he canoes across the lake rather than walks around it? (Use the value of pi = 3.14)	3.14-2=1.14
-Amy bought 7 pencils at the school store, but she already had 3 pencils.How many pencils does she have totaled?	7+3=10
-Jazmin is completing an art project. She has two pieces of construction paper. The first piece is 44 inches wide and the second piece is 33 inches wide. Jazmin wants to cut the paper into strips that are equal in width and are as wide as possible.How wide should Jazmin cut each strip?	GCD(44,33)=11
-Janice and Jasmine were each given a piece of ribbon of equal length. Janice cuts her ribbons into equal lengths of 2 m, while Jasmine cuts her ribbons into equal lengths of 5 m. If there was no remainder in both cases,what is the shortest possible length of ribbon given to them?	LCM[2,5]=10
-Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10,at what time would they start assembling at the same time again?	(8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10
-A company was buying new uniforms for its employees. They bought 121 uniforms total for their 32 stores.About how many uniforms should each store get?	121/32=3 r25
-Mrs. Hilt wants to buy a television that regularly costs $600. If the sale price is 20% off the regular price,what was the sale price?	600-(600*0.2)=480
-Ben draws a circle inside a square piece of paper whose area is 400 square inches. He makes sure than the circle touches each side of the square.What is the area of the circle?	(400^(1/2)/2)*(400^(1/2)/2)*3.14=314
-Next on her list are the homeless people where she spent a total of $900.00. If she gave $325.00 to the first set of homeless families and $260.00 to the second set of families,how much did she give to the last set of homeless families?	900-(325+260)=315
-Mary's mom is getting ready for Mary's birthday party. She blew up 6 balloons this morning and 5 balloons this afternoon.How many balloons did she blow up in all?	6+5=11
-Three cleaners, A, B, and C are cleaning the windows of a building. Person A cleans a window every 8 min, person B every 12 min and person C every 14 min. If they start cleaning three windows at the same time at 14:15,at what time will start cleaning windows at the same time again?	(14*60 (min/hour) + 15) + LCM[8,12,14] + 0 = 1023 (min); 1023/60 (min/hour)=17 r3; hh:mm=17:03
-Edward was playing basketball with his friend. Together they scored 13 points. If Edward scored 7 of the points.How many points did his friend score?	13-7=6
-Next, she went to a country full of mountains. There she saw 532 species of insects, reptiles and birds. If she saw 253 insect species and 143 bird species,how many reptile species did she see?	532-(253+143)=136
-The ratio of white chocolate to dark chocolate sold at a candy shop was 4:3. If there were 20 bars of white chocolate sold,how many bars of dark chocolate were sold?	4:3=20:15
-A bakery cookie sheet was 10 inches wide and 2 inches long.What is the perimeter of their cookie sheet?	(10+2)*2=24
-To make sure that the cake is sweet, he needs 450 lbs. of sugar. If he has 287 lbs. of sugar stored in his house,how much additional sugar will he need?	450-287=163
-Vanessa had to complete 3 pages of homework. Each page had 4 problems on it.How many problems did she have to complete total?	3*4=12
-Brenda's mother made cookies for five. If she prepared 35 cookies and each of them had the same number of cookies,how many did each of them have?	35/5=7
+Last Saturday, Marie sold 425 magazines and 275 newspapers.What is the total number of reading materials she sold?	425+275=700
+Ana is 5 years more than Jack. The sum of their ages is 29.Find the ages of Ana and Jack.	j:Jack's age; (j+5)+j=29
+There are 5929 Skittles in Steven's Skittle collection. Steven also has 11 erasers. If the Skittles are organized into 77 groups,how big is each group?	5929/77=77
+The difference of 5 times a number and 17 is 23.Find the number and 5 times the number.	x:The number; 5x-17=23
+Mrs. Garvey's bathroom measures 6 feet by 10 feet. She wants to cover the floor with square tiles. The sides of the tiles are 6 inches.How many tiles will Mrs. Garvey need?	((6 (feet)*12 (inch/feet))*(10 (feet)*12 (inch/feet)))/(6 (inch)*6 (inch)) = 240
 There were ninety-eight onions on the shelf. Sixty-five were sold.How many onions is there on the shelf now?	98-65=33
-When they arrived at the island's starting point, they looked at the clues and found out that the number of steps they need to take to get to the next clue is the difference between 537 and 369.How many steps do they have to take to get to the next clue?	537-369=168
-A box of cupcakes cost $six. If you had eight hundred twenty-one dollars and bought as many boxes as you could,how much money would you have left?	821/6=136 r5
-Oliver was weighing boxes for moving. The first was 2 pounds, the second was 3 pounds and the last was 13 pounds.What's the difference between the weight of the first box and the third box?	13-2=11
-The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g.How much heavier is a jade than a diamond?	((140-(100/5)*4)/2)-(100/5)=10
-Haley bought 11 new shirts for school. If she returned 6 of them,how many did she end up with?	11-6=5
-Jerry had 8 action figures on a shelf in his room. Later he added 2 more figures to the shelf.How many action figures were on his shelf total?	8+2=10
-17 students want lemonade and 11 students want iced tea.What is the ratio of the number of students who want iced tea to the number of students who want lemonade?	11:17=11:17
-The ring toss game at the carnival made 420 dollars in 3 days. If they made the same amount of money each day,how much did they make per day?	420/3=140
-A mirror store has 78 mirrors in stock. 8 mirrors are broken, and 57 mirrors are sold.How many mirrors are left?	78-8-57=13
-It's Halloween in Chicago. Bob, Mary, John, Sue and Sam dressed as superheroes and went out to do some trick or treating. After passing through the houses on Main Street, the five friends counted how much candy they have. If Bob has 10 candies, Mary has 5, Sue has 20, John has 5 as well and Sam has also 10 candies.How many candies did they have together?	10+5+20+5+10=50
-Joan is baking a cake. The recipe calls for 7 cups of flour. She already put in 3 cups.How many more cups does she need to add ?	7-3=4
-Girl Scout cookies come packed 12 boxes to a case. Scout Deborah sold 31 boxes of Lemon Chalet Cremes.How many boxes will not be packed to a case?	31/12=2 r7
-Sushi's father bought x lollipops. 5 were eaten by the the children. If 7 lollipops are left,how many lollipops did sushi's father bring?	x:Lollipops that Sushi's father bought; x=5+7
-Bryan has always been fond of studying rocks and minerals. He has a room full of books about and samples of the different types of rocks. One particular day, he went in the room to take a look at his mineral samples. If he has 65 samples of minerals per shelf, and he has a total of 7 shelves,how many mineral samples does he have?	65*7=455
-Jack received 8 emails in the morning and 2 emails in the afternoon.How many emails did Jack receive in the day?	8+2=10
-Paige raised fifteen goldfish in the pond but stray cats loved eating them. Now she has four left.How many goldfish disappeared?	15-4=11
-Jovana filled her bucket with 5 pounds of shells. If a friend comes to add 15 pounds of shells, and another friend comes to add 17 pounds of shells,how many pounds does she have altogether?	5+15+17=37
-A delivery driver had to make three more stops on his route. At each stop he had to drop off nine boxes.How many boxes does he have?	3*9=27
-A rectangle had a length of 2 inches and a width of 4 inches.What is the area of the rectangle?	2*4=8
-Carol had ninety-seven pieces of tissue paper. After blowing her nose she had ninety-three left.How many pieces of tissue paper did she use?	97-93=4
-Cody cooked fourteen dumplings. He ate seven.How many dumplings does Cody have now?	14-7=7
-Mother bought some potatoes. She used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes. If there were 13 potatoes left,how many potatoes did mother buy at first?	15+24+13=52
-Mrs. Hilt read 4 books. Each book had 17 chapters in it.How many chapters did Mrs. Hilt read?	4*17=68
-Mrs. Sheridan has 17 cats. Mr. Sheridan gave her 14 more cats.How many cats does Mrs. Sheridan have altogether?	17+14=31
-Next on his list is the nursing home near his office. There he 472 boxes of vitamins and 288 boxes of supplements.How many boxes of medicine did the nursing home receive from Mr. Anderson?	472+288=760
-There are four pieces of paper in a bag. Each paper has a number on it. The numbers are 19, 23, 34, and 38. Harry took out one piece of paper. The sum of the remaining numbers was 76.What number did Harry remove from the bag?	(19+23+34+38)-76=38
-With the win streak that they have, Chuck's team was able to get into the playoffs. They reached the semi-finals where they played against the Black Team. If they finished the game with 83 points and won it by 18 points,what is the Black Team's final score?	83-18=65
-Ted and David shared 24 stickers in the ratio 3:5. David used 8 of his stickers.What was the ratio of Ted's stickers to David's sticker's then?	3+5=8; 8:3=24:9; 24-9=15; 15-8=7; 9:7
-Jaden is putting together first-aid kits. He has 39 large bandages and 26 small bandages, and he wants each kit to be identical, with no bandages left over.What is the greatest number of first-aid kits Jaden could put together?	GCD(39,26)=13
-For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home.How many pastries did she sell? 	15+48-12=51
-At the store Brand A potato chips were $10.40 for 4 bags. Brand B potato chips were $17.78 for 7 bags.Which brand has the cheaper price?	10.40/4=2.6(Brand A) > 17.78/7=2.54(Brand B)
-The clown blew up forty-seven balloons. Then he blew up thirteen more balloons.How many balloons does the clown have now?	47+13=60
-Students at Memorial School voted for their favorite snack. For every 5 students that voted for candy, 2 students voted for popcorn. There were a total of 45 votes for candy.How many fewer students voted for popcorn than candy?	45-18=27
-Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27.How many more stamps does Kevin have more than Simon?	45-27=18
-A baker sold twelve cakes. Now he has three cakes.How many cakes did the baker have to start with? 	12+3=15
-I am three times as old as my son. Five years later, I shall be two and a half times as old as my son.How old am I and how old is my son?	x:My age; y:The age of my son; x=3y; x+5=2.5(y+5)
-Faye had 12 apps on her phone. To free up some space she deleted 8 of the apps.How many apps did she have left?	12-8=4
-Maria stored ninety-three cloves of garlic in the kitchen. She used eighty-six for roast chicken for dinner.How many cloves of garlic does she have left?	93-86=7
-Mrs. Hilt bought a pencil for 17 cents. She used exactly minimized coins to buy the pencil.How many coins did she use?	17/10=1 r7; 7/5=1 r2; 2/1=2; 1+1+2=4
-Amy baked fifty cupcakes for her school's bake sale. If her brother, Todd, ate five of them,how many packages could she make if she put five cupcake in each package?	(50-5)/5=9
-Aylin is making a scrapbook using 18 photos and 20 newspaper clippings. She wants all the pages to be set up in the same way, with the same combination of photos and newspaper clippings on every page. She also wants to make sure that no items are left over.What is the greatest number of scrapbook pages that Aylin can create?	GCD(18,20)=2
-Jacob's Pizzeria made 3 thin-crust pizzas and 14 thick-crust pizzas.What is the ratio of the number of thin-crust pizzas to the number of thick-crust pizzas?	3:14=3:14
-On a track for remote-controlled racing cars, racing car A completes the track in 28 seconds, while racing car B completes it in 24 seconds.If they both start at the same time, after how many seconds will they be side by side again?	LCM[28,24]=168
-At present a father is three times as old as his son. After 12 years his age will be twice the age of his son.Find their present ages?	f:Father's age; s:Son's age; f=s*3; f+12=(s+12)*2
-The ratio of the cost of a DVD player to the cost of a movie is 9:2. A DVD player costs $63 more than a movie.What is the cost of a DVD player?	7:9=63:81
-Three paper bags contain a total of 24 apples. The first and second bags contain a total of 11 apples. The second and third bags contain a total of 18 apples.How many apples are in the first and third bags together?	(24-11)+(24-18)=19
-A state seal, which is round, hangs in the capitol building. It has a diameter of 2 meters.What is the seal's area?	(2/2)^2*3.14=3.14
-Willie, the town baker, wanted to make the biggest cake their town has ever seen. First, he prepared the flour. He is planning to use 501 lbs. of flour. If he has 294 lbs. of flour stored in his bakery,how much more flour does he need to buy?	501-294=207
-If you had 37 bags of cookies with 19 cookies in each bag,how many cookies would you have?	37*19=703
-The ages of Peter, Margaret and Jack are consecutive odd numbers. The sum of the ages of Peter and Margaret equals Jack's age before 5 years.Find the ages of Peter, Margaret and Jack.	x:Peter's age; x+(x+2)-5=(x+4)
-After the framework was finished, they asked 239 monkeys and 622 termites to finish the rest of the building.How many workers finished the rest of the construction?	239+622=861
-George had 648 pieces of candy. If he split the candy into 8 bags with the same amount of candy in each bag,how many pieces would each bag have in it?	648/8=81
-Mrs. Hilt bought 15 boxes of citrus fruits from a fundraiser. She paid $12 for each box. If 6% sales tax was added to the total cost,how much was her total bill?	(15*12)*(1+6/100)=190.8
-17 plums were in the basket. More plums were added to the basket. Now there are 21 plums.How many plums were added to the basket?	21-17=4
-Michael has some fish in his fish tank. Ben gave him 18 more fish. Now he has 49.How many fish did he have to begin with?	49-18=31
-While playing a trivia game, Adam answered five questions correct in the first half and five questions correct in the second half. If each question was worth five points,what was his final score?	(5+5)*5=50
-At a restaurant 6 hotdogs cost $8.28 and 7 hamburgers cost $9.24.Which food has the lower unit price?	8.28/6=1.38(Hotdog) > 9.24/7=1.32(Hamburger)
-Faye had seven books. If she bought twelve more at a yard sale,how many would she have total?	7+12=19
-Mrs. Smith is 8 years more than twice the age of her son. The ages of son is 12.Find the age of mother and find the difference between their ages.	m:Mrs. Smith's age; 8+12*2=m
-Alex has 5 dimes, 4 nickels and one penny.Does he have enough to buy a hat that costs 90 cents?	50+20+1=71 cents < 90 cents
-There were 28 girls and 35 boys on the playground at recess.How many children were there in all?	28+35=63
-Henry and Margo both began traveling around a circular track. Henry is riding his bike, and Margo is walking. It takes Henry 7 minutes to make it all the way around, and Margo takes 12 minutes.How much time will pass until they meet at the starting line?	LCM[7,12]=84
-A waiter had fourteen customers. After some left he still had three customers.How many customers left? 	14-3=11
-Isabel had sixteen bottles of water. After a week she had seven left.How many did she drink? 	16-7=9
-Lex read another book with 240 pages. If he read the same number of pages for 12 days,how many pages did he read every day?	240/12=20
-Charlene made 60 bead necklaces. She sold 16 at a craft fair. She gave 18 to her friends.How many necklaces did Charlene have then?	60-16-18=26
-Alexa and Katerina stood on a scale together. The scale read 95 pounds. Alexa knows she weighs 46 pounds.How much does Katerina weigh?	95-46=49
-For the fifth grade play, the chairs have been put into 27 rows with 16 chairs in each row.How many chairs have been put out for the play?	27*16=432
-On the last day of school only sixteen students showed up. If seven of them were checked out early,how many students were left?	16-7=9
-Devon is 12 years old. His age is 2 more than half the age of Steven.Find the age of Steven.	S:Steven's age; (1/2)S+2=12
-Five years ago, I was thrice as old as my son and ten years later I shall be twice as old as my son.How old are we now?	x:My age; y:The age of my son; x+5=3(y-5); x-5=2(y+10)
-When he arrived there, he went on to climb to the top of the falls. It usually takes 30 minutes for someone to get to the top. Stanley took time to see the view so his climb took 7 times longer than the usual.How many minutes did it take Stanley to get to the top?	30*7=210
-There are 54 passengers on a bus. 18 of them are men, 26 of them are women and the rest are children.How many children are there on the bus?	(54-18)-26=10
-Two angles of a triangle are the same size. The third angle is 3 times as large as the first.How large are the angles?	x:The first angle of a triangle; y:The second angle of a triangle; x=y; 180-(x+y)=3x
-He then classified some of the rocks into igneous, metamorphic and sedimentary. If each classification has 246 samples each,how many rocks does he have in all?	3*246=738
-At the carnival, 6 friends bought 27 tickets. If they wanted to split all the tickets so each friend got the same amount,how many more tickets would they need to buy?	27/6=4 r3; 6-3=3
-I have 80 cents to buy candy. If each gumdrop costs 4 cents,how many gumdrops can I buy?	80/4=20
-There are 544 pots. Each pot has 32 flowers in it.How many flowers are there in all?	544*32=17408
-If the cave is 974 feet deep and they are already at 588 feet,how much farther until they reach the end of the cave?	974-588=386
-In 3 seconds, Kevin can dribble a basketball 13 times. If Kevin dribbles at this same rate for 27 seconds,how many times will he dribble the basketball?	3:13=27:117
-In Mrs. Hutchinson's kindergarten class, children make handprints in a round clay mold for their parents. The mold has a diameter of 4 inches.What is the mold's radius?	4/2=2
-If the all the participants found a total 40 eggs from the club house, 25 eggs from the park and 15 eggs from the town hall,how many Easter eggs were found that day?	40+25+15=80
-Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books.How many books did he read total?	5+8=13
-Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine,how many seedlings did he give in total?	14+38=52
-A store has fifty-six shirts. Later they got in eleven more shirts.How many shirts does the store have now?	56+11=67
-Sofia, president of the school student organization, held a meeting to talk about the food being served at the school cafeteria. The first order of business is to discuss whether the students like the food being served at the school. If 383 students said that they like the food and 431 students said they didn't,how many students participated in the discussion?	383+431=814
-Olivia was buying DVDs of her favorite TV series. Each season had 8 DVDs. If she bought 5 seasons,how many DVDs did she buy total?	8*5=40
-At the arcade Billy had won forty-eight tickets. After buying a yoyo he had thirty-two tickets left.How many tickets did the yoyo cost? 	48-32=16
-The friends then proceeded to the rest of the houses in their village. However, Sam had to go home earlier. She got her share of candies which are composed of 10 chewing gums, 15 chocolate bars, and 20 assorted fruit candies.How many candies did she get in total?	10+15+20=45
-If one round costs $80,how many rounds of golf can you play with $400?	400/80=5
-It takes Mike ninety-eight minutes to walk to school. If he rides a bicycle to school, it would save him sixty-four minutes.How much time did Mike save?	98-64=34
-Third-grade students went to a concert in 8 buses. Each bus took 45 students.How many students went to the concert?	8*45=360
-Yoda Soda is the intergalactic party drink that will have all your friends saying, "Mmmmmm, good this is!" You are throwing a party, and you need 5 liters of Yoda Soda for every 12 guests. If you have 36 guests,how many liters of Yoda Soda do you need?	12:5=36:15
-A parking lot has 117 spaces total. If 36 of the spaces have cars in them,what is the ratio of empty spaces to filled spaces?	117-36=81; 81:36=9:4
-There were six roses in the vase. Jessica cut some more roses from her flower garden. There are now eighteen roses in the vase.How many roses did she cut ?	18-6=12
-Jake has six fewer peaches than Steven. Steven has 13 peaches.How many peaches does Jake have? 	13-6=7
-Matthew had 27 crackers. If Matthew gave equal numbers of crackers to his 9 friends,how many crackers did each person eat?	27/9=3
-The length of the rectangular building is 7 ft more than its width. If the perimeter of the building wall is 98 ft,find its length and width.	(L+(L-7))*2=98
-During a class election the ratio of students who voted for candidate A compared to candidate B was 2:1. If candidate A received 14 votes,what is the combined amount of votes candidate A and candidate B received?	2:3=14:21
-You have 7 balloons and your friend has 5 balloons.What's the difference of the number of your balloons and your friend's balloons?	7-5=2
-The farmer had 127 apples. He gave 88 apples to his neighbor.How many apples does he have now?	127-88=39
-The difference between two numbers is 26 and greater number is three times the smaller.Find the numbers.	x:The greater number; y:The smaller number; x-y=26; x=3y
-The ratio of the weight of Meg's cat to the weight of Anne's cat is 5:7. Meg's cat weighs 20 kg.How much more does Anne's cat weigh?	28-20=8
-A fast food restaurant had 3 boxes of chicken nuggets for $19.53. A competing restaurant had 2 boxes of chicken fingers for $13.12.Which food has a higher unit price?	19.53/3=6.51(Chicken nugget) < 13.12/2=6.56(Chicken finger)
-Suzanne read the first 15 pages of her book on Monday. She read 16 more pages than that on Tuesday. Then there were 18 pages left.How many pages are in Suzanne's book altogether?	15+15+16+18=64
-Across the river, he fell into a hole. To get out, he needs to fill it with 823 gallons of water. If the hole initially has 676 gallons,how much water does he need to fill it?	823-676=147
-Mrs. Walker will have 56 apples for bobbing for apples. Each bucket will hold 9 apples.How many buckets will she need?	56/9=6 r2
-There are 757 pounds of sand to be filled into bags. If each bag has a capacity of 65 pounds,how many pounds of sand are there in the bag that is not full?	757/65=11 r42
-Susie's father repaired the bookshelves in the reading room. If he has 210 books to be distributed equally on the 10 shelves he repaired,how many books will each shelf contain?	210/10=21
-A group of 8 friends were playing a video game. In the game, each player started with 8 lives.How many lives did they have totaled?	8*8=64
-Josh had 16 marbles in his collection. He lost 7 marbles.How many marbles does he have now?	16-7=9
-Janet was practicing for a marathon. She practiced for 9 days, running 8 miles each day.How many miles did Janet run altogether?	9*8=72
-Debby makes 67 pancakes. She adds blueberries to 20 of them and bananas to 24 of them. The rest are plain.How many plain pancakes are there?	(67-20)-24=23
-Jerry had caught some butterflies. He let eleven go and now he has eighty-two left.How many did he originally have? 	11+82=93
-Tom had thirty-six pieces of clothing to wash. He put eighteen of them in one load, but decided to split the rest into two equal loads.How many pieces of clothing could go in each of the small loads?	(36-18)/2=9
-Miranda and Savannah are excited that a new store just opened in town! They go together the first day it opens! Each time Miranda goes to the store she plans to spend $7, and each time Savannah goes to the store she plans to spend $9. A few weeks from now, Miranda and Savannah are surprised to find out that they have spent the exact same total amount of money at the store.What is the least possible number of times that Miranda has been to the store?	LCM[7,9]=63; 63/7=9
-Frannie and Meg are in a jump rope contest. Frannie jumped 53 times without missing. She jumped 18 fewer times than Meg.How many times did Meg jump?	53+18=71
-Next on his checklist are the strawberry fields. There he found out that they can get 268 kg of fruit for every row of strawberry plants. If there are 7 rows of strawberry plants,how many kilograms of strawberries can they harvest?	268*7=1876
-On Martin's first stroke, his golf ball traveled 4/5 of the distance to the hole. On his second stroke, the ball went into the hole. Martin was standing 79 meters from the hole as he took his second stroke.How many kilometers from the hole was Martin when he started?	79 (m)*5 = 395 (m); 395/1000 (m/km) = 0.395 (km)
-Mrs. Hilt bought 6 hot dogs. Each hot dog cost 50 cents.How much money did she pay for all of the hot dogs?	6*50=300
-Upon finishing the treehouse, Charlie's mother served them freshly baked cookies. If Charlie ate 15 cookies, his father ate 10 and his mother only ate 5,how many cookies were eaten in total?	15+10+5=30
-Jemma filled one-fourth of a barrel with compost on Saturday. Then she filled the remaining space with 4200 g of compost on Sunday.How many kilograms of compost are in the barrel?	4200 (g)/(1-(1/4)) = 5600 (g); 5600/1000 (g/kg) = 5.6 (kg)
-Haley had 2 dollars. If she got 13 more dollars in total for doing chores and her birthday,what's the difference between the number of dollars before Haley got money and she got from events?	13-2=11
-Tom bought sixty-three tickets at the state fair. He spent fourteen tickets at the 'dunk a clown' booth and decided to use the rest on rides. If each ride cost seven tickets,how many rides could he go on?	(63-14)/7=7
-Brian has zero fewer oranges than Marcie. Marcie has 12 oranges.How many oranges does Brian have? 	12-0=12
-Mrs. Hilt and her sister drove to a concert 78 miles away. They drove 32 miles and then stopped for gas. Her sister put 28 gallons of gas in the car.How many miles did they have left to drive?	78-32=46
-John bought some cupcakes for a party. During the party eleven were eaten. Now he has twenty-one left.How many cupcakes did John get for the party? 	11+21=32
-Robin wanted to drink exactly nine bottles of water each day, so she bought six hundred seventeen bottles when they were on sale.How many more bottles will she need to buy on the last day?	617/9=68 r5; 9-5=4
-A store has forty-nine shirts. After selling some there were twenty-eight left.How many did they sell? 	49-28=21
-There are 32 forwards and 80 guards in Leo's basketball league. Leo must include all players on a team and wants each team to have the same number of forwards and the same number of guards. If Leo creates the greatest number of teams possible,how many guards will be on each team?	GCD(32,80)=16; 80/16=5
-Dora is having her tenth birthday party next Saurday. She invited 64 people. Her mom ordered 36 sandwiches. 16 people can not come to the party.How many people will be at Dora's party?	64-16=48
-There are 124 students making 3 stars each for the school wall.How many stars will they make all together?	124*3=372
-The sum of two consecutive odd numbers is 20.Find the numbers.	x:The first number; x+(x+2)=20
-Last week Fred had 46 dollars and Jason had 13 dollars. Fred washed cars over the weekend and now has 57 dollars.How much money did Fred make washing cars ?	57-46=11
-When the building is done, they wanted to make it shine brightly in the night. To fix that, they commissioned 432 fireflies and 297 glow worms.How many animals worked in the lights?	432+297=729
-A ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each. In order to make the least number of groups,how many small groups should be made?	90/7=12 r6; 6/3=2
-A garden has 52 rows and 15 columns of bean plants.How many plants are there in all?	52*15=780
-Jane's dad brought home 24 marble potatoes. If Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband,how many potatoes did each of them have?	24/3=8
-Rupert and Ronald aced their math test. So their mother bought for them a wonderful trampoline yesterday. Ronald jumped 157 times on the trampoline. Rupert jumped 86 more times than Ronald.How many times did they jump altogether?	(157+86)+157=400
-A number plus itself, plus twice itself, plus 4 times itself, is equal to 104.What is the number?	x:The number; x+x+2x+4x=104
-There were eight red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now fourteen red roses in the vase.How many red roses did she cut ?	14-8=6
-Skittles come in packages of 6. Juan ate 24 Skittles.How many Skittles does he have left?	24/6=4 r0
-At the zoo, I see 35 elephants and 48 tigers.How many legs do I see?	(35+48)*4=332
-There were fifty-eight people on the train. At the next stop forty-five people got off.How many people are there on the train now? 	58-45=13
-For a birthday party Cody bought thirty regular sodas and five diet sodas. If his fridge would only hold seven on each shelf,how many shelves would he fill up?	(30+5)/7=5
-The teacher gave 29 gold stickers to the first student, 35 gold stickers to the second student, 41 gold stickers to the third student, 47 gold stickers to the fourth student, and 53 gold stickers to the fifth student. If this pattern continues,how many gold stickers will the teacher give to the sixth student?	29, 35, 41, 47, 53, 59
-Abigail's mom said she will be home from work in 65 minutes. It is 4:27 p.m., and Abigail has dance practice at 6:00 p.m.How much time will Abigail have between the time that her mom gets home from work and the beginning of dance practice?	4*60 (min/hour) + 27 (min) = 267 (min); 267 (min) + 65 (min) = 332 (min); 6*60 (min/hour) - 332 (min) = 28 (min)
-Daniel has 44 commemorative plates and 33 commemorative spoons. He wants to display them in groups throughout his house, each with the same combination of plates and spoons, with none left over.What is the greatest number of groups Daniel can display?	GCD(44,33)=11
-The angles of a triangle are in the ratio 1:2:3.Find each angle of the triangle.	x+2x+3x=180
-A mailman has to give twenty-eight pieces of junk mail to each block. If there are four houses on a block,how many pieces of junk mail should he give each house?	28/4=7
-There's only a week left before Christmas. John went out to buy gifts for his family. Having $999.00 for his budget, he went to a sports store and bought his brother a new pair of shoes for $165.00.How much money does he have left?	999-165=834
-Zach scored 42 points in the football game. Ben scored 21 points.How many more points did Zach score?	42-21=21
-Mr. Lee gave out first place ribbons after each event. He had 38 ribbons at the start. He gave away 14 ribbons in the morning. He gave out 16 ribbons in the afternoon.How many ribbons did Mr. Lee have left?	38-14-16=8
-Marian also prepared 59 croissants which she plans to give to her 8 neighbors. If each neighbor received and equal number of croissants,how many will be left with Marian?	59/8=7 r3
-For an art show, an artist painted 153 pictures. During the show he sold 72 of his pictures.What is the ratio of pictures he still has to pictures he sold?	153-72=81; 81:72=9:8
+An event has 12 adults and 20 children. The event planner wants to make each table identical, with the same combination of adults and children and no people left over.What is the greatest number of tables the planner can set up?	GCD(12,20)=4
+This year on your 11th birthday your mother tells you that she is exactly 3 times as old as you are.How old is she?	11*3=33
+Alyssa has 30 books in her library. She bought several books at a yard sale over the weekend. She now has 88 books in her library.How many books did she buy at the yard sale ?	88-30=58
+Emily is making bead necklaces for her friends. She has twenty-eight beads and each necklace takes seven beads.How many necklaces can Emily make?	28/7=4
+Jerry had eleven cherries. He ate eight of them.How many cherries does Jerry have left? 	11-8=3
+Lana had eleven DS games. If she bought two more games,how many would she have total?	11+2=13
+There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students,how many does each student get?	1720/43=40
+A lawn had an area of 20 square feet. If it was 5 feet width,how long was it?	20/5=4
+Tommy's dog is 24 cm tall. Sara's pet dog is 12 cm taller than Tommy's.Who has the taller dog?	24 cm(Tommy) < 24+12=36 cm(Sara)
+15 students split 122 portfolios of paintings. Each student should get the same number of portfolios.How many portfolios of paintings will each of them get?	122/15=8 r2
+Rita, Peter, and Skeeter are penguins. They weigh 90 pounds altogether. Rita and Peter know they weigh the same amount. Peter and Skeeter know they weigh 68 pounds together.How much does Skeeter weigh?	S:Skeeter's weight; 68+(90-S)/2=90
+There are 13 different books in the 'Crazy Silly School' series. If you read 9 of the books,how many more do you still have to read?	13-9=4
+Jenny and her family just moved into a new city and today would be her first day on a new school. She wanted to make sure that she is well rested so she made sure that she had 8 hours of sleep. If an hour is composed of 60 minutes,how many minutes of sleep did she have?	8*60=480
+Sam put 86 pretzels in a bowl for the party. His friends ate 49 of them. Sam put in 27 more pretzels.How many pretzels were in the bowl then?	86-49+27=64
+Charlie, an aspiring inventor, is planning to make some wings to fulfill his dream to fly around the world. He started by collecting feathers. He needs 900 feathers and he already has 387.How many more feathers does he need to collect?	900-387=513
+Robyn and Lucy are members of their village's Girl Scout troop. During weekends and some weekdays, they go around selling cookies in the neighborhood. They have a week before the month ends and they are doing their best to get a badge from selling cookies. Working overtime, Robyn sold 47 packs of cookies while Lucy sold 29.How many packs of cookies were they able to sell that day?	47+29=76
+At the arcade, Jerry won 29 tickets playing 'whack a mole' and 17 tickets playing 'skee ball'. If he spent 12 of his tickets on a hat,how many tickets does Jerry have left? 	29+17-12=34
 Belle collected 97 animal stickers. Carolyn collected 18 fewer stickers than Belle.How many stickers did Carolyn collect?	97-18=79
-Because of the decision, Sofia asked the students to suggest specific types of food. If 279 students suggested adding mashed potatoes while 234 suggested adding bacon to the menu,how many students participated in the suggestion of new food items?	279+234=513
-Winter is almost here and most animals are migrating to warmer countries. There are 67 bird families living near the mountain. If 32 bird families flew away for winter,how many bird families were left near the mountain?	67-32=35
-A box can hold 18 pieces of chalk. If there are 3,484 pieces of chalk,how many boxes are full to hold all the chalk?	3484/18=193 r10
-While heating the wings, Charlie decided to make metal supports for the wings. If he needs 635 lbs of metal and he has 276 lbs in storage,how much additional metal does he need to buy?	635-276=359
-Still a little behind, Robyn asked her mother to drive them around town on Wednesday to cover more houses. That day Robyn sold 55 packs of cookies while Lucy sold 43.How many packs were they able to sell that day?	55+43=98
-Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears.How many fleas perished?	36+85=121
-The traffic lights at two road junctions change after every 72 seconds and 108 seconds respectively. If they change simultaneously at 9 a.m.,at what time will they change simultaneously again?	LCM[72,108]=216 seconds; 9*60*60=32400 seconds; (32400+216)/60/60=9 r216; 216/60=3 r36; hh:mm:ss=9:03:36 a.m.
-Jerry was weighing boxes for moving. The first was 2 pounds, the second was 11 pounds and the last was 5 pounds.What is the combined weight of all three boxes? 	2+11+5=18
-Annie is about to celebrate her birthday next week so her friends decided to throw her a surprise birthday party. Jessica, Annie's best friend, is hosting the party. She plans on making pizza for everyone. If she bought 15 pieces of pepperoni, 10 pieces of salami and 30 pieces of bacon as meat ingredients,how many pieces of meat did she buy in total?	15+10+30=55
-On the day of the awarding ceremony, Robyn and Lucy decided to sell more cookies during the morning to make sure they get the badge. Lucy sold 19 packs and Robyn sold 16.How many packs did they sell on their last day?	19+16=35
-The Vance family walked over to the post office. They bought 2 rooster stamps and 2 daffodil stamps.What's the difference between of the number of the two kinds of stamps?	2-2=0
-After the final bell rang, Buddy ran to the school bus with his new friends. On his ride home, he counted 36 students sitting on the left side of the bus and 27 sitting on the right.How many students are on the bus ride home?	36+27=63
-Professor Treehead of the Flora University requested his students to participate. He said that they planted 15 species of trees in the natural park, 20 species of trees in the neighboring forest and 10 species of trees all around different locations in town.How many species of trees were planted by the students?	15+10+20=45
-Anna has a total of 28 nickels and dimes in her piggy bank. She has 8 fewer nickels than dimes.How many dimes does Anna have?	y:The number of dimes; (y-8)+y=28
-Shannon is making identical balloon arrangements for a party. She has 32 maroon balloons, 24 white balloons, and 16 orange balloons. She wants each arrangement to have the same number of each color.What is the greatest number of arrangements that she can make if every balloon is used?	GCD(32,24,16)=8
-86 students are going hiking. Each school- bus can take 9 students.How many school-buses are needed?	86/9=9 r5
-Mrs. Hilt is baking bread. She needs 5 cups of flour to bake two loaves of bread.How much flour will she need to make one loaf of bread?	5/2=2.5
-A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats.How many cats do they have left? 	(13+5)-10=8
+The area of a rectangular garden is 1800 sq. ft.Find the width if its height measures 40 ft.	40*w=1800
+Charles found 6 pennies on his way to school. He also had 3 nickels already at home.How much money does he now have in all?	6 (penny)*1 (cent/penny) + 3 (nickel)*5 (cent/nickel) = 21 (cent)
+The weight of 4 watermelons is 5 kg 200 g. The total weight of 3 such watermelons and 4 pineapples is 5 kg 700 g.How much heavier is a watermelon than a pineapple?	(5200/4)-((5700-(5200/4)*3)/4)=850
+Molly swam 45 meters on Saturday. She swam 28 meters on Sunday. The pool is 25 meters long.How many meters did Molly swim in all?	45+28=73
+After the aviary was the zoo's swamp area. Penny counted a total of 55 tree frogs, 10 poison frogs and 13 wood frogs.How many frogs was Penny able to count?	55+10+13=78
+Mrs. Wilson, the math teacher, has 18 logic puzzles and 9 visual puzzles that she wants to group into sets for students who finish their tests early. Mrs. Wilson wants each set to be identical, containing the same combination of logic puzzles and visual puzzles, with no puzzles left over.What is the greatest number of sets she can create?	GCD(18,9)=9
+A square traffic sign has a perimeter of 16 feet.How long is each side of the traffic sign?	16/4=4
+Next on his checklist are wax glues to stick the feathers together. If the feathers require 469 g of wax and right now he just needs 257 g,how many grams of wax glue does he already have?	469-257=212
+Helen's mother brought 101 hotdogs. After a few hours, Dylan's mother arrived with 379 hotdogs.How many hotdogs do they have altogether?	101+379=480
+A car dealer sold 14 cars on the first day, 16 cars on the second day, and 27 cars on the third day.How many cars did the car dealer sell on the 3 days?	14+16+27=57
+The ratio of white chocolate to dark chocolate sold at a candy shop was 4:3. If there were 20 bars of white chocolate sold,how many bars of dark chocolate were sold?	4:3=20:15
+Hanson left for work at six o'clock in the morning. He got stuck in traffic and didn't arrive until twenty past seven in the morning.How many hours did it take Hanson to get to work?	(7*60 (min/hour) + 20 (min))-(6*60 (min/hour)) = 80 (min); 80/60 (min/hour) = 1.33 (hour)
+The weight of 2 bags of chips is 800 g. The total weight of 5 such bags of chips and 4 bottles of juice is 2 kg 200 g.How much heavier is a bag of chips than a bottle of juice?	(800/2)-((2200-(800/2)*5)/4)=350
+There were eight red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now fourteen red roses in the vase.How many red roses did she cut ?	14-8=6
+A farm was 7 miles wide and 8 miles long.What is the area of the farm?	7*8=56
+To encourage public transportation, Russom wants to give some friends envelopes with bus tickets and subway tickets in them. If he has 18 bus tickets and 12 subway tickets to split equally among the envelopes, and wants no tickets left over,what is the greatest number of envelopes Russom can make?	GCD(18,12)=6
+I read 21 pages of my English book yesterday. Today, I read 17 pages.What is the total number of pages did I read?	21+17=38
+At the carnival, nine friends bought eight hundred sixty-five tickets. If they wanted to split all the tickets so each friend got the same amount,how many more tickets would they need to buy?	865/9=96 r1; 9-1=8
+Two boys have 480 marbles between them. One arranges them in heaps of 6 marbles and the other in heaps of 9 each. If the total number of heaps is 72,how many marbles does each have?	x:Heaps of 6 marbles; y:Heaps of 9 marbles; 6x+9y=480; x+y=72
+Julia played tag with 12 kids on Monday. She played tag with 7 kids on Tuesday.How many kids did she play with altogether?	12+7=19
+Vanessa had saved up eight hundred fifty-five quarters and decided to spend them on sodas. If it costs seven quarters for each soda from a soda machine,how many more quarters would she need to buy the final soda?	855/7=122 r1; 7-1=6
+April's discount flowers was having a sale where each rose was 4 dollars. If April started with 13 roses and had 4 roses left,how much money did she earn?	(13-4)*4=36
+The saucer for Mika's teacup has a radius of 3 centimeters.What is the saucer's area?	3^2*3.14=28.26
+A fast food restaurant had ninety-nine hotdogs. After selling some they had ninety-seven left.How many hotdogs did they sell? 	99-97=2
+Jake set up a candy stand in his front yard. He has 80 pieces of candy to sell. He sold 15 pieces of candy on Monday. He sold much more than that on Tuesday. By Wednesday, Jakes only had 7 pieces left.How many pieces of candy did Jake sell on Tuesday?	80-15-7=58
+Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. If forty-eight of the flowers wilted before the wedding,how many bouquets could she still make?	(88-48)/5=8
+Each table in a break room can seat eight people. If the break room has four tables,how many people can sit in there?	8*4=32
+In one week, an airplane pilot flew 1,134 miles on Tuesday and 1,475 miles on Thursday. If the pilot flies the same number of miles 3 weeks in a row,how many miles does he fly in all?	(1134+1475)*3=7827
+Lucy has 212 fish.How many more fish does she need to buy to have 280 fish?	280-212=68
+Vanessa had to complete 3 pages of homework. Each page had 4 problems on it.How many problems did she have to complete total?	3*4=12
+Alex's fishing rod is 250 cm long. Jim's fishing rod is 20 cm longer than Alex's.Who has the longer fishing rod?	250 cm(Alex) < 250+20=270 cm(Jim)
+For the second main course, they were asked to make 500 pieces of fish fillets. If the first team made 189 pieces and the second team made 131 pieces,how many pieces should the third team make?	500-(189+131)=180
+A rectangular roof shingle is 10 inches long and 7 inches wide.What is its area?	10*7=70
+Zoe picked five apples from her tree. Now the tree has six apples still on it.What's the difference between the number of apples Zoe picked and now the tree has?	6-5=1
+The perimeter of a college basketball court is 96 meters and the length is 14 meters more than the width.What are the dimensions?	x:The length of the court; y:The width of the court; 2x+2y=96; x=y+14
+Austin is putting stickers in a sticker book. He put 8 stickers on the first page, 16 stickers on the second page, 24 stickers on the third page, and 32 stickers on the fourth page. If this pattern continues,how many stickers will Austin put on the fifth page?	8, 16, 24, 32, 40
+Mrs. Hilt saw an iPod for sale. The price tag said the iPod cost $128, but a sign announced that it was on sale for "35% off."How much would the iPod cost after the discount?	128-(128*0.35)=83.2
+Tom's schoolbag is 55 cm long. Alex's schoolbag is 15 cm shorter than Tom's.Who has the smaller schoolbag?	55 cm(Tom) > 55-15=40 cm(Alex)
+The coach of a cricket team buys 7 bats and 6 balls for $3800. Later, he buys 3 bats and 5 balls for $1750.Find the cost of each bat and each ball.	x:Cost of each bat; y:Cost of each ball; 7x+6y=3800; 3x+5y=1750
+Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta.What is the greatest number of miles a day each can bike if they want to cover equal distances each day?	GCD(840,440)=40
+Heather enjoys bird-watching and observed two types of birds traveling this season: ducks and seagulls. While the ducks traveled in flocks of 18, the seagulls traveled in flocks of 10. If Heather observed the same total number of ducks and seagulls,what is the smallest number of ducks that she could have observed?	LCM[18,10]=90
+Allen, Charles, Lex and Shiela spent days reading books for their book report. The texts were printed very small so they were only able to cover very few pages a day. Allen read about the Solar System. He read 10 pages a day of a book which has 120 pages.How many days did it take Allen to finish reading the book?	120/10=12
+Nancy picked 12 carrots from her garden. If she threw out 2 of them and then picked 21 more the next day,how many carrots would she have total?	12-2+21=31
+Candies come in packages of 4. Shirley ate 10 candies.How many candies does she have left?	10/4=2 r2
+A regular octagon whose sides measure 3 ft each.Find the perimeter. 	8*3=24
+Sam had eleven friends over for his birthday party. Later three of his friends had to go home.How many friends were left?	11-3=8
+Debby had twelve pieces of candy. After eating some, she had three pieces.How many pieces did Debby eat? 	12-3=9
+For a party Adam bought ninety-seven cupcakes. If fifty-eight were eaten,how many cupcakes would Adam have left? 	97-58=39
+Mayor Harvey wanted to add color to the party. He bought 7 flowers each representing the 7 colors of the rainbow. If he had 70 bouquets of flowers for each color,how many bouquets are there in all?	7*70=490
+Sushi's father bought x lollipops. 5 were eaten by the the children. If 7 lollipops are left,how many lollipops did sushi's father bring?	x:Lollipops that Sushi's father bought; x=5+7
+Oceanside Bike Rental Shop charges a 17 dollar fixed fee plus 7 dollars an hour for renting a bike. Mary paid 80 dollars to rent a bike.How many hours did she pay to have the bike checked out ?	x:Dollars for renting an hour; 17+7x=80
+Mrs. Smith gave 53 strawberries to 8 girls equally.How many strawberries were left?	53/8=6 r5
+The perimeter of two squares ABCD and PQRS are 3:2 respectively. The sums of the perimeters of the squares are 30.Find the perimeter of ABCD and PQRS.	x:The perimeter of ABCD; y:The perimeter of PQRS; 2x=3y; x+y=30
+A pet store was selling mice 2 for $5.34. If they ended up selling 7 mice,how much money would they have earned?	(5.34/2)*7=18.69
+During summer break, 564,237 kids from Lawrence County go to camp, and the other 495,718 kids stay home.About how many kids are in Lawrence County?	564237+495718=1059955
+Edward earned 8 dollars for every lawn he mowed. If he mowed 5 lawns and he already had 7 dollars saved up,how much money does he have total?	5*8+7=47 
+A chef used five potatoes to make fries for the lunch crowd. Later he used another two potatoes for the dinner crowd.How many potatoes did he use total?	5+2=7
+A pet store had sixty-eight gerbils. If they sold fourteen of them,what's the difference between the number of gerbils that they had before selling and they sold?	68-14=54
+Mario made 18 posters to help advertise the fair. Samantha made 15 more posters than Mario.How many posters did they make altogether?	18+(18+15)=51
+There are 757 pounds of sand to be filled into bags. If each bag has a capacity of 65 pounds,how many pounds of sand are there in the bag that is not full?	757/65=11 r42
+Their next opponent was the Green Team. If their final score is 68 points and they led by 29 points,what is Green Team's final score?	68-29=39
+Sarah bought 8 new shirts for school. If she already had 9 shirts,how many did she own total?	8+9=17
+While building the house, Charlie noticed that they were running out of nails so he told his father he's going to buy some. If they still have 9 nails left and Charlie bought 2 boxes of nails, the big one containing 55 nails and the small one containing 31,how many nails will they have?	9+31+55=95
+Hamilton school maintains library with 81 English books and 90 Math books.Find the ratio of number of English books to the number of Math books.	81:90=9:10
+89 cookies are being shared equally among 4 people.How many does each person get?	89/4=22 r1
+Victor and his friend were buying trick decks from the magic shop for eight dollars each.How much did they spend if Victor bought six decks and his friend bought two decks?	(6+2)*8=64
+It is 4:12 p.m. Emma's mom will be home from work in 70 minutes, and Emma has gymnastics lessons at 6:00 p.m.How much time will Emma have between the time that her mom gets home from work and the beginning of gymnastics lessons?	4*60 (min/hour) + 12 (min) = 252 (min); 252 (min) + 70 (min) = 322 (min); 6*60 (min/hour) - 322 (min) = 38 (min)
+Maria stored ninety-three cloves of garlic in the kitchen. She used eighty-six for roast chicken for dinner.How many cloves of garlic does she have left?	93-86=7
+There are 16 bicycles and 7 tricycles in the storage area at Braden's apartment building. Each bicycle has 2 wheels and each tricycle has 3 wheels.How many wheels are there in all?	(2*16)+(3*7)=53
+If the group was able to make 65 recycled materials from what they gathered and the teachers were able to make 28,how many recycled products will they be able to sell at the fair?	65+28=93
+Brian has zero fewer oranges than Marcie. Marcie has 12 oranges.How many oranges does Brian have? 	12-0=12
+The store has CD's and DVD's that you need.How many packs of DVD's can you buy with 132 dollars if one pack costs 12 dollars ?	132/12=11
+A number machine changes the value of the numbers placed inside it. My number machine will add 15 to a number and then subtract 6 from the sum. If I put in the number 68,what number will come out of the machine?	68+15-6=77
+At the Cooper wedding, 12 guests sat on the groom's side and 15 guests sat on the bride's side. At the Patterson wedding, 11 guests sat on the groom's side and 14 guests sat on the bride's side.Which wedding had a higher ratio of guests of the groom to guests of the bride?	12/15(The Cooper wedding) > 11/14(The Patterson wedding)
+Chloe and her friends were recycling paper for their class. For every six pounds they recycled they earned 1 point. If Chloe recycled twenty-eight pounds and her friends recycled two pounds,how many points did they earn?	(28+2)/6=5
+The perimeter of a rectangular cutting board is 50 inches. It is 10 inches wide.How long is it?	(50/2)-10=15
+If five is subtracted from three times a certain number, the result is 10.What is the number?	x:The certain number; 3x-5=10
+Coach Mike bought several cups of lemonade. The girls told him it would cost 58 cents. The coach gave the girls 75 cents.How much change did Coach Mike get back?	75-58=17
+Anthony gets 75 cents every day for lunch. He bought a juice box for 27 cents. He also bought a cupcake. Anthony had 8 cents left.How much did the cupcake cost?	75-27-8=40
+After 15 years, Ariel will be four times as old as she is now.Determine her present age.	x:Ariel's present age; 4x=x+15
+A clown had sixteen balloons. He gave four away at a party.What's the difference between the number of balloons the clown had in the beginning and he gave away at a party?	16-4=12
+Wendy was playing a video game where she scores five points for each treasure she finds. If she found four treasures on the first level and three on the second,what would her score be?	(4+3)*5=35
+At the toy store you could get 2 board games for $13.40. Online the price for 7 board games is $47.67.Which place has the highest price for a board game?	13.40/2=6.7(Toy store) < 47.67/7=6.81(Online)
+Carmen is creating lollipop bouquets using 4 cherry lollipops and 6 orange lollipops. She wants each bouquet to be identical, with no lollipops left over.What is the greatest number of lollipop bouquets Carmen can create?	GCD(4,6)=2
+After collecting materials, they started making recycled products to sell during the school's recycling fair. If Marcus made 26 pen holders from the milk bottles and Annie was able to make 37,how many pen holders were made?	26+37=63
+There are 5 people on the Green Bay High track team. If a relay race is 150 meters long, and all 5 team members participate,how far will each team member have to run?	150/5=30
+A classroom had 35 glue sticks. If the ratio of glue sticks to glue bottles was 5:2,how many glue bottles did the classroom have?	5:2=35:14
+A radio station is having a promotion in which every 12th caller receives a free concert ticket and every 15th caller receives a limo ride.Which caller will be the first one to win both?	LCM[12,15]=60
+There are 35 eggs in Margaret's egg collection. If the eggs are organized into 5 groups,how big is each group?	35/5=7
+Greg wants to buy a $90 scooter. He has saved $57 so far.How much more money does Greg need?	90-57=33
+There were 27 boys and 35 girls on the playground at recess.How many children were on the playground at recess?	27+35=62
 Ned mowed his lawn six times in the spring and five times in the summer.How many times did he mow total?	6+5=11
-At Jake's stables there are 10 stallions and 15 mares. At Bridget's stables there are 17 stallions and 18 mares.Where is there a lower ratio of stallions to mares?	10/15=66.667%(Jake's stables) < 17/18=94.444%(Bridget's stables)
+A restaurant added a new outdoor section that was 4 feet wide and 6 feet long.What is the area of their new outdoor section?	4*6=24
+Donna and her friend found some money. They split the money evenly, each getting $32.50.How much money did they find?	32.5*2=65.0
+Laura has 28 blocks and 8 cards. If she shares the blocks among 4 friends,how many blocks does each friend get?	28/4=7
+There are 40 students in the school band. If the band instructor put the students into rows with 5 students in each row,how many rows could he make?	40/5=8
+James had 39 stickers. He got some more stickers for his birthday. Then he had 61 stickers.How many stickers did James get for his birthday?	61-39=22
+The second angle of a triangle is double the first. The third angle is 40 less than the first.Find the three angles.	x:The second angle of a triangle; y:The first angle of a triangle; 2y=x; 180-(x+y)=x-40
+To add support on the house's connections, he decided to tie the wood joints with rope. He needs 185 feet of rope. If he has 46 feet of rope with him and at the moment he only needed 57 feet,how many feet of rope did his friends give to him?	185-(57+46)=82
+John was given $14.00 in order to buy a gift. This covered half of the cost.How much did the gift cost?	14.0*2=28.0
+Finally, she planned on going to the Halloween party in the village club house. She wanted to make sure that she will have the perfect costume so she rented 4 different costumes from the Halloween store. If each costume rent costs $2.00,how much did she spend on all the costumes?	4*2=8
+Before she went home, she bought t-shirts, key chains and handmade bracelets as souvenirs. She spent $347.00 on key chains and bracelets which is $146.00 more than she spent on t-shirts.How much money did she spend on all the souvenirs?	(347-146)+347=548
+Mr. Johnson used 80 meters of fencing to enclose a rectangular garden. The length of the garden is 25 meters.How wide is the garden?	(80-(25*2))/2=15
+At the fair Megan had $17 to spend. She spent $6 on rides.How much money does she have left? 	17-6=11
+Richard and Bruno played miniature golf. Richard's score was 62. Bruno's score was 14 points lower than Richard's score.What was Bruno's score?	62-14=48
+Adam had to wash fourteen loads of clothes. By noon he had only washed eight loads.How many does he still need to wash?	14-8=6
+Lucy went to the grocery store. She bought 12 packs of cookies and 16 packs of noodles.How many packs of groceries did she buy in all?	12+16=28
+A waiter had sixty-two customers in his section. If seventeen of them left and the rest of his tables had nine people at each table,how many tables did he have?	(62-17)/9=5
+Amy's dad was taking everyone out to eat for her birthday. They spent 5 dollars on the adults and 5 dollars on the kids.How much did it cost for everyone?	5+5=10
+There are some children at a bakery. As they were deciding what to buy, 24 girls came in and 31 boys left. If there are 78 children in the bakery in the end,how many children were there at first?	78+31-24=85
+If Tom plans to fix 158 watches at the rate of 12 watches per day,how many watches will he fix on the last day?	158/12=13 r2
+Mrs. Hilt has $10. She spends $3 on a toy truck and $2 on a pencil case.How much money does she have left?	10-(3+2)=5
+Rick and Todd have the same number of candy bars. Rick ate 11 candy bars. Todd gave away 18 of his candy bars.How many more candy bars did Rick have than Todd then?	18-11=7
+Mrs. Hilt bought carnival tickets. The tickets cost $1 for 4 tickets. If Mrs. Hilt bought 12 tickets,how much did she pay?	12/4=3
+A baker has a pan of fudge that measures 18 inches on one side and 29 inches on another side. If the fudge is cut into square pieces 1 inch on each side,how many pieces of fudge does the pan hold?	18*29=522
+John can read 4 books a day. He reads every Monday and Tuesday.How many books would he read in 6 weeks?	(4+4)*6=48
+Last week Adam ran 25 miles more than Katie. Adam ran 35 miles.How many miles did Katie run?	35-25=10
+Next on his list is the nursing home near his office. There he 472 boxes of vitamins and 288 boxes of supplements.How many boxes of medicine did the nursing home receive from Mr. Anderson?	472+288=760
+The radio station gave away a $100 bill for every 100th caller. Every 30th caller received free concert tickets.How many callers must get through before one of them receives both a coupon and a concert ticket?	LCM[100,30]=300
+Lawrence has 5504 marbles. If he shares them among 64 friends,how many marbles does each friend get?	5504/64=86
+Joan is baking a cake. The recipe calls for 7 cups of flour. She already put in 3 cups.How many more cups does she need to add ?	7-3=4
+There were 86 trees in a park. 15 of them died and another 23 of them were cut.How many trees were still left?	86-15-23=48
+Jason had 27 peaches and 17 pears left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 90 peaches at the stand,how many did he pick ?	90-27=63
+Jake bought a book of tickets for the rides at Fun Land. 8 of the tickets were red. There were twice as many blue tickets as red tickets. Jake used all 6 of his yellow tickets first.How many tickets did Jake buy in all?	8*2=16; 8+16+6=30
+The elephant had 407 peanuts. She ate 129 of them.How many peanuts did the elephant have left?	407-129=278
+Tom already had 2 pieces of candy. His friend gave him 7 more and then Tom bought another 10.How many pieces does Tom have now? 	2+7+10=19
+Miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls. Each package contained 7 bouncy balls.How many more packs of red bouncy balls than yellow bouncy balls did Miki buy?	4-3=1
+One stamp costs $0.34. Two stamps cost $0.68. Three stamps cost $1.02. If the cost of each stamp remains the same,how much would 4 stamps cost?	1.02+0.34=1.36
+One bright sunny day, Betty decided to make bracelets from beautiful stones she bought from a local store. She bought 88 pink flower stones and wanted to make 8 bracelets out of these stones.How many pink flower stones will each bracelet have if she used the same number of stones in each bracelet?	88/8=11
+If a number is subtracted from 32, the digits of 32 are interchanged.Find the number.	x:The number; x-32=23
+Adam has $5.00 to buy an airplane that costs $4.28.How much change will he get?	5.00-4.28=0.72
+While organizing her files, Bianca deleted 2 pictures, 8 songs and 7 text files.What is the total number of files she deleted? 	2+8+7=17
+Veronica is making emergency-preparedness kits to share with friends. She has 20 bottles of water and 12 cans of food, which she would like to distribute equally among the kits, with nothing left over.What is the greatest number of kits Veronica can make?	GCD(20,12)=4
+Mary sold 9 boxes of Do-Si-Dos.How many cases of 6 boxes, plus extra boxes does Mary need to deliver?	9/6=1 r3
+Mr. Lee harvested 495 apples and he packed them evenly in some baskets. If there are 25 apples in each basket,how many baskets of apples are there?	495/25=19 r20
+Mark, Dean's friend, decided to go for a boat ride. If the ride costs $8.00 for every mile and they travelled for 40 miles,how much would the ride cost Mark?	8*40=320
+Amanda and her friends decided to go to an amusement park for the weekend. The nearest amusement park from their city is Super Fun-tastic Land. If they cover a distance of 27 miles for every hour of travel and they travelled for 3 hours,how far is SFL from the city?	27*3=81
+A movie theater needed four hundred twenty-six popcorn buckets. If each package has eight buckets in it,how many packages will they need to buy?	426/8=53 r2
+In an isosceles triangle one of the angles of a triangle is 54 degrees.Find the base angles of the triangle.	54+2x=180
+Caitlin is on the 13th step of a giant slide. She walked down 4 steps to talk to her friend Dana. Then she walked up 12 steps to the top.How many steps does the giant slide have?	13-4+12=21
+Edward started his own lawn mowing business. In the spring he made 2 dollars mowing lawns and in the summer he made 27 dollars. If he had to spend 5 dollars buying supplies,how much money did he end up with? 	2+27-5=24
+A piece of square paper has a perimeter of 32 centimeters. Nicky's dog, Rocky, tore off 1/4 of the paper.What is the area of the remaining paper?	(32/4)^2*(1-(1/4))=48
+Thrice the sum of a number and 2 equals 24 added with the same number.Write algebraic equation and find the number.	x:The number; 3*(x+2)=24+x
+Bryan has always been fond of studying rocks and minerals. He has a room full of books about and samples of the different types of rocks. One particular day, he went in the room to take a look at his mineral samples. If he has 65 samples of minerals per shelf, and he has a total of 7 shelves,how many mineral samples does he have?	65*7=455
+Next on his list is the famous Empire State Building. There he learned that the building stands 1250 feet to the top floor and the antenna spire is 204 feet.How tall is the Empire State Building?	1250+204=1454
+A garden has 52 rows and 15 columns of bean plants.How many plants are there in all?	52*15=780
+Using the $834.00 left from buying the shoes, he went to a fashion store to buy a dress for his sister. If the dress costs $129.00,how much money does he have left with him?	834-129=705
+Martha bought 18 small cakes. She has 3 children. She would like to divide the cakes among her children so that each child gets the same amount.How many cakes would each child get?	18/3=6
+Robin is making bead necklaces. She wants to use 31 beads to make 4 necklaces. If she wants each necklace to have the same number of beads,how many beads will she have left over?	31/4=7 r3
+A rectangular piece of metal is 16 centimeters wide and 19 centimeters long.What is its perimeter?	(16+19)*2=70
+At lunch a waiter had 10 customers and 5 of them didn't leave a tip. If he got $3 each from the ones who did tip,how much money did he earn?	(10-5)*3=15
+The teacher gave 42 pencils to 12 students equally.How many pencils are left?	42/12=3 r6
+Charles was curious about Greek mythology and so he read 8 pages a day of a 96-page book entitled "Greek Mythology: Fast Facts."How many days did it take Charles to finish the book?	96/8=12
+Mrs. Randall has taught third grade for 18 years. She has 26 students this year. She also taught second grade for 8 years.How many years has Mrs. Randall been teaching?	18+8=26
+Edward had beaten 24 levels in a video game. If the ratio of levels he had beaten to not beaten was 3:1,how many levels does the game have total?	3:4=24:32
+At a bus stop five people got off the bus. Now there were ninety people on the bus.What's the difference between the number of people getting off the bus and still on the bus?	90-5=85
+A rectangle had a length of 2 inches and a width of 4 inches.What is the area of the rectangle?	2*4=8
+They entered the circus tent and saw that there are four seating sections for the audience. If each section can accommodate 246 people,how many people can the tent accommodate in total?	4*246=984
+Haley bought 11 new shirts for school. If she returned 6 of them,how many did she end up with?	11-6=5
+For a birthday party Cody bought thirty regular sodas and five diet sodas. If his fridge would only hold seven on each shelf,how many shelves would he fill up?	(30+5)/7=5
+Two angles of a triangle are the same size. The third angle is 12 degrees smaller than the first angle.Find the measure the angles.	x:The first angle of a triangle; y:The second angle of a triangle; x=y; 180-(x+y)=x-12
+The map led them through the forest and into a cave. To open the cave doors, they need to put weights on the switch. If the switch already has 234 lbs. of weights and the total needed is 712 lbs.,how much more weight to they need to add?	712-234=478
+Mrs. Hilt saw 33 butterflies. Some of the butterflies were red and others were orange. If 20 of the butterflies were orange,how many of them were red?	33-20=13
+Adam earned 9 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 8 of them,how much money did he actually earn?	(12-8)*9=36
+Audrey has 26 peaches. Paul has 48 peaches.What's the difference of the number of Audrey's peaches and Paul's peaches?	48-26=22
+Cindy had 41 pieces of candy. She ate six pieces in the morning, and twelve more pieces in the afternoon.How many pieces of candy does she have left?	41-6-12=23
+The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit,how many extra did the cafeteria end up with? 	(25+17)-10=32
+Jerry had to sell boxes of candy. He started out with 10 boxes and then sold 5.How many boxes did he have left?	10-5=5
+Mrs. Hilt had 15 cents. She bought a pencil for 11 cents.How much money did she have left?	15-11=4
+A produce store offers red and green apples. In one morning they sold 77 apples total. If 7 of the apples they sold were red,what is the ratio of green apples sold to red apples sold?	77-7=70; 70:7=10:1
+Oliver collected two seashells from the beach on Monday and two more on Tuesday.How many seashells did Oliver collect all together?	2+2=4
+Before reaching the mountains, Stanley stopped over a car shop to buy new tires for the road. If he bought four tires each for $60.00,how much did he spend for tires in total?	4*60=240
+Jenny goes to dance class every 6 days, karate class every 12 days, and to the library every 18 days. On December 1st she went to both classes and the libary.How many days from December 1st will she do both classes and go to the library?	LCM[6,12,18]=36
+Jovana filled her bucket with 5 pounds of shells. If a friend comes to add 15 pounds of shells, and another friend comes to add 17 pounds of shells,how many pounds does she have altogether?	5+15+17=37
+532 people are watching a movie in a theater. The theater has 750 seats.How many seats are empty in the theater?	750-532=218
+9 boys went to water trees. There were 29 trees. If each of them watered the equal amount of trees,how many trees did each boy water?	29/9=3 r2
+The buses from stop A to stop B set out every 20 minutes. The buses from stop A to stop C set out every 15 minutes. The buses from stop A to stop D set out every 10 minutes. If three buses for stop B, C and D set out together at 2:45,at what time will another three buses for the three stops set out together again?	(2*60 (min/hour) + 45) + LCM[20,15,10] + 0 = 225 (min); 225/60 (min/hour)=3 r45; hh:mm=3:45
+Wendy bought 84 inches of ribbon. She used 46 inches to wrap presents.How much ribbon did Wendy have left?	84-46=38
+The sum of two numbers is 35. Their difference is 13.Find the numbers.	x:One of the numbers; (35-x)-x=13
+Ava bagged the plastic bottles after a recycling drive. She placed 45 bottles in the first bag, 53 bottles in the second bag, 61 bottles in the third bag, and 69 bottles in the fourth bag. If this pattern continues,how many plastic bottles will Ava put in the fifth bag?	45, 53, 61, 69, 77
+Alex, Brad, Calvin, and Dennis are playing checkers. Each of the 4 boys played 2 games with every other player.How many games of checkers were played altogether?	4*(1+2)=12
+For the frosting and final touches, Willie will need to have 300 lbs. of whipped cream. If he got 149 lbs. of cream from his farm,how much more cream is needed to be bought?	300-149=151
+Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures.How many pictures does she still have to color? 	(44+44)-20=68
+Fred bought five new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only twenty-six cards left.How many cards did Fred start with ?	x:The number of cards that Fred started with; (x+5)-(x+5)/2=26
+Rachel bought seven new chairs and three new tables for her house. If she spent four minutes on each piece furniture putting it together,how many minutes did it take her to finish?	(7+3)*4=40
+Four weeks has passed. It's time for Dean to go home. Before they left, seven of them bought some souvenirs. Each of them spent $90.00 buying gifts.How much did all of them spend altogether?	7*90=630
+650 lollipops are to be distributed to 42 kids. If all the kids share all of the lollipops equally,at least how many more lollipops are needed?	650/42=15 r20; 42-20=22
+At a bake sale there were 104 items sold total. If 48 of the items sold were cookies and the rest were brownies,what is the ratio of brownies sold to cookies sold?	104-48=56; 56:48=7:6
+Paige uploaded thirty-five pictures to Facebook. She put fourteen pics into one album and put the rest into three different albums.How many pictures were in each of the three albums?	(35-14)/3=7
+Mrs. Hilt made 5 Rice Krispie Treats. She used 8 large marshmallows and 10 mini marshmallows.How many marshmallows did she use altogether?	8+10=18
+Kathleen is a dental sales representative who wants to distribute 18 brochures and 12 pamphlets to local dental offices. She wants to deliver the same combination of brochures and pamphlets to each office, without having any materials left over.What is the greatest number of dental offices Kathleen can distribute materials to?	GCD(18,12)=6
+Mika measures the lens on a magnifying glass and calculates that it has a circumference of 31.4 centimeters.What is the lens's diameter?	31.4/3.14=10
+Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears.How many fleas perished?	36+85=121
+Michael has some fish in his fish tank. Ben gave him 18 more fish. Now he has 49.How many fish did he have to begin with?	49-18=31
+Sweet Time Bakery just opened and is increasing the number of items they bake. For example, the bakery made 19 carrot cakes in October, 21 carrot cakes in November, 23 carrot cakes in December, and 25 carrot cakes in January. If this pattern continues,how many carrot cakes will the bakery make in February?	19, 21, 23, 25, 27
+The parents are making sandwiches for the class picnic. They have 72 turkey slices, 48 cheese slices, and 96 tomato slices.What is the greatest number of sandwiches they can make if each sandwich has the same filling?	GCD(72,48)=24
+Vanessa uploaded twenty-three pictures from her phone and seven from her camera to Facebook. If she sorted the pics into five different albums with the same amount of pics in each album,how many pictures were in each of the albums?	(23+7)/5=6
+A square garden has a perimeter of 48 meters. A pond inside the garden has an area of 20 square meters.What is the area of the garden that is not taken up by the pond?	((48/4)^2)-20=124
+Irene's Bakery sells muffins in packages of 18 and cookies in packages of 5. Going through yesterday's receipts, a store manager notices that the bakery sold the same number of muffins and cookies yesterday afternoon.What is the smallest number of muffins that the bakery could have sold?	LCM[18,5]=90
+There were 22 bales of hay in the barn. Keith stacked more bales in the barn today. There are now 89 bales of hay in the barn.How many bales did he store in the barn ?	89-22=67
+There are 96 cupcakes for 8 children to share.How much will each person get if they share the cupcakes equally?	96/8=12
+Winnie completed eighty-six consecutive repetitions for rope jumping yesterday. Today she completed only seventy-three.How many repetitions did she fell behind?	86-73=13
+She also tried to get to know the teachers in the school. She found out that there are 7 departments in the school and each department has 20 teachers.How many teachers are there in total?	7*20=140
+Jake has six fewer peaches than Steven. Steven has 13 peaches.How many peaches does Jake have? 	13-6=7
+Mrs. Hilt measured her bookcase. It was 48 inches long.How many feet long was the bookcase?	48/12=4
+There are 100 books on a shelf. 32 of them are history books, 25 of them are geography books and the rest are math books.How many math books are there on the shelf?	(100-32)-25=43
