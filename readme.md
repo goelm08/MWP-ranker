@@ -29,10 +29,12 @@ npm start
 ```bash cd backend && pip install -r requirements.txt && && cd src python pipeline.py```
 
 ### environment
-OS: Ubuntu 16.04.4 LTS
-Gcc version: 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10)
-GPU: TITAN Xp
-CUDA: 8.0
+
+1. OS: Ubuntu 20.04.2 LTS
+2. G++ version: 9.4.0
+3. CPU: AMD EPYC 7763 64-Core Processor
+3. GPU: NVIDIA A100-SXM4-40GB
+4. CUDA: 11.6
 
 ### reference
 If you found this repo useful, please consider citing our paper:
