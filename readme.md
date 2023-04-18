@@ -1,5 +1,6 @@
 # frontend application
 
+The app is deployed at https://tekstar.in/mwpranker.php
 ### start the frontend application
 
 ```bash
