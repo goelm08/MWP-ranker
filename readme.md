@@ -38,7 +38,7 @@ npm start
 4. CUDA: 11.6
 
 ### hyperparameters for model
-It is initialized using a uniform distribution with a range of -0.8 to 0.8 using the function init.uniform_(param, -0.8, 0.8).
+parameters of decoder, encoder and attention decoder are initialized using a uniform distribution with a range of -0.8 to 0.8 using the function init.uniform_(param, -0.8, 0.8).
 
 
 ### reference
