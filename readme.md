@@ -37,5 +37,9 @@ npm start
 3. GPU: NVIDIA A100-SXM4-40GB
 4. CUDA: 11.6
 
+### hyperparameters for model
+It is initialized using a uniform distribution with a range of -0.8 to 0.8 using the function init.uniform_(param, -0.8, 0.8).
+
+
 ### reference
 If you found this repo useful, please consider citing our paper:
