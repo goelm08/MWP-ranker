@@ -1,0 +1,10 @@
+Flask==2.2.2
+networkx==2.8.6
+numpy==1.23.3
+pandas==1.4.4
+pycorenlp==0.3.0
+pythonds==1.2.1
+scipy==1.9.1
+sympy==1.11.1
+torch==1.12.1+cu116
+tqdm==4.64.1
