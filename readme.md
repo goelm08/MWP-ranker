@@ -60,3 +60,12 @@ parameters of decoder, encoder and attention decoder are initialized using a uni
 
 ### reference
 If you found this repo useful, please consider citing our paper:
+
+## Sample test questions
+a florist had 3 roses . if she sold 2 of them and then later picked 1 more , how many roses would she have ?
+mrs . hilt bought 2 pizzas . each pizza had 1 slices . how many total slices of pizza did she have ?
+the length of a rectangular field is 1 meters . this is 2 meters less than twice the width . find the width .
+juan ran 1 miles at 2 miles per hour . how long did juan run ?
+seven times a number added to 1 amounts to 3 less than the product of 2 and the number .
+sandy has 1 dozen books . fred has 2 times more books than sandy . how many books does fred have ?
+a vase can hold 2 flowers . if you had 3 carnations and 1 roses , how many vases would you need to hold the flowers ?
